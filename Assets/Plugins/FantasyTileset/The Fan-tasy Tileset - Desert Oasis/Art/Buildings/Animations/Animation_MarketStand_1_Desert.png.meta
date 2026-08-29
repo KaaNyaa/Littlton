@@ -1,0 +1,2418 @@
+fileFormatVersion: 2
+guid: f10053e9cd69839429bd3699c512fab9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2909691588481228091
+    second: Animation_MarketStand_1_Desert_0
+  - first:
+      213: -6725494321689942042
+    second: Animation_MarketStand_1_Desert_1
+  - first:
+      213: -2819005587003986972
+    second: Animation_MarketStand_1_Desert_2
+  - first:
+      213: 7394822396535758323
+    second: Animation_MarketStand_1_Desert_3
+  - first:
+      213: 9154234837350664799
+    second: Animation_MarketStand_1_Desert_4
+  - first:
+      213: 4407963259069892993
+    second: Animation_MarketStand_1_Desert_5
+  - first:
+      213: -5296437477810976174
+    second: Animation_MarketStand_1_Desert_6
+  - first:
+      213: 556308900551257800
+    second: Animation_MarketStand_1_Desert_7
+  - first:
+      213: 8056160081332272431
+    second: Animation_MarketStand_1_Desert_8
+  - first:
+      213: -3742591663696119684
+    second: Animation_MarketStand_1_Desert_9
+  - first:
+      213: 8251673682294014899
+    second: Animation_MarketStand_1_Desert_10
+  - first:
+      213: -598289437109742666
+    second: Animation_MarketStand_1_Desert_11
+  - first:
+      213: -1395531548997624454
+    second: Animation_MarketStand_1_Desert_12
+  - first:
+      213: 5981127741217008005
+    second: Animation_MarketStand_1_Desert_13
+  - first:
+      213: -5978263716819151778
+    second: Animation_MarketStand_1_Desert_14
+  - first:
+      213: -8182768858087505697
+    second: Animation_MarketStand_1_Desert_15
+  - first:
+      213: 7937370691384831088
+    second: Animation_MarketStand_1_Desert_16
+  - first:
+      213: 1531565913275400232
+    second: Animation_MarketStand_1_Desert_17
+  - first:
+      213: 7482557777561146436
+    second: Animation_MarketStand_1_Desert_18
+  - first:
+      213: 4759405836321279129
+    second: Animation_MarketStand_1_Desert_19
+  - first:
+      213: 1914216096995616913
+    second: Animation_MarketStand_1_Desert_20
+  - first:
+      213: -3342566785643818103
+    second: Animation_MarketStand_1_Desert_21
+  - first:
+      213: 5027031797147963119
+    second: Animation_MarketStand_1_Desert_22
+  - first:
+      213: 1255884734817675700
+    second: Animation_MarketStand_1_Desert_23
+  - first:
+      213: -2586165186343409041
+    second: Animation_MarketStand_1_Desert_24
+  - first:
+      213: -4912492388992800795
+    second: Animation_MarketStand_1_Desert_25
+  - first:
+      213: -4548860491192754895
+    second: Animation_MarketStand_1_Desert_26
+  - first:
+      213: 6860019241029691533
+    second: Animation_MarketStand_1_Desert_27
+  - first:
+      213: 7952240756983367801
+    second: Animation_MarketStand_1_Desert_28
+  - first:
+      213: 6299109533985157938
+    second: Animation_MarketStand_1_Desert_29
+  - first:
+      213: 3746507525091271205
+    second: Animation_MarketStand_1_Desert_30
+  - first:
+      213: -5406901673403942045
+    second: Animation_MarketStand_1_Desert_31
+  - first:
+      213: 9071370649877422345
+    second: Animation_MarketStand_1_Desert_32
+  - first:
+      213: -3143793134226152320
+    second: Animation_MarketStand_1_Desert_33
+  - first:
+      213: 7382288777268885611
+    second: Animation_MarketStand_1_Desert_34
+  - first:
+      213: 5216663923347715344
+    second: Animation_MarketStand_1_Desert_35
+  - first:
+      213: -7781447349595298862
+    second: Animation_MarketStand_1_Desert_36
+  - first:
+      213: 5394272752885193136
+    second: Animation_MarketStand_1_Desert_37
+  - first:
+      213: -2815289034487878897
+    second: Animation_MarketStand_1_Desert_38
+  - first:
+      213: -2906538571772538066
+    second: Animation_MarketStand_1_Desert_39
+  - first:
+      213: 7859927366053214254
+    second: Animation_MarketStand_1_Desert_40
+  - first:
+      213: 7473440519236189367
+    second: Animation_MarketStand_1_Desert_41
+  - first:
+      213: 6081983748945283142
+    second: Animation_MarketStand_1_Desert_42
+  - first:
+      213: 8001779372355981168
+    second: Animation_MarketStand_1_Desert_43
+  - first:
+      213: -8035392663785901596
+    second: Animation_MarketStand_1_Desert_44
+  - first:
+      213: 6872334147475626692
+    second: Animation_MarketStand_1_Desert_45
+  - first:
+      213: 398447968880184811
+    second: Animation_MarketStand_1_Desert_46
+  - first:
+      213: -7604682286597514360
+    second: Animation_MarketStand_1_Desert_47
+  - first:
+      213: -7724615050169598648
+    second: Animation_MarketStand_1_Desert_48
+  - first:
+      213: -3047425611966207102
+    second: Animation_MarketStand_1_Desert_49
+  - first:
+      213: -1190870833965098718
+    second: Animation_MarketStand_1_Desert_50
+  - first:
+      213: -76169000978135985
+    second: Animation_MarketStand_1_Desert_51
+  - first:
+      213: -866548475446482832
+    second: Animation_MarketStand_1_Desert_52
+  - first:
+      213: 9003820023982801841
+    second: Animation_MarketStand_1_Desert_53
+  - first:
+      213: -603115677169143877
+    second: Animation_MarketStand_1_Desert_54
+  - first:
+      213: -1860298800365516832
+    second: Animation_MarketStand_1_Desert_55
+  - first:
+      213: -2493771506709234621
+    second: Animation_MarketStand_1_Desert_56
+  - first:
+      213: 8780133725270926803
+    second: Animation_MarketStand_1_Desert_57
+  - first:
+      213: -5363836077085742097
+    second: Animation_MarketStand_1_Desert_58
+  - first:
+      213: -5793638463701109960
+    second: Animation_MarketStand_1_Desert_59
+  - first:
+      213: -20533010217366901
+    second: Animation_MarketStand_1_Desert_60
+  - first:
+      213: 2134639717289332811
+    second: Animation_MarketStand_1_Desert_61
+  - first:
+      213: -6381862989653112597
+    second: Animation_MarketStand_1_Desert_62
+  - first:
+      213: 141580763630241207
+    second: Animation_MarketStand_1_Desert_63
+  - first:
+      213: -4198623180348090861
+    second: Animation_MarketStand_1_Desert_64
+  - first:
+      213: -306278779309795176
+    second: Animation_MarketStand_1_Desert_65
+  - first:
+      213: 2796271715307824838
+    second: Animation_MarketStand_1_Desert_66
+  - first:
+      213: -7780426597839118871
+    second: Animation_MarketStand_1_Desert_67
+  - first:
+      213: 2290390386576332007
+    second: Animation_MarketStand_1_Desert_68
+  - first:
+      213: -8952710213305063514
+    second: Animation_MarketStand_1_Desert_69
+  - first:
+      213: -3002749131741770426
+    second: Animation_MarketStand_1_Desert_70
+  - first:
+      213: 6091458921937006287
+    second: Animation_MarketStand_1_Desert_71
+  - first:
+      213: -2480198595243752952
+    second: Animation_MarketStand_1_Desert_72
+  - first:
+      213: 4349034146924412755
+    second: Animation_MarketStand_1_Desert_73
+  - first:
+      213: -6578249719502110489
+    second: Animation_MarketStand_1_Desert_74
+  - first:
+      213: 4328590702989714333
+    second: Animation_MarketStand_1_Desert_75
+  - first:
+      213: -8880095909370764476
+    second: Animation_MarketStand_1_Desert_76
+  - first:
+      213: 426194419742679357
+    second: Animation_MarketStand_1_Desert_77
+  - first:
+      213: 8410336201355481502
+    second: Animation_MarketStand_1_Desert_78
+  - first:
+      213: 7865324154333287013
+    second: Animation_MarketStand_1_Desert_79
+  - first:
+      213: 8322970200611961867
+    second: Animation_MarketStand_1_Desert_80
+  - first:
+      213: 2090027583186856416
+    second: Animation_MarketStand_1_Desert_81
+  - first:
+      213: 1374071446751070136
+    second: Animation_MarketStand_1_Desert_82
+  - first:
+      213: -2311503894006783710
+    second: Animation_MarketStand_1_Desert_83
+  - first:
+      213: -7097809352892389396
+    second: Animation_MarketStand_1_Desert_84
+  - first:
+      213: 6715793886877282584
+    second: Animation_MarketStand_1_Desert_85
+  - first:
+      213: 3909438379579402332
+    second: Animation_MarketStand_1_Desert_86
+  - first:
+      213: -5457664842197246140
+    second: Animation_MarketStand_1_Desert_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c262ae9ae2be97d0800000000000000
+      internalID: -2909691588481228091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7a3c03c8e3aa2a0800000000000000
+      internalID: -6725494321689942042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb29c6ba51e0e8d0800000000000000
+      internalID: -2819005587003986972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fddd9a4acfaf9660800000000000000
+      internalID: 7394822396535758323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5acac655106a0f70800000000000000
+      internalID: 9154234837350664799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18985dfca3b3c2d30800000000000000
+      internalID: 4407963259069892993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ac208fc264f76b0800000000000000
+      internalID: -5296437477810976174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceeeb26ff768b700800000000000000
+      internalID: 556308900551257800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dfd7d19ea3dcf60800000000000000
+      internalID: 8056160081332272431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78fd0206b4af0cc0800000000000000
+      internalID: -3742591663696119684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3039bae75d38270800000000000000
+      internalID: 8251673682294014899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b394344de272b7f0800000000000000
+      internalID: -598289437109742666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d5525337312ace0800000000000000
+      internalID: -1395531548997624454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5896973cdfb310350800000000000000
+      internalID: 5981127741217008005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e545361e2d0f80da0800000000000000
+      internalID: -5978263716819151778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0c096e317f07e80800000000000000
+      internalID: -8182768858087505697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ce69ef694372e60800000000000000
+      internalID: 7937370691384831088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82080e26517314510800000000000000
+      internalID: 1531565913275400232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4445ed687a267d760800000000000000
+      internalID: 7482557777561146436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cc9d7446ecc0240800000000000000
+      internalID: 4759405836321279129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19822c4f569a09a10800000000000000
+      internalID: 1914216096995616913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9835ea7d731dc91d0800000000000000
+      internalID: -3342566785643818103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee099ff8ca93c540800000000000000
+      internalID: 5027031797147963119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9a4a9238ccd6110800000000000000
+      internalID: 1255884734817675700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ae48117781c1cd0800000000000000
+      internalID: -2586165186343409041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e72640233253dbb0800000000000000
+      internalID: -4912492388992800795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d95a1fb733fd0c0800000000000000
+      internalID: -4548860491192754895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d886bed572fa33f50800000000000000
+      internalID: 6860019241029691533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9788060f5d80c5e60800000000000000
+      internalID: 7952240756983367801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233367e3fbeea6750800000000000000
+      internalID: 6299109533985157938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522a4658eb44ef330800000000000000
+      internalID: 3746507525091271205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bfa453393d6f4b0800000000000000
+      internalID: -5406901673403942045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90129db3b8bf3ed70800000000000000
+      internalID: 9071370649877422345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084632b0dc00f54d0800000000000000
+      internalID: -3143793134226152320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68f676a788237660800000000000000
+      internalID: 7382288777268885611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0157cbff230556840800000000000000
+      internalID: 5216663923347715344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3a7f80ddeb20490800000000000000
+      internalID: -7781447349595298862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b95a491d7e4cda40800000000000000
+      internalID: 5394272752885193136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b2c470a851ee8d0800000000000000
+      internalID: -2815289034487878897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23d6878196e9a7d0800000000000000
+      internalID: -2906538571772538066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2839f5bb42141d60800000000000000
+      internalID: 7859927366053214254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc75176e8ef6b760800000000000000
+      internalID: 7473440519236189367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6480595fefb876450800000000000000
+      internalID: 6081983748945283142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f8354a1f70c0f60800000000000000
+      internalID: 8001779372355981168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1f24412fc8c7090800000000000000
+      internalID: -8035392663785901596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca5216fe7f6f5f50800000000000000
+      internalID: 6872334147475626692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed449e0152978500800000000000000
+      internalID: 398447968880184811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b56ad60cdb67690800000000000000
+      internalID: -7604682286597514360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d3104e987acc490800000000000000
+      internalID: -7724615050169598648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ba3574d8e55b5d0800000000000000
+      internalID: -3047425611966207102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2291328394d297fe0800000000000000
+      internalID: -1190870833965098718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f444dc972b461fef0800000000000000
+      internalID: -76169000978135985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0782b54b0c669f3f0800000000000000
+      internalID: -866548475446482832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b34b078b9ef3fc70800000000000000
+      internalID: 9003820023982801841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf2ddfac7d41a7f0800000000000000
+      internalID: -603115677169143877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7c02ce814ee26e0800000000000000
+      internalID: -1860298800365516832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cfa97f608546dd0800000000000000
+      internalID: -2493771506709234621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5633f9a1d49d970800000000000000
+      internalID: 8780133725270926803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb21e7b183df85b0800000000000000
+      internalID: -5363836077085742097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8333e06638cd89fa0800000000000000
+      internalID: -5793638463701109960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a03d3065d07bff0800000000000000
+      internalID: -20533010217366901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4098785383cf9d10800000000000000
+      internalID: 2134639717289332811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be883886c611f67a0800000000000000
+      internalID: -6381862989653112597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5853354fef6f100800000000000000
+      internalID: 141580763630241207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31691a5767e7bb5c0800000000000000
+      internalID: -4198623180348090861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898dffca211efbbf0800000000000000
+      internalID: -306278779309795176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6256e4f4a5ec620800000000000000
+      internalID: 2796271715307824838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed5cc25b3f560490800000000000000
+      internalID: -7780426597839118871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e41adcebe919cf10800000000000000
+      internalID: 2290390386576332007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7a0f69e7591c380800000000000000
+      internalID: -8952710213305063514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d4bece2971456d0800000000000000
+      internalID: -3002749131741770426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce60f59d95398450800000000000000
+      internalID: 6091458921937006287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802c21ea480949dd0800000000000000
+      internalID: -2480198595243752952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f3973b38fda5c30800000000000000
+      internalID: 4349034146924412755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e08341bbbc55b4a0800000000000000
+      internalID: -6578249719502110489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93a2cd7f4e321c30800000000000000
+      internalID: 4328590702989714333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4436e86b1df83c480800000000000000
+      internalID: -8880095909370764476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31240211952ae500800000000000000
+      internalID: 426194419742679357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91d66b173487b470800000000000000
+      internalID: 8410336201355481502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562d55665ae372d60800000000000000
+      internalID: 7865324154333287013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c33abec41218370800000000000000
+      internalID: 8322970200611961867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9ee927305410d10800000000000000
+      internalID: 2090027583186856416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7ca9f53bea11310800000000000000
+      internalID: 1374071446751070136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2212bcc8473ebefd0800000000000000
+      internalID: -2311503894006783710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce76765dff38f7d90800000000000000
+      internalID: -7097809352892389396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8117f0455fa433d50800000000000000
+      internalID: 6715793886877282584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58eb1e3e7d114630800000000000000
+      internalID: 3909438379579402332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_1_Desert_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fd1b1fdba7244b0800000000000000
+      internalID: -5457664842197246140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_MarketStand_1_Desert_0: -2909691588481228091
+      Animation_MarketStand_1_Desert_1: -6725494321689942042
+      Animation_MarketStand_1_Desert_10: 8251673682294014899
+      Animation_MarketStand_1_Desert_11: -598289437109742666
+      Animation_MarketStand_1_Desert_12: -1395531548997624454
+      Animation_MarketStand_1_Desert_13: 5981127741217008005
+      Animation_MarketStand_1_Desert_14: -5978263716819151778
+      Animation_MarketStand_1_Desert_15: -8182768858087505697
+      Animation_MarketStand_1_Desert_16: 7937370691384831088
+      Animation_MarketStand_1_Desert_17: 1531565913275400232
+      Animation_MarketStand_1_Desert_18: 7482557777561146436
+      Animation_MarketStand_1_Desert_19: 4759405836321279129
+      Animation_MarketStand_1_Desert_2: -2819005587003986972
+      Animation_MarketStand_1_Desert_20: 1914216096995616913
+      Animation_MarketStand_1_Desert_21: -3342566785643818103
+      Animation_MarketStand_1_Desert_22: 5027031797147963119
+      Animation_MarketStand_1_Desert_23: 1255884734817675700
+      Animation_MarketStand_1_Desert_24: -2586165186343409041
+      Animation_MarketStand_1_Desert_25: -4912492388992800795
+      Animation_MarketStand_1_Desert_26: -4548860491192754895
+      Animation_MarketStand_1_Desert_27: 6860019241029691533
+      Animation_MarketStand_1_Desert_28: 7952240756983367801
+      Animation_MarketStand_1_Desert_29: 6299109533985157938
+      Animation_MarketStand_1_Desert_3: 7394822396535758323
+      Animation_MarketStand_1_Desert_30: 3746507525091271205
+      Animation_MarketStand_1_Desert_31: -5406901673403942045
+      Animation_MarketStand_1_Desert_32: 9071370649877422345
+      Animation_MarketStand_1_Desert_33: -3143793134226152320
+      Animation_MarketStand_1_Desert_34: 7382288777268885611
+      Animation_MarketStand_1_Desert_35: 5216663923347715344
+      Animation_MarketStand_1_Desert_36: -7781447349595298862
+      Animation_MarketStand_1_Desert_37: 5394272752885193136
+      Animation_MarketStand_1_Desert_38: -2815289034487878897
+      Animation_MarketStand_1_Desert_39: -2906538571772538066
+      Animation_MarketStand_1_Desert_4: 9154234837350664799
+      Animation_MarketStand_1_Desert_40: 7859927366053214254
+      Animation_MarketStand_1_Desert_41: 7473440519236189367
+      Animation_MarketStand_1_Desert_42: 6081983748945283142
+      Animation_MarketStand_1_Desert_43: 8001779372355981168
+      Animation_MarketStand_1_Desert_44: -8035392663785901596
+      Animation_MarketStand_1_Desert_45: 6872334147475626692
+      Animation_MarketStand_1_Desert_46: 398447968880184811
+      Animation_MarketStand_1_Desert_47: -7604682286597514360
+      Animation_MarketStand_1_Desert_48: -7724615050169598648
+      Animation_MarketStand_1_Desert_49: -3047425611966207102
+      Animation_MarketStand_1_Desert_5: 4407963259069892993
+      Animation_MarketStand_1_Desert_50: -1190870833965098718
+      Animation_MarketStand_1_Desert_51: -76169000978135985
+      Animation_MarketStand_1_Desert_52: -866548475446482832
+      Animation_MarketStand_1_Desert_53: 9003820023982801841
+      Animation_MarketStand_1_Desert_54: -603115677169143877
+      Animation_MarketStand_1_Desert_55: -1860298800365516832
+      Animation_MarketStand_1_Desert_56: -2493771506709234621
+      Animation_MarketStand_1_Desert_57: 8780133725270926803
+      Animation_MarketStand_1_Desert_58: -5363836077085742097
+      Animation_MarketStand_1_Desert_59: -5793638463701109960
+      Animation_MarketStand_1_Desert_6: -5296437477810976174
+      Animation_MarketStand_1_Desert_60: -20533010217366901
+      Animation_MarketStand_1_Desert_61: 2134639717289332811
+      Animation_MarketStand_1_Desert_62: -6381862989653112597
+      Animation_MarketStand_1_Desert_63: 141580763630241207
+      Animation_MarketStand_1_Desert_64: -4198623180348090861
+      Animation_MarketStand_1_Desert_65: -306278779309795176
+      Animation_MarketStand_1_Desert_66: 2796271715307824838
+      Animation_MarketStand_1_Desert_67: -7780426597839118871
+      Animation_MarketStand_1_Desert_68: 2290390386576332007
+      Animation_MarketStand_1_Desert_69: -8952710213305063514
+      Animation_MarketStand_1_Desert_7: 556308900551257800
+      Animation_MarketStand_1_Desert_70: -3002749131741770426
+      Animation_MarketStand_1_Desert_71: 6091458921937006287
+      Animation_MarketStand_1_Desert_72: -2480198595243752952
+      Animation_MarketStand_1_Desert_73: 4349034146924412755
+      Animation_MarketStand_1_Desert_74: -6578249719502110489
+      Animation_MarketStand_1_Desert_75: 4328590702989714333
+      Animation_MarketStand_1_Desert_76: -8880095909370764476
+      Animation_MarketStand_1_Desert_77: 426194419742679357
+      Animation_MarketStand_1_Desert_78: 8410336201355481502
+      Animation_MarketStand_1_Desert_79: 7865324154333287013
+      Animation_MarketStand_1_Desert_8: 8056160081332272431
+      Animation_MarketStand_1_Desert_80: 8322970200611961867
+      Animation_MarketStand_1_Desert_81: 2090027583186856416
+      Animation_MarketStand_1_Desert_82: 1374071446751070136
+      Animation_MarketStand_1_Desert_83: -2311503894006783710
+      Animation_MarketStand_1_Desert_84: -7097809352892389396
+      Animation_MarketStand_1_Desert_85: 6715793886877282584
+      Animation_MarketStand_1_Desert_86: 3909438379579402332
+      Animation_MarketStand_1_Desert_87: -5457664842197246140
+      Animation_MarketStand_1_Desert_9: -3742591663696119684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

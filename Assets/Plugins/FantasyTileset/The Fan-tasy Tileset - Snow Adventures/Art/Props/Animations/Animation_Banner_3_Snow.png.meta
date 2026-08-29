@@ -1,0 +1,2418 @@
+fileFormatVersion: 2
+guid: bb5ed541ebe94e2479c6efcf34057737
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2915332011648378430
+    second: Animation_Banner_3_Snow_0
+  - first:
+      213: -230860104961378713
+    second: Animation_Banner_3_Snow_1
+  - first:
+      213: -578503591665983899
+    second: Animation_Banner_3_Snow_2
+  - first:
+      213: 7090962418290727503
+    second: Animation_Banner_3_Snow_3
+  - first:
+      213: -6820930540691878321
+    second: Animation_Banner_3_Snow_4
+  - first:
+      213: 9141979237727544722
+    second: Animation_Banner_3_Snow_5
+  - first:
+      213: 3686018601718134827
+    second: Animation_Banner_3_Snow_6
+  - first:
+      213: -5658552542327200605
+    second: Animation_Banner_3_Snow_7
+  - first:
+      213: -685134789474825308
+    second: Animation_Banner_3_Snow_8
+  - first:
+      213: 356672643228781387
+    second: Animation_Banner_3_Snow_9
+  - first:
+      213: 3320378667957063987
+    second: Animation_Banner_3_Snow_10
+  - first:
+      213: -3913617106367172940
+    second: Animation_Banner_3_Snow_11
+  - first:
+      213: 765390444684272595
+    second: Animation_Banner_3_Snow_12
+  - first:
+      213: -1572655845806385391
+    second: Animation_Banner_3_Snow_13
+  - first:
+      213: -6035859745602105904
+    second: Animation_Banner_3_Snow_14
+  - first:
+      213: -9081253847856809369
+    second: Animation_Banner_3_Snow_15
+  - first:
+      213: -5235851781968220275
+    second: Animation_Banner_3_Snow_16
+  - first:
+      213: 5496789440015928232
+    second: Animation_Banner_3_Snow_17
+  - first:
+      213: 7560420862101207912
+    second: Animation_Banner_3_Snow_18
+  - first:
+      213: 4779021471679624380
+    second: Animation_Banner_3_Snow_19
+  - first:
+      213: -1715140595669580324
+    second: Animation_Banner_3_Snow_20
+  - first:
+      213: 7552811120553484549
+    second: Animation_Banner_3_Snow_21
+  - first:
+      213: 5272017742945837701
+    second: Animation_Banner_3_Snow_22
+  - first:
+      213: 3066116630033514694
+    second: Animation_Banner_3_Snow_23
+  - first:
+      213: 3431084903164686676
+    second: Animation_Banner_3_Snow_24
+  - first:
+      213: 5578253667851872398
+    second: Animation_Banner_3_Snow_25
+  - first:
+      213: 2292222572644567545
+    second: Animation_Banner_3_Snow_26
+  - first:
+      213: 5182394946562836948
+    second: Animation_Banner_3_Snow_27
+  - first:
+      213: 7730630829531931836
+    second: Animation_Banner_3_Snow_28
+  - first:
+      213: -2678923028790934632
+    second: Animation_Banner_3_Snow_29
+  - first:
+      213: -5154972923729695964
+    second: Animation_Banner_3_Snow_30
+  - first:
+      213: -9133739439315400329
+    second: Animation_Banner_3_Snow_31
+  - first:
+      213: 5252222003988623428
+    second: Animation_Banner_3_Snow_32
+  - first:
+      213: -222418367089262049
+    second: Animation_Banner_3_Snow_33
+  - first:
+      213: -678606440608027196
+    second: Animation_Banner_3_Snow_34
+  - first:
+      213: -3317806940152483877
+    second: Animation_Banner_3_Snow_35
+  - first:
+      213: -8609622971576493676
+    second: Animation_Banner_3_Snow_36
+  - first:
+      213: 1486995747146000016
+    second: Animation_Banner_3_Snow_37
+  - first:
+      213: 2168865867107165616
+    second: Animation_Banner_3_Snow_38
+  - first:
+      213: -4443271989021638708
+    second: Animation_Banner_3_Snow_39
+  - first:
+      213: 2190845060337220074
+    second: Animation_Banner_3_Snow_40
+  - first:
+      213: -1927735296102738298
+    second: Animation_Banner_3_Snow_41
+  - first:
+      213: -2299653588413515270
+    second: Animation_Banner_3_Snow_42
+  - first:
+      213: 1135606001060222721
+    second: Animation_Banner_3_Snow_43
+  - first:
+      213: 5312366531934274856
+    second: Animation_Banner_3_Snow_44
+  - first:
+      213: 7194185537113565906
+    second: Animation_Banner_3_Snow_45
+  - first:
+      213: -5899143044306343771
+    second: Animation_Banner_3_Snow_46
+  - first:
+      213: -5050744118546140672
+    second: Animation_Banner_3_Snow_47
+  - first:
+      213: -4840352374770412281
+    second: Animation_Banner_3_Snow_48
+  - first:
+      213: 8199935111663709350
+    second: Animation_Banner_3_Snow_49
+  - first:
+      213: 4866436024268868500
+    second: Animation_Banner_3_Snow_50
+  - first:
+      213: -7477642914068510715
+    second: Animation_Banner_3_Snow_51
+  - first:
+      213: -1525795477919245302
+    second: Animation_Banner_3_Snow_52
+  - first:
+      213: -8048444808279875614
+    second: Animation_Banner_3_Snow_53
+  - first:
+      213: 1086753683289317599
+    second: Animation_Banner_3_Snow_54
+  - first:
+      213: 5567880904681599879
+    second: Animation_Banner_3_Snow_55
+  - first:
+      213: 475869093908023891
+    second: Animation_Banner_3_Snow_56
+  - first:
+      213: -6969958816753179067
+    second: Animation_Banner_3_Snow_57
+  - first:
+      213: -1590524297068839719
+    second: Animation_Banner_3_Snow_58
+  - first:
+      213: -458631098043470227
+    second: Animation_Banner_3_Snow_59
+  - first:
+      213: -6714591125742471618
+    second: Animation_Banner_3_Snow_60
+  - first:
+      213: -9001098242114833481
+    second: Animation_Banner_3_Snow_61
+  - first:
+      213: -1868581936001796086
+    second: Animation_Banner_3_Snow_62
+  - first:
+      213: 5919623459736319608
+    second: Animation_Banner_3_Snow_63
+  - first:
+      213: 6092114487887013009
+    second: Animation_Banner_3_Snow_64
+  - first:
+      213: 7499849700157028193
+    second: Animation_Banner_3_Snow_65
+  - first:
+      213: -2396941036203192067
+    second: Animation_Banner_3_Snow_66
+  - first:
+      213: 3490051744943527079
+    second: Animation_Banner_3_Snow_67
+  - first:
+      213: -7780275727003551651
+    second: Animation_Banner_3_Snow_68
+  - first:
+      213: -4072599520839221250
+    second: Animation_Banner_3_Snow_69
+  - first:
+      213: -4945880423066825774
+    second: Animation_Banner_3_Snow_70
+  - first:
+      213: -5344455493146711347
+    second: Animation_Banner_3_Snow_71
+  - first:
+      213: 8709041814708677817
+    second: Animation_Banner_3_Snow_72
+  - first:
+      213: -6793963264433663672
+    second: Animation_Banner_3_Snow_73
+  - first:
+      213: -8989198878746266679
+    second: Animation_Banner_3_Snow_74
+  - first:
+      213: 7825281570963461359
+    second: Animation_Banner_3_Snow_75
+  - first:
+      213: -890418605363475933
+    second: Animation_Banner_3_Snow_76
+  - first:
+      213: 8936142809080603662
+    second: Animation_Banner_3_Snow_77
+  - first:
+      213: 7688168298209878583
+    second: Animation_Banner_3_Snow_78
+  - first:
+      213: 3268825173228686826
+    second: Animation_Banner_3_Snow_79
+  - first:
+      213: -2771245204223004536
+    second: Animation_Banner_3_Snow_80
+  - first:
+      213: -6214250076668452095
+    second: Animation_Banner_3_Snow_81
+  - first:
+      213: 7905975740336938031
+    second: Animation_Banner_3_Snow_82
+  - first:
+      213: 4448318754549447458
+    second: Animation_Banner_3_Snow_83
+  - first:
+      213: -3786851848558327403
+    second: Animation_Banner_3_Snow_84
+  - first:
+      213: -8054733262103863384
+    second: Animation_Banner_3_Snow_85
+  - first:
+      213: 2839487415479008018
+    second: Animation_Banner_3_Snow_86
+  - first:
+      213: -7203914241610227858
+    second: Animation_Banner_3_Snow_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3660acb407557820800000000000000
+      internalID: 2915332011648378430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766b7fa25f1dbccf0800000000000000
+      internalID: -230860104961378713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e16756c0eb8f7f0800000000000000
+      internalID: -578503591665983899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a1dd9ffb8286260800000000000000
+      internalID: 7090962418290727503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e8274efcf2751a0800000000000000
+      internalID: -6820930540691878321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2952fb03ea5dede70800000000000000
+      internalID: 9141979237727544722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2834ee836e572330800000000000000
+      internalID: 3686018601718134827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a424bb6178c871b0800000000000000
+      internalID: -5658552542327200605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab471af989ed76f0800000000000000
+      internalID: -685134789474825308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b40c811e723f400800000000000000
+      internalID: 356672643228781387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3319d5f6eca541e20800000000000000
+      internalID: 3320378667957063987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bea71c1af900b9c0800000000000000
+      internalID: -3913617106367172940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d362e1ed863f9a00800000000000000
+      internalID: 765390444684272595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117d4cc27ddcc2ae0800000000000000
+      internalID: -1572655845806385391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd8e4d6a815c3ca0800000000000000
+      internalID: -6035859745602105904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a785b6db7e8f180800000000000000
+      internalID: -9081253847856809369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f20378b848657b0800000000000000
+      internalID: -5235851781968220275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab84495fd4884c40800000000000000
+      internalID: 5496789440015928232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bbefd97b20ce860800000000000000
+      internalID: 7560420862101207912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4bd6945be725240800000000000000
+      internalID: 4779021471679624380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5434727b89238e0800000000000000
+      internalID: -1715140595669580324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501e53892b9f0d860800000000000000
+      internalID: 7552811120553484549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582e7d17438f92940800000000000000
+      internalID: 5272017742945837701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0c01d74d80d8a20800000000000000
+      internalID: 3066116630033514694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451365f6a89ad9f20800000000000000
+      internalID: 3431084903164686676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88a453f720f96d40800000000000000
+      internalID: 5578253667851872398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f98c9cf84c9fcf10800000000000000
+      internalID: 2292222572644567545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d948a31fb09be740800000000000000
+      internalID: 5182394946562836948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb42fe3e7c7b84b60800000000000000
+      internalID: 7730630829531931836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_29
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8938d48e2bd82dad0800000000000000
+      internalID: -2678923028790934632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ba556207bd578b0800000000000000
+      internalID: -5154972923729695964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_31
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77941a06f507e3180800000000000000
+      internalID: -9133739439315400329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4407b3dc514a3e840800000000000000
+      internalID: 5252222003988623428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f124f1e6cafc9ecf0800000000000000
+      internalID: -222418367089262049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_34
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd2445a90b1596f0800000000000000
+      internalID: -678606440608027196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfa2ea9a28c4f1d0800000000000000
+      internalID: -3317806940152483877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_36
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499d329e589748880800000000000000
+      internalID: -8609622971576493676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096672be0ced2a410800000000000000
+      internalID: 1486995747146000016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_38
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b56466d30c591e10800000000000000
+      internalID: 2168865867107165616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_39
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccffbeddaa35652c0800000000000000
+      internalID: -4443271989021638708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9b15b89f1776e10800000000000000
+      internalID: 2190845060337220074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68650d636fe4f35e0800000000000000
+      internalID: -1927735296102738298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9f824de3df510e0800000000000000
+      internalID: -2299653588413515270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1071ff924ab72cf00800000000000000
+      internalID: 1135606001060222721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_44
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825cd94f63159b940800000000000000
+      internalID: 5312366531934274856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_45
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da28eb21a1e6d360800000000000000
+      internalID: 7194185537113565906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_46
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a867ecf7a8022ea0800000000000000
+      internalID: -5899143044306343771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_47
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002f9a2fbf628e9b0800000000000000
+      internalID: -5050744118546140672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7055712192d93dcb0800000000000000
+      internalID: -4840352374770412281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ace7f7f9850cc170800000000000000
+      internalID: 8199935111663709350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_50
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bc5b4d7cd098340800000000000000
+      internalID: 4866436024268868500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508cabd43631a3890800000000000000
+      internalID: -7477642914068510715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cd9bac81943dae0800000000000000
+      internalID: -1525795477919245302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_53
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef1420e61e2e4090800000000000000
+      internalID: -8048444808279875614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_54
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0aec297bce41f00800000000000000
+      internalID: 1086753683289317599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_55
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7833a33de26154d40800000000000000
+      internalID: 5567880904681599879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a89fd6b60aa9600800000000000000
+      internalID: 475869093908023891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_57
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5462354726bb54f90800000000000000
+      internalID: -6969958816753179067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_58
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc759a24925de9e0800000000000000
+      internalID: -1590524297068839719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_59
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eeb2e327d92a9f0800000000000000
+      internalID: -458631098043470227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_60
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36312252faf0d2a0800000000000000
+      internalID: -6714591125742471618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_61
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b33a52b6dca51380800000000000000
+      internalID: -9001098242114833481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08b6ee11a67116e0800000000000000
+      internalID: -1868581936001796086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_63
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876f6a15c2ab62250800000000000000
+      internalID: 5919623459736319608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_64
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194248d69d98b8450800000000000000
+      internalID: 6092114487887013009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_65
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167fdaef091d41860800000000000000
+      internalID: 7499849700157028193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_66
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df05d8db3da5cbed0800000000000000
+      internalID: -2396941036203192067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_67
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4571922972f6030800000000000000
+      internalID: 3490051744943527079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_68
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58fb5da278e60490800000000000000
+      internalID: -7780275727003551651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_69
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effb3f730583b77c0800000000000000
+      internalID: -4072599520839221250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_70
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db0b89a5f3bc5bb0800000000000000
+      internalID: -4945880423066825774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_71
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaea1d8b0ea4d5b0800000000000000
+      internalID: -5344455493146711347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_72
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcebb3536bbcd870800000000000000
+      internalID: 8709041814708677817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841d06e286ef6b1a0800000000000000
+      internalID: -6793963264433663672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_74
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c33df02f33ff3380800000000000000
+      internalID: -8989198878746266679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_75
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe410b0f02cf89c60800000000000000
+      internalID: 7825281570963461359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_76
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a49edfef894a3f0800000000000000
+      internalID: -890418605363475933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_77
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0429650a8e830c70800000000000000
+      internalID: 8936142809080603662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_78
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7322834655cd1ba60800000000000000
+      internalID: 7688168298209878583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_79
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed86231d233d5d20800000000000000
+      internalID: 3268825173228686826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_80
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88078c06b2f8a89d0800000000000000
+      internalID: -2771245204223004536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_81
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103abb2da7c82c9a0800000000000000
+      internalID: -6214250076668452095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_82
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c93a55c0ba7bd60800000000000000
+      internalID: 7905975740336938031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_83
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bb0acc65a9bbd30800000000000000
+      internalID: 4448318754549447458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_84
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59946adae46627bc0800000000000000
+      internalID: -3786851848558327403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_85
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af96cf16c6d73090800000000000000
+      internalID: -8054733262103863384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_86
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b71d792c2e76720800000000000000
+      internalID: 2839487415479008018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Snow_87
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fd17c4a2e860c90800000000000000
+      internalID: -7203914241610227858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_Banner_3_Snow_0: 2915332011648378430
+      Animation_Banner_3_Snow_1: -230860104961378713
+      Animation_Banner_3_Snow_10: 3320378667957063987
+      Animation_Banner_3_Snow_11: -3913617106367172940
+      Animation_Banner_3_Snow_12: 765390444684272595
+      Animation_Banner_3_Snow_13: -1572655845806385391
+      Animation_Banner_3_Snow_14: -6035859745602105904
+      Animation_Banner_3_Snow_15: -9081253847856809369
+      Animation_Banner_3_Snow_16: -5235851781968220275
+      Animation_Banner_3_Snow_17: 5496789440015928232
+      Animation_Banner_3_Snow_18: 7560420862101207912
+      Animation_Banner_3_Snow_19: 4779021471679624380
+      Animation_Banner_3_Snow_2: -578503591665983899
+      Animation_Banner_3_Snow_20: -1715140595669580324
+      Animation_Banner_3_Snow_21: 7552811120553484549
+      Animation_Banner_3_Snow_22: 5272017742945837701
+      Animation_Banner_3_Snow_23: 3066116630033514694
+      Animation_Banner_3_Snow_24: 3431084903164686676
+      Animation_Banner_3_Snow_25: 5578253667851872398
+      Animation_Banner_3_Snow_26: 2292222572644567545
+      Animation_Banner_3_Snow_27: 5182394946562836948
+      Animation_Banner_3_Snow_28: 7730630829531931836
+      Animation_Banner_3_Snow_29: -2678923028790934632
+      Animation_Banner_3_Snow_3: 7090962418290727503
+      Animation_Banner_3_Snow_30: -5154972923729695964
+      Animation_Banner_3_Snow_31: -9133739439315400329
+      Animation_Banner_3_Snow_32: 5252222003988623428
+      Animation_Banner_3_Snow_33: -222418367089262049
+      Animation_Banner_3_Snow_34: -678606440608027196
+      Animation_Banner_3_Snow_35: -3317806940152483877
+      Animation_Banner_3_Snow_36: -8609622971576493676
+      Animation_Banner_3_Snow_37: 1486995747146000016
+      Animation_Banner_3_Snow_38: 2168865867107165616
+      Animation_Banner_3_Snow_39: -4443271989021638708
+      Animation_Banner_3_Snow_4: -6820930540691878321
+      Animation_Banner_3_Snow_40: 2190845060337220074
+      Animation_Banner_3_Snow_41: -1927735296102738298
+      Animation_Banner_3_Snow_42: -2299653588413515270
+      Animation_Banner_3_Snow_43: 1135606001060222721
+      Animation_Banner_3_Snow_44: 5312366531934274856
+      Animation_Banner_3_Snow_45: 7194185537113565906
+      Animation_Banner_3_Snow_46: -5899143044306343771
+      Animation_Banner_3_Snow_47: -5050744118546140672
+      Animation_Banner_3_Snow_48: -4840352374770412281
+      Animation_Banner_3_Snow_49: 8199935111663709350
+      Animation_Banner_3_Snow_5: 9141979237727544722
+      Animation_Banner_3_Snow_50: 4866436024268868500
+      Animation_Banner_3_Snow_51: -7477642914068510715
+      Animation_Banner_3_Snow_52: -1525795477919245302
+      Animation_Banner_3_Snow_53: -8048444808279875614
+      Animation_Banner_3_Snow_54: 1086753683289317599
+      Animation_Banner_3_Snow_55: 5567880904681599879
+      Animation_Banner_3_Snow_56: 475869093908023891
+      Animation_Banner_3_Snow_57: -6969958816753179067
+      Animation_Banner_3_Snow_58: -1590524297068839719
+      Animation_Banner_3_Snow_59: -458631098043470227
+      Animation_Banner_3_Snow_6: 3686018601718134827
+      Animation_Banner_3_Snow_60: -6714591125742471618
+      Animation_Banner_3_Snow_61: -9001098242114833481
+      Animation_Banner_3_Snow_62: -1868581936001796086
+      Animation_Banner_3_Snow_63: 5919623459736319608
+      Animation_Banner_3_Snow_64: 6092114487887013009
+      Animation_Banner_3_Snow_65: 7499849700157028193
+      Animation_Banner_3_Snow_66: -2396941036203192067
+      Animation_Banner_3_Snow_67: 3490051744943527079
+      Animation_Banner_3_Snow_68: -7780275727003551651
+      Animation_Banner_3_Snow_69: -4072599520839221250
+      Animation_Banner_3_Snow_7: -5658552542327200605
+      Animation_Banner_3_Snow_70: -4945880423066825774
+      Animation_Banner_3_Snow_71: -5344455493146711347
+      Animation_Banner_3_Snow_72: 8709041814708677817
+      Animation_Banner_3_Snow_73: -6793963264433663672
+      Animation_Banner_3_Snow_74: -8989198878746266679
+      Animation_Banner_3_Snow_75: 7825281570963461359
+      Animation_Banner_3_Snow_76: -890418605363475933
+      Animation_Banner_3_Snow_77: 8936142809080603662
+      Animation_Banner_3_Snow_78: 7688168298209878583
+      Animation_Banner_3_Snow_79: 3268825173228686826
+      Animation_Banner_3_Snow_8: -685134789474825308
+      Animation_Banner_3_Snow_80: -2771245204223004536
+      Animation_Banner_3_Snow_81: -6214250076668452095
+      Animation_Banner_3_Snow_82: 7905975740336938031
+      Animation_Banner_3_Snow_83: 4448318754549447458
+      Animation_Banner_3_Snow_84: -3786851848558327403
+      Animation_Banner_3_Snow_85: -8054733262103863384
+      Animation_Banner_3_Snow_86: 2839487415479008018
+      Animation_Banner_3_Snow_87: -7203914241610227858
+      Animation_Banner_3_Snow_9: 356672643228781387
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

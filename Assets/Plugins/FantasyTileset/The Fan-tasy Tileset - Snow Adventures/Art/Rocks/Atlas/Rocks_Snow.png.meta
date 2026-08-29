@@ -1,0 +1,2470 @@
+fileFormatVersion: 2
+guid: 63aef21c1d296e74d889c6d936510720
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5144063616433920903
+    second: Rocks_Snow_0
+  - first:
+      213: 8262382400911565831
+    second: Rocks_Snow_1
+  - first:
+      213: -443668515362826632
+    second: Rocks_Snow_2
+  - first:
+      213: -2288243009532188244
+    second: Rocks_Snow_3
+  - first:
+      213: 5836111033273832604
+    second: Rocks_Snow_4
+  - first:
+      213: 7648764687711016644
+    second: Rocks_Snow_5
+  - first:
+      213: 2468518519761360933
+    second: Rocks_Snow_6
+  - first:
+      213: -7377144472187914901
+    second: Rocks_Snow_7
+  - first:
+      213: 4256658518842578075
+    second: Rocks_Snow_8
+  - first:
+      213: 7360146699913442117
+    second: Rocks_Snow_9
+  - first:
+      213: 5268499136831531021
+    second: Rocks_Snow_10
+  - first:
+      213: 4483977352658436128
+    second: Rocks_Snow_11
+  - first:
+      213: -6664207194583744834
+    second: Rocks_Snow_12
+  - first:
+      213: -3409352119005030118
+    second: Rocks_Snow_13
+  - first:
+      213: -8524821770661325162
+    second: Rocks_Snow_14
+  - first:
+      213: 5847172466304979876
+    second: Rocks_Snow_15
+  - first:
+      213: 4042153970131580240
+    second: Rocks_Snow_16
+  - first:
+      213: -2055416251698652694
+    second: Rocks_Snow_17
+  - first:
+      213: 672563225296049312
+    second: Rocks_Snow_18
+  - first:
+      213: -1817581448790392517
+    second: Rocks_Snow_19
+  - first:
+      213: -5331467401365658553
+    second: Rocks_Snow_20
+  - first:
+      213: -7730869045409205998
+    second: Rocks_Snow_21
+  - first:
+      213: 3949364575453200882
+    second: Rocks_Snow_22
+  - first:
+      213: 5115035193211103772
+    second: Rocks_Snow_23
+  - first:
+      213: 2130190723891356794
+    second: Rocks_Snow_24
+  - first:
+      213: 2427167473038910577
+    second: Rocks_Snow_25
+  - first:
+      213: -4163560773240580662
+    second: Rocks_Snow_26
+  - first:
+      213: 3868086849822225362
+    second: Rocks_Snow_27
+  - first:
+      213: 4888171205922618203
+    second: Rocks_Snow_28
+  - first:
+      213: 1686513565780002210
+    second: Rocks_Snow_29
+  - first:
+      213: 4449819226115066166
+    second: Rocks_Snow_30
+  - first:
+      213: -2016280539396149320
+    second: Rocks_Snow_31
+  - first:
+      213: 7673444794498042584
+    second: Rocks_Snow_32
+  - first:
+      213: -4952031022273785995
+    second: Rocks_Snow_33
+  - first:
+      213: 3880600722755563783
+    second: Rocks_Snow_34
+  - first:
+      213: -4378407579334635063
+    second: Rocks_Snow_35
+  - first:
+      213: 1494477447704631612
+    second: Rocks_Snow_36
+  - first:
+      213: 3811245169710694973
+    second: Rocks_Snow_37
+  - first:
+      213: 7305113495842159338
+    second: Rocks_Snow_38
+  - first:
+      213: -3868238777997986164
+    second: Rocks_Snow_39
+  - first:
+      213: -4320425244042685827
+    second: Rocks_Snow_40
+  - first:
+      213: -5321698815843326683
+    second: Rocks_Snow_41
+  - first:
+      213: 6371912866227916761
+    second: Rocks_Snow_42
+  - first:
+      213: 858110797091136440
+    second: Rocks_Snow_43
+  - first:
+      213: -8693789208548585281
+    second: Rocks_Snow_44
+  - first:
+      213: -6811565692417879768
+    second: Rocks_Snow_45
+  - first:
+      213: -4075625629930036370
+    second: Rocks_Snow_46
+  - first:
+      213: 9108656898187853239
+    second: Rocks_Snow_47
+  - first:
+      213: 4283039526387440294
+    second: Rocks_Snow_48
+  - first:
+      213: 3154221817260569336
+    second: Rocks_Snow_49
+  - first:
+      213: 3392399864792175001
+    second: Rocks_Snow_50
+  - first:
+      213: -1509137385901937716
+    second: Rocks_Snow_51
+  - first:
+      213: 1295992241143316493
+    second: Rocks_Snow_52
+  - first:
+      213: -3578303114477344750
+    second: Rocks_Snow_53
+  - first:
+      213: 7572151924784268703
+    second: Rocks_Snow_54
+  - first:
+      213: -1801454985252307680
+    second: Rocks_Snow_55
+  - first:
+      213: -4855419787709873927
+    second: Rocks_Snow_56
+  - first:
+      213: 5118211611204965275
+    second: Rocks_Snow_57
+  - first:
+      213: 3833290000767661396
+    second: Rocks_Snow_58
+  - first:
+      213: -5623853153488393724
+    second: Rocks_Snow_59
+  - first:
+      213: -6030216398759189142
+    second: Rocks_Snow_60
+  - first:
+      213: -8145033706000393736
+    second: Rocks_Snow_61
+  - first:
+      213: -8790320055484628354
+    second: Rocks_Snow_62
+  - first:
+      213: -8588941946490474597
+    second: Rocks_Snow_63
+  - first:
+      213: -4774224449022883834
+    second: Rocks_Snow_64
+  - first:
+      213: -8634527654606131512
+    second: Rocks_Snow_65
+  - first:
+      213: -6002784405946763922
+    second: Rocks_Snow_66
+  - first:
+      213: -6309785113850919732
+    second: Rocks_Snow_67
+  - first:
+      213: -1589718444419722807
+    second: Rocks_Snow_68
+  - first:
+      213: 4714627032285278128
+    second: Rocks_Snow_69
+  - first:
+      213: -7777974595581104754
+    second: Rocks_Snow_70
+  - first:
+      213: 2312707307946018564
+    second: Rocks_Snow_71
+  - first:
+      213: 6136788966591921975
+    second: Rocks_Snow_72
+  - first:
+      213: -5175238369794615174
+    second: Rocks_Snow_73
+  - first:
+      213: 2358563334398036974
+    second: Rocks_Snow_74
+  - first:
+      213: 4073915756890910902
+    second: Rocks_Snow_75
+  - first:
+      213: -7831239859135404379
+    second: Rocks_Snow_76
+  - first:
+      213: -5864081823966036808
+    second: Rocks_Snow_77
+  - first:
+      213: 2543833685307613600
+    second: Rocks_Snow_78
+  - first:
+      213: -4777609995693567997
+    second: Rocks_Snow_79
+  - first:
+      213: -4983893833706164602
+    second: Rocks_Snow_80
+  - first:
+      213: 7524397978404468749
+    second: Rocks_Snow_81
+  - first:
+      213: 6029135052286812913
+    second: Rocks_Snow_82
+  - first:
+      213: -1908657513752695773
+    second: Rocks_Snow_83
+  - first:
+      213: -2336416862083789244
+    second: Rocks_Snow_84
+  - first:
+      213: 3689027959220108785
+    second: Rocks_Snow_85
+  - first:
+      213: -2475905667369685311
+    second: Rocks_Snow_86
+  - first:
+      213: 1680265025396943891
+    second: Rocks_Snow_87
+  - first:
+      213: 4438679645212870810
+    second: Rocks_Snow_88
+  - first:
+      213: 4204730895919537914
+    second: Rocks_Snow_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rocks_Snow_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 737
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b1e8fca92636740800000000000000
+      internalID: 5144063616433920903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 737
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704e5c48401e9a270800000000000000
+      internalID: 8262382400911565831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 737
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87616cff5d5c7d9f0800000000000000
+      internalID: -443668515362826632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 737
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca920114b178e30e0800000000000000
+      internalID: -2288243009532188244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 737
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94560050180ef050800000000000000
+      internalID: 5836111033273832604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 737
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6119565fed52a60800000000000000
+      internalID: 7648764687711016644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52859d3d380f14220800000000000000
+      internalID: 2468518519761360933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 689
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65b086303e1f9990800000000000000
+      internalID: -7377144472187914901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9490c1ce50b21b30800000000000000
+      internalID: 4256658518842578075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 689
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543ba178d6e742660800000000000000
+      internalID: 7360146699913442117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_10
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08ab4e1d087d1940800000000000000
+      internalID: 5268499136831531021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 689
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0204a1625a94a3e30800000000000000
+      internalID: 4483977352658436128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 641
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebebb317ddaf383a0800000000000000
+      internalID: -6664207194583744834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 658
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19da70bf4c8fa0d0800000000000000
+      internalID: -3409352119005030118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 641
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696173a14cfb1b980800000000000000
+      internalID: -8524821770661325162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 658
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a39d82e064552150800000000000000
+      internalID: 5847172466304979876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_16
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 641
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055b02d9e9d981830800000000000000
+      internalID: 4042153970131580240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_17
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 658
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9dfe32fc1b973e0800000000000000
+      internalID: -2055416251698652694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 626
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a413c4a0bc655900800000000000000
+      internalID: 672563225296049312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 626
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3142826d47a6c6e0800000000000000
+      internalID: -1817581448790392517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_20
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 626
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744660255a2d206b0800000000000000
+      internalID: -5331467401365658553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 609
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2113257209f66b490800000000000000
+      internalID: -7730869045409205998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_22
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 609
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f146602826fec630800000000000000
+      internalID: 3949364575453200882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_23
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 609
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a28f858614cf640800000000000000
+      internalID: 5115035193211103772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 593
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7460695d25ff8d10800000000000000
+      internalID: 2130190723891356794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_25
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 593
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174edd005f70fa120800000000000000
+      internalID: 2427167473038910577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_26
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 593
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac59e36498f0836c0800000000000000
+      internalID: -4163560773240580662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 515
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d37304fe743ea530800000000000000
+      internalID: 3868086849822225362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_28
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 515
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b7f4a20d546d340800000000000000
+      internalID: 4888171205922618203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_29
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 515
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5c13d0723b76710800000000000000
+      internalID: 1686513565780002210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 451
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639ca4f820fe0cd30800000000000000
+      internalID: 4449819226115066166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 451
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf62c9388bb404e0800000000000000
+      internalID: -2016280539396149320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_32
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 451
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da40ab826d8d7a60800000000000000
+      internalID: 7673444794498042584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_33
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 451
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f08a0b50ad64bb0800000000000000
+      internalID: -4952031022273785995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_34
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 451
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70138fa0cc9aad530800000000000000
+      internalID: 3880600722755563783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_35
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 451
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c191ef1185cc33c0800000000000000
+      internalID: -4378407579334635063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 402
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39544312537db410800000000000000
+      internalID: 1494477447704631612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 417
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32878cf94344e430800000000000000
+      internalID: 3811245169710694973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_38
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 402
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea7593350af06560800000000000000
+      internalID: 7305113495842159338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 417
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86f9038351415ac0800000000000000
+      internalID: -3868238777997986164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_40
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 402
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7294329124ca04c0800000000000000
+      internalID: -4320425244042685827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 417
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525aa006f178526b0800000000000000
+      internalID: -5321698815843326683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 337
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df8143fdf49d6850800000000000000
+      internalID: 6371912866227916761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 336
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b36b86393f98eb00800000000000000
+      internalID: 858110797091136440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_44
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 337
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb05658c6c4795780800000000000000
+      internalID: -8693789208548585281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_45
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 336
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821d13b87157871a0800000000000000
+      internalID: -6811565692417879768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_46
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 337
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63ea8a45187077c0800000000000000
+      internalID: -4075625629930036370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_47
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 336
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdf56d6033786e70800000000000000
+      internalID: 9108656898187853239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 273
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aad749b1c9607b30800000000000000
+      internalID: 4283039526387440294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 285
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f27a90f70c06cb20800000000000000
+      internalID: 3154221817260569336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_50
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 273
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991550d04b9341f20800000000000000
+      internalID: 3392399864792175001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 273
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbad041b877e0be0800000000000000
+      internalID: -1509137385901937716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_52
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 285
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00820da31a4cf110800000000000000
+      internalID: 1295992241143316493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_53
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 273
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21867eaa640575ec0800000000000000
+      internalID: -3578303114477344750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_54
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 273
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f958e0e7e00b51960800000000000000
+      internalID: 7572151924784268703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_55
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 285
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dfd254c32fff6e0800000000000000
+      internalID: -1801454985252307680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_56
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 273
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0862e9d651e9cb0800000000000000
+      internalID: -4855419787709873927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 225
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93d62bc75a870740800000000000000
+      internalID: 5118211611204965275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 241
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45530d032f4923530800000000000000
+      internalID: 3833290000767661396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 225
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a2d557a5f04f1b0800000000000000
+      internalID: -5623853153488393724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_60
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 241
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a652931822e505ca0800000000000000
+      internalID: -6030216398759189142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_61
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 225
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f95346aff607fe80800000000000000
+      internalID: -8145033706000393736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 241
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72c8de8b72820680800000000000000
+      internalID: -8790320055484628354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_63
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 209
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fabfa4ec2fdc880800000000000000
+      internalID: -8588941946490474597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_64
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 209
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6088106982c8ebdb0800000000000000
+      internalID: -4774224449022883834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_65
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 209
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce2ae788defb2880800000000000000
+      internalID: -8634527654606131512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 177
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65f94c0363d1bca0800000000000000
+      internalID: -6002784405946763922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 177
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc44edf9ed32f68a0800000000000000
+      internalID: -6309785113850919732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_68
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 177
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1d97b5f7f20f9e0800000000000000
+      internalID: -1589718444419722807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_69
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 177
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf61d38e48bd6140800000000000000
+      internalID: 4714627032285278128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 177
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d206690551f0490800000000000000
+      internalID: -7777974595581104754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_71
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 177
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40782971b03681020800000000000000
+      internalID: 2312707307946018564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_72
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f7f3f0d014a2550800000000000000
+      internalID: 6136788966591921975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 145
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a789b6c4f1cdd28b0800000000000000
+      internalID: -5175238369794615174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_74
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 79
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb4e0f3bdc4bb020800000000000000
+      internalID: 2358563334398036974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_75
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 145
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0795edbc4798830800000000000000
+      internalID: 4073915756890910902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_76
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 79
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6aa5df6d8d15390800000000000000
+      internalID: -7831239859135404379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_77
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 145
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcfdac76a89e9ea0800000000000000
+      internalID: -5864081823966036808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_78
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1ee6c42438d4320800000000000000
+      internalID: 2543833685307613600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_79
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3005453950582bdb0800000000000000
+      internalID: -4777609995693567997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_80
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e2fabc6f6a5dab0800000000000000
+      internalID: -4983893833706164602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08377b68180c6860800000000000000
+      internalID: 7524397978404468749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_82
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 80
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f26966e26acba350800000000000000
+      internalID: 6029135052286812913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 80
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ce3ee8a161385e0800000000000000
+      internalID: -1908657513752695773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_84
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e43482e31639fd0800000000000000
+      internalID: -2336416862083789244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd7cc3326f023330800000000000000
+      internalID: 3689027959220108785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_86
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 16
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cead07d9e0d3add0800000000000000
+      internalID: -2475905667369685311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_87
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 16
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c2c4f5320815710800000000000000
+      internalID: 1680265025396943891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_88
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 16
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a988ba4ce9b599d30800000000000000
+      internalID: 4438679645212870810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_Snow_89
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 16
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afed463e8743a5a30800000000000000
+      internalID: 4204730895919537914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rocks_Snow_0: 5144063616433920903
+      Rocks_Snow_1: 8262382400911565831
+      Rocks_Snow_10: 5268499136831531021
+      Rocks_Snow_11: 4483977352658436128
+      Rocks_Snow_12: -6664207194583744834
+      Rocks_Snow_13: -3409352119005030118
+      Rocks_Snow_14: -8524821770661325162
+      Rocks_Snow_15: 5847172466304979876
+      Rocks_Snow_16: 4042153970131580240
+      Rocks_Snow_17: -2055416251698652694
+      Rocks_Snow_18: 672563225296049312
+      Rocks_Snow_19: -1817581448790392517
+      Rocks_Snow_2: -443668515362826632
+      Rocks_Snow_20: -5331467401365658553
+      Rocks_Snow_21: -7730869045409205998
+      Rocks_Snow_22: 3949364575453200882
+      Rocks_Snow_23: 5115035193211103772
+      Rocks_Snow_24: 2130190723891356794
+      Rocks_Snow_25: 2427167473038910577
+      Rocks_Snow_26: -4163560773240580662
+      Rocks_Snow_27: 3868086849822225362
+      Rocks_Snow_28: 4888171205922618203
+      Rocks_Snow_29: 1686513565780002210
+      Rocks_Snow_3: -2288243009532188244
+      Rocks_Snow_30: 4449819226115066166
+      Rocks_Snow_31: -2016280539396149320
+      Rocks_Snow_32: 7673444794498042584
+      Rocks_Snow_33: -4952031022273785995
+      Rocks_Snow_34: 3880600722755563783
+      Rocks_Snow_35: -4378407579334635063
+      Rocks_Snow_36: 1494477447704631612
+      Rocks_Snow_37: 3811245169710694973
+      Rocks_Snow_38: 7305113495842159338
+      Rocks_Snow_39: -3868238777997986164
+      Rocks_Snow_4: 5836111033273832604
+      Rocks_Snow_40: -4320425244042685827
+      Rocks_Snow_41: -5321698815843326683
+      Rocks_Snow_42: 6371912866227916761
+      Rocks_Snow_43: 858110797091136440
+      Rocks_Snow_44: -8693789208548585281
+      Rocks_Snow_45: -6811565692417879768
+      Rocks_Snow_46: -4075625629930036370
+      Rocks_Snow_47: 9108656898187853239
+      Rocks_Snow_48: 4283039526387440294
+      Rocks_Snow_49: 3154221817260569336
+      Rocks_Snow_5: 7648764687711016644
+      Rocks_Snow_50: 3392399864792175001
+      Rocks_Snow_51: -1509137385901937716
+      Rocks_Snow_52: 1295992241143316493
+      Rocks_Snow_53: -3578303114477344750
+      Rocks_Snow_54: 7572151924784268703
+      Rocks_Snow_55: -1801454985252307680
+      Rocks_Snow_56: -4855419787709873927
+      Rocks_Snow_57: 5118211611204965275
+      Rocks_Snow_58: 3833290000767661396
+      Rocks_Snow_59: -5623853153488393724
+      Rocks_Snow_6: 2468518519761360933
+      Rocks_Snow_60: -6030216398759189142
+      Rocks_Snow_61: -8145033706000393736
+      Rocks_Snow_62: -8790320055484628354
+      Rocks_Snow_63: -8588941946490474597
+      Rocks_Snow_64: -4774224449022883834
+      Rocks_Snow_65: -8634527654606131512
+      Rocks_Snow_66: -6002784405946763922
+      Rocks_Snow_67: -6309785113850919732
+      Rocks_Snow_68: -1589718444419722807
+      Rocks_Snow_69: 4714627032285278128
+      Rocks_Snow_7: -7377144472187914901
+      Rocks_Snow_70: -7777974595581104754
+      Rocks_Snow_71: 2312707307946018564
+      Rocks_Snow_72: 6136788966591921975
+      Rocks_Snow_73: -5175238369794615174
+      Rocks_Snow_74: 2358563334398036974
+      Rocks_Snow_75: 4073915756890910902
+      Rocks_Snow_76: -7831239859135404379
+      Rocks_Snow_77: -5864081823966036808
+      Rocks_Snow_78: 2543833685307613600
+      Rocks_Snow_79: -4777609995693567997
+      Rocks_Snow_8: 4256658518842578075
+      Rocks_Snow_80: -4983893833706164602
+      Rocks_Snow_81: 7524397978404468749
+      Rocks_Snow_82: 6029135052286812913
+      Rocks_Snow_83: -1908657513752695773
+      Rocks_Snow_84: -2336416862083789244
+      Rocks_Snow_85: 3689027959220108785
+      Rocks_Snow_86: -2475905667369685311
+      Rocks_Snow_87: 1680265025396943891
+      Rocks_Snow_88: 4438679645212870810
+      Rocks_Snow_89: 4204730895919537914
+      Rocks_Snow_9: 7360146699913442117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 5b60bcdd2d5dc214381ce0472aaec133
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4103998700277945644
+    second: Atlas_Buildings_Desert_LightGreen_0
+  - first:
+      213: 4796194822979992231
+    second: Atlas_Buildings_Desert_LightGreen_1
+  - first:
+      213: 617739935883863610
+    second: Atlas_Buildings_Desert_LightGreen_2
+  - first:
+      213: -6038488684726422447
+    second: Atlas_Buildings_Desert_LightGreen_3
+  - first:
+      213: -2155719879744674635
+    second: Atlas_Buildings_Desert_LightGreen_4
+  - first:
+      213: -7056898170264465772
+    second: Atlas_Buildings_Desert_LightGreen_5
+  - first:
+      213: -6415981503895831289
+    second: Atlas_Buildings_Desert_LightGreen_6
+  - first:
+      213: 2183345691850980237
+    second: Atlas_Buildings_Desert_LightGreen_7
+  - first:
+      213: -759964005622738884
+    second: Atlas_Buildings_Desert_LightGreen_8
+  - first:
+      213: -8167116450785177760
+    second: Atlas_Buildings_Desert_LightGreen_9
+  - first:
+      213: 3162113714597020823
+    second: Atlas_Buildings_Desert_LightGreen_10
+  - first:
+      213: 8640178465079616933
+    second: Atlas_Buildings_Desert_LightGreen_11
+  - first:
+      213: 6958800031810543759
+    second: Atlas_Buildings_Desert_LightGreen_12
+  - first:
+      213: -763568378456410265
+    second: Atlas_Buildings_Desert_LightGreen_13
+  - first:
+      213: 5865769589077903115
+    second: Atlas_Buildings_Desert_LightGreen_14
+  - first:
+      213: 4354251933155308898
+    second: Atlas_Buildings_Desert_LightGreen_15
+  - first:
+      213: 2815404303404679118
+    second: Atlas_Buildings_Desert_LightGreen_16
+  - first:
+      213: 335768202015072293
+    second: Atlas_Buildings_Desert_LightGreen_17
+  - first:
+      213: -3990729309159148667
+    second: Atlas_Buildings_Desert_LightGreen_18
+  - first:
+      213: 3095540579853689193
+    second: Atlas_Buildings_Desert_LightGreen_19
+  - first:
+      213: -807281601071817013
+    second: Atlas_Buildings_Desert_LightGreen_20
+  - first:
+      213: -1227030094219221481
+    second: Atlas_Buildings_Desert_LightGreen_21
+  - first:
+      213: -7044938337504821454
+    second: Atlas_Buildings_Desert_LightGreen_22
+  - first:
+      213: 6893360417155420673
+    second: Atlas_Buildings_Desert_LightGreen_23
+  - first:
+      213: -8787918947510509749
+    second: Atlas_Buildings_Desert_LightGreen_24
+  - first:
+      213: 2380969141640907365
+    second: Atlas_Buildings_Desert_LightGreen_25
+  - first:
+      213: -5509434070302401515
+    second: Atlas_Buildings_Desert_LightGreen_26
+  - first:
+      213: -4975658076254932800
+    second: Atlas_Buildings_Desert_LightGreen_27
+  - first:
+      213: -8666607918097581368
+    second: Atlas_Buildings_Desert_LightGreen_28
+  - first:
+      213: -812530256027984849
+    second: Atlas_Buildings_Desert_LightGreen_29
+  - first:
+      213: 6816821320458048764
+    second: Atlas_Buildings_Desert_LightGreen_30
+  - first:
+      213: -1876537759881246257
+    second: Atlas_Buildings_Desert_LightGreen_31
+  - first:
+      213: -4521859602956637515
+    second: Atlas_Buildings_Desert_LightGreen_32
+  - first:
+      213: -5346753282388481391
+    second: Atlas_Buildings_Desert_LightGreen_33
+  - first:
+      213: 8615430125836441379
+    second: Atlas_Buildings_Desert_LightGreen_34
+  - first:
+      213: 5832117100900262102
+    second: Atlas_Buildings_Desert_LightGreen_35
+  - first:
+      213: 2158499029187278785
+    second: Atlas_Buildings_Desert_LightGreen_36
+  - first:
+      213: -6653430301930597144
+    second: Atlas_Buildings_Desert_LightGreen_37
+  - first:
+      213: 1083861039016828205
+    second: Atlas_Buildings_Desert_LightGreen_38
+  - first:
+      213: 1378176082253351253
+    second: Atlas_Buildings_Desert_LightGreen_39
+  - first:
+      213: -4026249610020151426
+    second: Atlas_Buildings_Desert_LightGreen_40
+  - first:
+      213: 5075511837340539706
+    second: Atlas_Buildings_Desert_LightGreen_41
+  - first:
+      213: 7338895621421122998
+    second: Atlas_Buildings_Desert_LightGreen_42
+  - first:
+      213: -5811085474658393334
+    second: Atlas_Buildings_Desert_LightGreen_43
+  - first:
+      213: -8565472537546682063
+    second: Atlas_Buildings_Desert_LightGreen_44
+  - first:
+      213: 5296490838755709200
+    second: Atlas_Buildings_Desert_LightGreen_45
+  - first:
+      213: -5077505152503020629
+    second: Atlas_Buildings_Desert_LightGreen_46
+  - first:
+      213: 5047111776678633013
+    second: Atlas_Buildings_Desert_LightGreen_47
+  - first:
+      213: -2964829135045962882
+    second: Atlas_Buildings_Desert_LightGreen_48
+  - first:
+      213: 4112897304643642190
+    second: Atlas_Buildings_Desert_LightGreen_49
+  - first:
+      213: 6207041747687346901
+    second: Atlas_Buildings_Desert_LightGreen_50
+  - first:
+      213: 8044304397462621470
+    second: Atlas_Buildings_Desert_LightGreen_51
+  - first:
+      213: -4835929331096686512
+    second: Atlas_Buildings_Desert_LightGreen_52
+  - first:
+      213: -6757394672476536262
+    second: Atlas_Buildings_Desert_LightGreen_53
+  - first:
+      213: 9152355395601704857
+    second: Atlas_Buildings_Desert_LightGreen_54
+  - first:
+      213: -7612156232547612351
+    second: Atlas_Buildings_Desert_LightGreen_55
+  - first:
+      213: -8889642008826155561
+    second: Atlas_Buildings_Desert_LightGreen_56
+  - first:
+      213: -765170135234483375
+    second: Atlas_Buildings_Desert_LightGreen_57
+  - first:
+      213: 5393597312387696871
+    second: Atlas_Buildings_Desert_LightGreen_58
+  - first:
+      213: -6723028736778517041
+    second: Atlas_Buildings_Desert_LightGreen_59
+  - first:
+      213: 6609007824160482387
+    second: Atlas_Buildings_Desert_LightGreen_60
+  - first:
+      213: -4384239038452002770
+    second: Atlas_Buildings_Desert_LightGreen_61
+  - first:
+      213: 631837219786001827
+    second: Atlas_Buildings_Desert_LightGreen_62
+  - first:
+      213: 1572827204719993013
+    second: Atlas_Buildings_Desert_LightGreen_63
+  - first:
+      213: -6600330070256175609
+    second: Atlas_Buildings_Desert_LightGreen_64
+  - first:
+      213: -6935650108271382776
+    second: Atlas_Buildings_Desert_LightGreen_65
+  - first:
+      213: -1748742333781264386
+    second: Atlas_Buildings_Desert_LightGreen_66
+  - first:
+      213: -6010952529565368511
+    second: Atlas_Buildings_Desert_LightGreen_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2031
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daa44f0deaab07c0800000000000000
+      internalID: -4103998700277945644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2006
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa3a49b7c18f8240800000000000000
+      internalID: 4796194822979992231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2031
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a362ee1e237a29800800000000000000
+      internalID: 617739935883863610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2031
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1547aa6d88af23ca0800000000000000
+      internalID: -6038488684726422447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2031
+        width: 125
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4229cd0385512e0800000000000000
+      internalID: -2155719879744674635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1839
+        width: 157
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e4841d08cd01e90800000000000000
+      internalID: -7056898170264465772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1839
+        width: 157
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dffc6c0dad5f6a0800000000000000
+      internalID: -6415981503895831289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1839
+        width: 194
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b38a0c65dcc4e10800000000000000
+      internalID: 2183345691850980237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1663
+        width: 158
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3016ca63c01475f0800000000000000
+      internalID: -759964005622738884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1663
+        width: 146
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f43b7fbd298ae80800000000000000
+      internalID: -8167116450785177760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1679
+        width: 153
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79442f97ba512eb20800000000000000
+      internalID: 3162113714597020823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1487
+        width: 182
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5ec0f498418e770800000000000000
+      internalID: 8640178465079616933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1487
+        width: 187
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f806b0772cf929060800000000000000
+      internalID: 6958800031810543759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1487
+        width: 204
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7677268fa924765f0800000000000000
+      internalID: -763568378456410265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1471
+        width: 174
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b070743fc56676150800000000000000
+      internalID: 5865769589077903115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265b74a30196d6c30800000000000000
+      internalID: 4354251933155308898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfba8b1c43521720800000000000000
+      internalID: 2815404303404679118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520eaf79663e8a400800000000000000
+      internalID: 335768202015072293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58334dc46d41e98c0800000000000000
+      internalID: -3990729309159148667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9616cf9a1c195fa20800000000000000
+      internalID: 3095540579853689193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bced76639a5fbc4f0800000000000000
+      internalID: -807281601071817013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_21
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716695161a6b8fee0800000000000000
+      internalID: -1227030094219221481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_22
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f7e7068e95b3e90800000000000000
+      internalID: -7044938337504821454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_23
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102994dd6c22aaf50800000000000000
+      internalID: 6893360417155420673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_24
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f16b2174a0b0680800000000000000
+      internalID: -8787918947510509749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_25
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a4ca4c1d6ea0120800000000000000
+      internalID: 2380969141640907365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1055
+        width: 82
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cd03e37ee8a83b0800000000000000
+      internalID: -5509434070302401515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1055
+        width: 82
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c075018759e2fab0800000000000000
+      internalID: -4975658076254932800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1055
+        width: 146
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cab43224060ab780800000000000000
+      internalID: -8666607918097581368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 911
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cd130890059b4f0800000000000000
+      internalID: -812530256027984849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 911
+        width: 133
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf41637bfd63a9e50800000000000000
+      internalID: 6816821320458048764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 911
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9cba689d235f5e0800000000000000
+      internalID: -1876537759881246257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baa49126a02f31c0800000000000000
+      internalID: -4521859602956637515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aa49dc7348cc5b0800000000000000
+      internalID: -5346753282388481391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3271ead8d08209770800000000000000
+      internalID: 8615430125836441379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d024a77a97dfe050800000000000000
+      internalID: 5832117100900262102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_36
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7bbba4e6784fd10800000000000000
+      internalID: 2158499029187278785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_37
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e45b9b44644aa3a0800000000000000
+      internalID: -6653430301930597144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_38
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ddb785fd5aa0f00800000000000000
+      internalID: 1083861039016828205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_39
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55986ac48d3402310800000000000000
+      internalID: 1378176082253351253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_40
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f91b9cf43ef18c0800000000000000
+      internalID: -4026249610020151426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_41
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b19f5ff17df6640800000000000000
+      internalID: 5075511837340539706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_42
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 751
+        width: 174
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5c97e3faef8d560800000000000000
+      internalID: 7338895621421122998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 545
+        width: 157
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03ed8b9c80ea5fa0800000000000000
+      internalID: -5811085474658393334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 545
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1319a22eb14512980800000000000000
+      internalID: -8565472537546682063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_45
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 545
+        width: 160
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01115281b5ae08940800000000000000
+      internalID: 5296490838755709200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 432
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba387df27f31989b0800000000000000
+      internalID: -5077505152503020629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ede9e8b61fa0640800000000000000
+      internalID: 5047111776678633013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e735bd92c9fcad6d0800000000000000
+      internalID: -2964829135045962882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4322f8be42f31930800000000000000
+      internalID: 4112897304643642190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 432
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d29cec4597d32650800000000000000
+      internalID: 6207041747687346901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_51
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 432
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d4fdb9a3c13af60800000000000000
+      internalID: 8044304397462621470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 320
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050f61d25e353ecb0800000000000000
+      internalID: -4835929331096686512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a324bebf859e832a0800000000000000
+      internalID: -6757394672476536262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 320
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99728f4bdb2b30f70800000000000000
+      internalID: 9152355395601704857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 224
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1494938cc303c5690800000000000000
+      internalID: -7612156232547612351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_56
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 224
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dde68b31b5a1a480800000000000000
+      internalID: -8889642008826155561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b6c98e0d19165f0800000000000000
+      internalID: -765170135234483375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8ce5add28e9da40800000000000000
+      internalID: 5393597312387696871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5c299ebf003b2a0800000000000000
+      internalID: -6723028736778517041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_60
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354ecdc9999e7bb50800000000000000
+      internalID: 6609007824160482387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_61
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e201baeb2dd0823c0800000000000000
+      internalID: -4384239038452002770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad07319a9cb4c800800000000000000
+      internalID: 631837219786001827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_63
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0e76e620ec3d510800000000000000
+      internalID: 1572827204719993013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_64
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7063d0a65cae664a0800000000000000
+      internalID: -6600330070256175609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_65
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa51229fe9fbf90800000000000000
+      internalID: -6935650108271382776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_66
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7b747dc183bb7e0800000000000000
+      internalID: -1748742333781264386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_LightGreen_67
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f3581958ec49ca0800000000000000
+      internalID: -6010952529565368511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas_Buildings_Desert_LightGreen_0: -4103998700277945644
+      Atlas_Buildings_Desert_LightGreen_1: 4796194822979992231
+      Atlas_Buildings_Desert_LightGreen_10: 3162113714597020823
+      Atlas_Buildings_Desert_LightGreen_11: 8640178465079616933
+      Atlas_Buildings_Desert_LightGreen_12: 6958800031810543759
+      Atlas_Buildings_Desert_LightGreen_13: -763568378456410265
+      Atlas_Buildings_Desert_LightGreen_14: 5865769589077903115
+      Atlas_Buildings_Desert_LightGreen_15: 4354251933155308898
+      Atlas_Buildings_Desert_LightGreen_16: 2815404303404679118
+      Atlas_Buildings_Desert_LightGreen_17: 335768202015072293
+      Atlas_Buildings_Desert_LightGreen_18: -3990729309159148667
+      Atlas_Buildings_Desert_LightGreen_19: 3095540579853689193
+      Atlas_Buildings_Desert_LightGreen_2: 617739935883863610
+      Atlas_Buildings_Desert_LightGreen_20: -807281601071817013
+      Atlas_Buildings_Desert_LightGreen_21: -1227030094219221481
+      Atlas_Buildings_Desert_LightGreen_22: -7044938337504821454
+      Atlas_Buildings_Desert_LightGreen_23: 6893360417155420673
+      Atlas_Buildings_Desert_LightGreen_24: -8787918947510509749
+      Atlas_Buildings_Desert_LightGreen_25: 2380969141640907365
+      Atlas_Buildings_Desert_LightGreen_26: -5509434070302401515
+      Atlas_Buildings_Desert_LightGreen_27: -4975658076254932800
+      Atlas_Buildings_Desert_LightGreen_28: -8666607918097581368
+      Atlas_Buildings_Desert_LightGreen_29: -812530256027984849
+      Atlas_Buildings_Desert_LightGreen_3: -6038488684726422447
+      Atlas_Buildings_Desert_LightGreen_30: 6816821320458048764
+      Atlas_Buildings_Desert_LightGreen_31: -1876537759881246257
+      Atlas_Buildings_Desert_LightGreen_32: -4521859602956637515
+      Atlas_Buildings_Desert_LightGreen_33: -5346753282388481391
+      Atlas_Buildings_Desert_LightGreen_34: 8615430125836441379
+      Atlas_Buildings_Desert_LightGreen_35: 5832117100900262102
+      Atlas_Buildings_Desert_LightGreen_36: 2158499029187278785
+      Atlas_Buildings_Desert_LightGreen_37: -6653430301930597144
+      Atlas_Buildings_Desert_LightGreen_38: 1083861039016828205
+      Atlas_Buildings_Desert_LightGreen_39: 1378176082253351253
+      Atlas_Buildings_Desert_LightGreen_4: -2155719879744674635
+      Atlas_Buildings_Desert_LightGreen_40: -4026249610020151426
+      Atlas_Buildings_Desert_LightGreen_41: 5075511837340539706
+      Atlas_Buildings_Desert_LightGreen_42: 7338895621421122998
+      Atlas_Buildings_Desert_LightGreen_43: -5811085474658393334
+      Atlas_Buildings_Desert_LightGreen_44: -8565472537546682063
+      Atlas_Buildings_Desert_LightGreen_45: 5296490838755709200
+      Atlas_Buildings_Desert_LightGreen_46: -5077505152503020629
+      Atlas_Buildings_Desert_LightGreen_47: 5047111776678633013
+      Atlas_Buildings_Desert_LightGreen_48: -2964829135045962882
+      Atlas_Buildings_Desert_LightGreen_49: 4112897304643642190
+      Atlas_Buildings_Desert_LightGreen_5: -7056898170264465772
+      Atlas_Buildings_Desert_LightGreen_50: 6207041747687346901
+      Atlas_Buildings_Desert_LightGreen_51: 8044304397462621470
+      Atlas_Buildings_Desert_LightGreen_52: -4835929331096686512
+      Atlas_Buildings_Desert_LightGreen_53: -6757394672476536262
+      Atlas_Buildings_Desert_LightGreen_54: 9152355395601704857
+      Atlas_Buildings_Desert_LightGreen_55: -7612156232547612351
+      Atlas_Buildings_Desert_LightGreen_56: -8889642008826155561
+      Atlas_Buildings_Desert_LightGreen_57: -765170135234483375
+      Atlas_Buildings_Desert_LightGreen_58: 5393597312387696871
+      Atlas_Buildings_Desert_LightGreen_59: -6723028736778517041
+      Atlas_Buildings_Desert_LightGreen_6: -6415981503895831289
+      Atlas_Buildings_Desert_LightGreen_60: 6609007824160482387
+      Atlas_Buildings_Desert_LightGreen_61: -4384239038452002770
+      Atlas_Buildings_Desert_LightGreen_62: 631837219786001827
+      Atlas_Buildings_Desert_LightGreen_63: 1572827204719993013
+      Atlas_Buildings_Desert_LightGreen_64: -6600330070256175609
+      Atlas_Buildings_Desert_LightGreen_65: -6935650108271382776
+      Atlas_Buildings_Desert_LightGreen_66: -1748742333781264386
+      Atlas_Buildings_Desert_LightGreen_67: -6010952529565368511
+      Atlas_Buildings_Desert_LightGreen_7: 2183345691850980237
+      Atlas_Buildings_Desert_LightGreen_8: -759964005622738884
+      Atlas_Buildings_Desert_LightGreen_9: -8167116450785177760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 386fc25294f98ff4da952482e81d0ec5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5687497923342915238
+    second: Atlas_Buildings_Desert_Violet_0
+  - first:
+      213: -1205151449408384580
+    second: Atlas_Buildings_Desert_Violet_1
+  - first:
+      213: 7941452343944935405
+    second: Atlas_Buildings_Desert_Violet_2
+  - first:
+      213: -7689430726826841378
+    second: Atlas_Buildings_Desert_Violet_3
+  - first:
+      213: 3237937365586467971
+    second: Atlas_Buildings_Desert_Violet_4
+  - first:
+      213: -6570337344508084581
+    second: Atlas_Buildings_Desert_Violet_5
+  - first:
+      213: 5062314456174954522
+    second: Atlas_Buildings_Desert_Violet_6
+  - first:
+      213: -6621129558932630728
+    second: Atlas_Buildings_Desert_Violet_7
+  - first:
+      213: 3337981982316534304
+    second: Atlas_Buildings_Desert_Violet_8
+  - first:
+      213: 7827227809830022967
+    second: Atlas_Buildings_Desert_Violet_9
+  - first:
+      213: -8100080404176784357
+    second: Atlas_Buildings_Desert_Violet_10
+  - first:
+      213: -5603078699303829077
+    second: Atlas_Buildings_Desert_Violet_11
+  - first:
+      213: -3059665766575471795
+    second: Atlas_Buildings_Desert_Violet_12
+  - first:
+      213: 8889692561741516116
+    second: Atlas_Buildings_Desert_Violet_13
+  - first:
+      213: 6058247565569225024
+    second: Atlas_Buildings_Desert_Violet_14
+  - first:
+      213: -2793549693367467739
+    second: Atlas_Buildings_Desert_Violet_15
+  - first:
+      213: 936817410480917863
+    second: Atlas_Buildings_Desert_Violet_16
+  - first:
+      213: -6754197399764643509
+    second: Atlas_Buildings_Desert_Violet_17
+  - first:
+      213: -4562689461285167705
+    second: Atlas_Buildings_Desert_Violet_18
+  - first:
+      213: 1155406738077141433
+    second: Atlas_Buildings_Desert_Violet_19
+  - first:
+      213: 1203021818138759595
+    second: Atlas_Buildings_Desert_Violet_20
+  - first:
+      213: 5611226326973913589
+    second: Atlas_Buildings_Desert_Violet_21
+  - first:
+      213: 3504946477663910053
+    second: Atlas_Buildings_Desert_Violet_22
+  - first:
+      213: 6709508673075370398
+    second: Atlas_Buildings_Desert_Violet_23
+  - first:
+      213: 547442620583030173
+    second: Atlas_Buildings_Desert_Violet_24
+  - first:
+      213: 8438748760780133993
+    second: Atlas_Buildings_Desert_Violet_25
+  - first:
+      213: -3406339944655184255
+    second: Atlas_Buildings_Desert_Violet_26
+  - first:
+      213: -4729705019937385961
+    second: Atlas_Buildings_Desert_Violet_27
+  - first:
+      213: 8356988773816338363
+    second: Atlas_Buildings_Desert_Violet_28
+  - first:
+      213: 5673610069036779418
+    second: Atlas_Buildings_Desert_Violet_29
+  - first:
+      213: 611214754532405770
+    second: Atlas_Buildings_Desert_Violet_30
+  - first:
+      213: -1716660275482505142
+    second: Atlas_Buildings_Desert_Violet_31
+  - first:
+      213: -6984240101953295305
+    second: Atlas_Buildings_Desert_Violet_32
+  - first:
+      213: 554598899563568434
+    second: Atlas_Buildings_Desert_Violet_33
+  - first:
+      213: -3587975153762030199
+    second: Atlas_Buildings_Desert_Violet_34
+  - first:
+      213: -7004899391738639925
+    second: Atlas_Buildings_Desert_Violet_35
+  - first:
+      213: 7063770863875280725
+    second: Atlas_Buildings_Desert_Violet_36
+  - first:
+      213: -8704489315904551835
+    second: Atlas_Buildings_Desert_Violet_37
+  - first:
+      213: 2830167447053424963
+    second: Atlas_Buildings_Desert_Violet_38
+  - first:
+      213: -1444340223981096943
+    second: Atlas_Buildings_Desert_Violet_39
+  - first:
+      213: 8745298441515842044
+    second: Atlas_Buildings_Desert_Violet_40
+  - first:
+      213: -4551102356547319297
+    second: Atlas_Buildings_Desert_Violet_41
+  - first:
+      213: -8137146135493075214
+    second: Atlas_Buildings_Desert_Violet_42
+  - first:
+      213: -3978930357502260472
+    second: Atlas_Buildings_Desert_Violet_43
+  - first:
+      213: 4941881395381850100
+    second: Atlas_Buildings_Desert_Violet_44
+  - first:
+      213: -1450032401111718725
+    second: Atlas_Buildings_Desert_Violet_45
+  - first:
+      213: 1426307715224069674
+    second: Atlas_Buildings_Desert_Violet_46
+  - first:
+      213: 4027755893226990000
+    second: Atlas_Buildings_Desert_Violet_47
+  - first:
+      213: -7641811470933394616
+    second: Atlas_Buildings_Desert_Violet_48
+  - first:
+      213: -1598900203745264764
+    second: Atlas_Buildings_Desert_Violet_49
+  - first:
+      213: -5332532141243761626
+    second: Atlas_Buildings_Desert_Violet_50
+  - first:
+      213: -2078445393053909871
+    second: Atlas_Buildings_Desert_Violet_51
+  - first:
+      213: 400452875342982681
+    second: Atlas_Buildings_Desert_Violet_52
+  - first:
+      213: 3979669192800031980
+    second: Atlas_Buildings_Desert_Violet_53
+  - first:
+      213: 4940157642268355581
+    second: Atlas_Buildings_Desert_Violet_54
+  - first:
+      213: 3424791836140897214
+    second: Atlas_Buildings_Desert_Violet_55
+  - first:
+      213: 860006290098329305
+    second: Atlas_Buildings_Desert_Violet_56
+  - first:
+      213: -8677104553303271228
+    second: Atlas_Buildings_Desert_Violet_57
+  - first:
+      213: 1836885435043374561
+    second: Atlas_Buildings_Desert_Violet_58
+  - first:
+      213: 5233885302067578975
+    second: Atlas_Buildings_Desert_Violet_59
+  - first:
+      213: -3441648036224391162
+    second: Atlas_Buildings_Desert_Violet_60
+  - first:
+      213: 8363722072624313982
+    second: Atlas_Buildings_Desert_Violet_61
+  - first:
+      213: -3405648596020253415
+    second: Atlas_Buildings_Desert_Violet_62
+  - first:
+      213: -9024875579403493927
+    second: Atlas_Buildings_Desert_Violet_63
+  - first:
+      213: 3207111887815811156
+    second: Atlas_Buildings_Desert_Violet_64
+  - first:
+      213: 473732188639522432
+    second: Atlas_Buildings_Desert_Violet_65
+  - first:
+      213: -8150785139988825179
+    second: Atlas_Buildings_Desert_Violet_66
+  - first:
+      213: 7067690122945279232
+    second: Atlas_Buildings_Desert_Violet_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2031
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a650a54a3d0eee40800000000000000
+      internalID: 5687497923342915238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2006
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb157755421764fe0800000000000000
+      internalID: -1205151449408384580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2031
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7f789c4d4b53e60800000000000000
+      internalID: 7941452343944935405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2031
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda238a8e77a94590800000000000000
+      internalID: -7689430726826841378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2031
+        width: 125
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cdeb0f0e67fec20800000000000000
+      internalID: 3237937365586467971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1839
+        width: 157
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ebc1e0ff871d4a0800000000000000
+      internalID: -6570337344508084581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1839
+        width: 157
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1802a53d24f04640800000000000000
+      internalID: 5062314456174954522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1839
+        width: 194
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8335bf31fb50d14a0800000000000000
+      internalID: -6621129558932630728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1663
+        width: 158
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a91a27de4e25e20800000000000000
+      internalID: 3337981982316534304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1663
+        width: 146
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f2afcf836ef9c60800000000000000
+      internalID: 7827227809830022967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1679
+        width: 153
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14b0f8d9cbb69f80800000000000000
+      internalID: -8100080404176784357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1487
+        width: 182
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1007ffb9ddd32b0800000000000000
+      internalID: -5603078699303829077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1487
+        width: 187
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4388d33232e985d0800000000000000
+      internalID: -3059665766575471795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1487
+        width: 204
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d090909488e5b70800000000000000
+      internalID: 8889692561741516116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1471
+        width: 174
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041f02b1018331450800000000000000
+      internalID: 6058247565569225024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5214e60da515b39d0800000000000000
+      internalID: -2793549693367467739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dcd1ba87e300d00800000000000000
+      internalID: 936817410480917863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41592c00454442a0800000000000000
+      internalID: -6754197399764643509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adddafeb121ea0c0800000000000000
+      internalID: -4562689461285167705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b94e228e44d80010800000000000000
+      internalID: 1155406738077141433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1943f38fdf1b010800000000000000
+      internalID: 1203021818138759595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_21
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f999956d941fdd40800000000000000
+      internalID: 5611226326973913589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_22
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8f9ed504214a030800000000000000
+      internalID: 3504946477663910053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_23
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e995f04f696fc1d50800000000000000
+      internalID: 6709508673075370398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_24
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9da2c6b928e89700800000000000000
+      internalID: 547442620583030173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_25
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966511b99457c1570800000000000000
+      internalID: 8438748760780133993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1055
+        width: 82
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e9a9e2edf3ab0d0800000000000000
+      internalID: -3406339944655184255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1055
+        width: 82
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712104ae756bc5eb0800000000000000
+      internalID: -4729705019937385961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1055
+        width: 146
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb70047330df9f370800000000000000
+      internalID: 8356988773816338363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 911
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9744073c46bcbe40800000000000000
+      internalID: 5673610069036779418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 911
+        width: 133
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02b165b4987b7800800000000000000
+      internalID: 611214754532405770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 911
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4057df13923d28e0800000000000000
+      internalID: -1716660275482505142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c2901a1aef21f90800000000000000
+      internalID: -6984240101953295305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d1f41c2c452b700800000000000000
+      internalID: 554598899563568434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d26198b93f43ec0800000000000000
+      internalID: -3587975153762030199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc98114ed1999ce90800000000000000
+      internalID: -7004899391738639925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_36
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f4a0cdc2e870260800000000000000
+      internalID: 7063770863875280725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_37
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5648356e511733780800000000000000
+      internalID: -8704489315904551835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_38
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3495e785c46c64720800000000000000
+      internalID: 2830167447053424963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_39
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1107ccef73ca4fbe0800000000000000
+      internalID: -1444340223981096943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_40
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf93455199a8d5970800000000000000
+      internalID: 8745298441515842044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_41
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9cd8df48c37d0c0800000000000000
+      internalID: -4551102356547319297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_42
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 751
+        width: 174
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe1e74c3bc031f80800000000000000
+      internalID: -8137146135493075214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 545
+        width: 157
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b4f0fcbeff7c8c0800000000000000
+      internalID: -3978930357502260472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 545
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffc8d522f6159440800000000000000
+      internalID: 4941881395381850100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_45
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 545
+        width: 160
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4edeab63370ebe0800000000000000
+      internalID: -1450032401111718725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 432
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2664526f434bc310800000000000000
+      internalID: 1426307715224069674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9e7c915a675e730800000000000000
+      internalID: 4027755893226990000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b728a84f4d2f590800000000000000
+      internalID: -7641811470933394616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bb67c6cb09fc9e0800000000000000
+      internalID: -1598900203745264764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 432
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cffcf354a0ff5b0800000000000000
+      internalID: -5332532141243761626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_51
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 432
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c79f55de0e723e0800000000000000
+      internalID: -2078445393053909871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 320
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e2a18b4c1be8500800000000000000
+      internalID: 400452875342982681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce45960bb00aa3730800000000000000
+      internalID: 3979669192800031980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 320
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb26d99337fe8440800000000000000
+      internalID: 4940157642268355581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 224
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb306d6970e478f20800000000000000
+      internalID: 3424791836140897214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_56
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 224
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d699e11a2b5feb00800000000000000
+      internalID: 860006290098329305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c81f6dc16bb49780800000000000000
+      internalID: -8677104553303271228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e569d8229ded7910800000000000000
+      internalID: 1836885435043374561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5840e0b3fe72a840800000000000000
+      internalID: 5233885302067578975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_60
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608acee785fcc30d0800000000000000
+      internalID: -3441648036224391162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_61
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76bdd289e8e11470800000000000000
+      internalID: 8363722072624313982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91da76455a4bcb0d0800000000000000
+      internalID: -3405648596020253415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_63
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd9e83f97331c280800000000000000
+      internalID: -9024875579403493927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_64
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450a13c1543f18c20800000000000000
+      internalID: 3207111887815811156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_65
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ee6866ae8039600800000000000000
+      internalID: 473732188639522432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_66
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abfe62991892ee80800000000000000
+      internalID: -8150785139988825179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Violet_67
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005b0b878ba751260800000000000000
+      internalID: 7067690122945279232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas_Buildings_Desert_Violet_0: 5687497923342915238
+      Atlas_Buildings_Desert_Violet_1: -1205151449408384580
+      Atlas_Buildings_Desert_Violet_10: -8100080404176784357
+      Atlas_Buildings_Desert_Violet_11: -5603078699303829077
+      Atlas_Buildings_Desert_Violet_12: -3059665766575471795
+      Atlas_Buildings_Desert_Violet_13: 8889692561741516116
+      Atlas_Buildings_Desert_Violet_14: 6058247565569225024
+      Atlas_Buildings_Desert_Violet_15: -2793549693367467739
+      Atlas_Buildings_Desert_Violet_16: 936817410480917863
+      Atlas_Buildings_Desert_Violet_17: -6754197399764643509
+      Atlas_Buildings_Desert_Violet_18: -4562689461285167705
+      Atlas_Buildings_Desert_Violet_19: 1155406738077141433
+      Atlas_Buildings_Desert_Violet_2: 7941452343944935405
+      Atlas_Buildings_Desert_Violet_20: 1203021818138759595
+      Atlas_Buildings_Desert_Violet_21: 5611226326973913589
+      Atlas_Buildings_Desert_Violet_22: 3504946477663910053
+      Atlas_Buildings_Desert_Violet_23: 6709508673075370398
+      Atlas_Buildings_Desert_Violet_24: 547442620583030173
+      Atlas_Buildings_Desert_Violet_25: 8438748760780133993
+      Atlas_Buildings_Desert_Violet_26: -3406339944655184255
+      Atlas_Buildings_Desert_Violet_27: -4729705019937385961
+      Atlas_Buildings_Desert_Violet_28: 8356988773816338363
+      Atlas_Buildings_Desert_Violet_29: 5673610069036779418
+      Atlas_Buildings_Desert_Violet_3: -7689430726826841378
+      Atlas_Buildings_Desert_Violet_30: 611214754532405770
+      Atlas_Buildings_Desert_Violet_31: -1716660275482505142
+      Atlas_Buildings_Desert_Violet_32: -6984240101953295305
+      Atlas_Buildings_Desert_Violet_33: 554598899563568434
+      Atlas_Buildings_Desert_Violet_34: -3587975153762030199
+      Atlas_Buildings_Desert_Violet_35: -7004899391738639925
+      Atlas_Buildings_Desert_Violet_36: 7063770863875280725
+      Atlas_Buildings_Desert_Violet_37: -8704489315904551835
+      Atlas_Buildings_Desert_Violet_38: 2830167447053424963
+      Atlas_Buildings_Desert_Violet_39: -1444340223981096943
+      Atlas_Buildings_Desert_Violet_4: 3237937365586467971
+      Atlas_Buildings_Desert_Violet_40: 8745298441515842044
+      Atlas_Buildings_Desert_Violet_41: -4551102356547319297
+      Atlas_Buildings_Desert_Violet_42: -8137146135493075214
+      Atlas_Buildings_Desert_Violet_43: -3978930357502260472
+      Atlas_Buildings_Desert_Violet_44: 4941881395381850100
+      Atlas_Buildings_Desert_Violet_45: -1450032401111718725
+      Atlas_Buildings_Desert_Violet_46: 1426307715224069674
+      Atlas_Buildings_Desert_Violet_47: 4027755893226990000
+      Atlas_Buildings_Desert_Violet_48: -7641811470933394616
+      Atlas_Buildings_Desert_Violet_49: -1598900203745264764
+      Atlas_Buildings_Desert_Violet_5: -6570337344508084581
+      Atlas_Buildings_Desert_Violet_50: -5332532141243761626
+      Atlas_Buildings_Desert_Violet_51: -2078445393053909871
+      Atlas_Buildings_Desert_Violet_52: 400452875342982681
+      Atlas_Buildings_Desert_Violet_53: 3979669192800031980
+      Atlas_Buildings_Desert_Violet_54: 4940157642268355581
+      Atlas_Buildings_Desert_Violet_55: 3424791836140897214
+      Atlas_Buildings_Desert_Violet_56: 860006290098329305
+      Atlas_Buildings_Desert_Violet_57: -8677104553303271228
+      Atlas_Buildings_Desert_Violet_58: 1836885435043374561
+      Atlas_Buildings_Desert_Violet_59: 5233885302067578975
+      Atlas_Buildings_Desert_Violet_6: 5062314456174954522
+      Atlas_Buildings_Desert_Violet_60: -3441648036224391162
+      Atlas_Buildings_Desert_Violet_61: 8363722072624313982
+      Atlas_Buildings_Desert_Violet_62: -3405648596020253415
+      Atlas_Buildings_Desert_Violet_63: -9024875579403493927
+      Atlas_Buildings_Desert_Violet_64: 3207111887815811156
+      Atlas_Buildings_Desert_Violet_65: 473732188639522432
+      Atlas_Buildings_Desert_Violet_66: -8150785139988825179
+      Atlas_Buildings_Desert_Violet_67: 7067690122945279232
+      Atlas_Buildings_Desert_Violet_7: -6621129558932630728
+      Atlas_Buildings_Desert_Violet_8: 3337981982316534304
+      Atlas_Buildings_Desert_Violet_9: 7827227809830022967
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

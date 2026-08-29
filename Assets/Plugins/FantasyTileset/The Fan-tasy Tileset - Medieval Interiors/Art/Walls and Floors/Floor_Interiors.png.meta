@@ -1,0 +1,3874 @@
+fileFormatVersion: 2
+guid: 8eb1ad9988b02074bbadf8113e40b273
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5093221951141575529
+    second: Floor_Interiors_0
+  - first:
+      213: -7708919043745633837
+    second: Floor_Interiors_1
+  - first:
+      213: -5930619742149403514
+    second: Floor_Interiors_2
+  - first:
+      213: 3354770653418378033
+    second: Floor_Interiors_3
+  - first:
+      213: -3868269784236331008
+    second: Floor_Interiors_4
+  - first:
+      213: -7997724728497308915
+    second: Floor_Interiors_5
+  - first:
+      213: 8856257278286379858
+    second: Floor_Interiors_6
+  - first:
+      213: 6499874072866968519
+    second: Floor_Interiors_7
+  - first:
+      213: 3660855456960837570
+    second: Floor_Interiors_8
+  - first:
+      213: 6686279065148772330
+    second: Floor_Interiors_9
+  - first:
+      213: 7346537077520372150
+    second: Floor_Interiors_10
+  - first:
+      213: 5016535358091993348
+    second: Floor_Interiors_11
+  - first:
+      213: -5251956094967541586
+    second: Floor_Interiors_12
+  - first:
+      213: 89077798881471192
+    second: Floor_Interiors_13
+  - first:
+      213: -833764789086986268
+    second: Floor_Interiors_14
+  - first:
+      213: -2541496702083115856
+    second: Floor_Interiors_15
+  - first:
+      213: 8886691511530631677
+    second: Floor_Interiors_16
+  - first:
+      213: -7510633137770579139
+    second: Floor_Interiors_17
+  - first:
+      213: 7151022783568294670
+    second: Floor_Interiors_18
+  - first:
+      213: -3359874364027151915
+    second: Floor_Interiors_19
+  - first:
+      213: 7771843157068152630
+    second: Floor_Interiors_20
+  - first:
+      213: -6065925169558753945
+    second: Floor_Interiors_21
+  - first:
+      213: 5681681779591790202
+    second: Floor_Interiors_22
+  - first:
+      213: 2055749837857861424
+    second: Floor_Interiors_23
+  - first:
+      213: -111716902445203989
+    second: Floor_Interiors_24
+  - first:
+      213: -3164090182850990711
+    second: Floor_Interiors_25
+  - first:
+      213: 1484979018591134601
+    second: Floor_Interiors_26
+  - first:
+      213: -1423344495938741194
+    second: Floor_Interiors_27
+  - first:
+      213: 3466194782296311473
+    second: Floor_Interiors_28
+  - first:
+      213: 1852861137690595163
+    second: Floor_Interiors_29
+  - first:
+      213: 1612118405214363919
+    second: Floor_Interiors_30
+  - first:
+      213: 1496534099016116922
+    second: Floor_Interiors_31
+  - first:
+      213: 971217422493100196
+    second: Floor_Interiors_32
+  - first:
+      213: 209030767248022915
+    second: Floor_Interiors_33
+  - first:
+      213: -5959280546866708209
+    second: Floor_Interiors_34
+  - first:
+      213: -8271355029147697931
+    second: Floor_Interiors_35
+  - first:
+      213: -8842385635707817696
+    second: Floor_Interiors_36
+  - first:
+      213: 7490312529382955572
+    second: Floor_Interiors_37
+  - first:
+      213: -742361150669533233
+    second: Floor_Interiors_38
+  - first:
+      213: -4605247762878254687
+    second: Floor_Interiors_39
+  - first:
+      213: 7388058687789568759
+    second: Floor_Interiors_40
+  - first:
+      213: -4345818198563941827
+    second: Floor_Interiors_41
+  - first:
+      213: 6698029274787384767
+    second: Floor_Interiors_42
+  - first:
+      213: -5457657057756714293
+    second: Floor_Interiors_43
+  - first:
+      213: 2938289043321074555
+    second: Floor_Interiors_44
+  - first:
+      213: 5599962262866490729
+    second: Floor_Interiors_45
+  - first:
+      213: 712727087758436765
+    second: Floor_Interiors_46
+  - first:
+      213: -7926492614418558492
+    second: Floor_Interiors_47
+  - first:
+      213: 473572591441332841
+    second: Floor_Interiors_48
+  - first:
+      213: 962039646535326729
+    second: Floor_Interiors_49
+  - first:
+      213: -1152807242848219633
+    second: Floor_Interiors_50
+  - first:
+      213: 1834636965315062083
+    second: Floor_Interiors_51
+  - first:
+      213: -4399132514366116121
+    second: Floor_Interiors_52
+  - first:
+      213: 7500325597414638758
+    second: Floor_Interiors_53
+  - first:
+      213: -3442872575367794271
+    second: Floor_Interiors_54
+  - first:
+      213: -6560121830871239796
+    second: Floor_Interiors_55
+  - first:
+      213: 1820010730825945167
+    second: Floor_Interiors_56
+  - first:
+      213: -1479957962076053723
+    second: Floor_Interiors_57
+  - first:
+      213: 8544672881029044355
+    second: Floor_Interiors_58
+  - first:
+      213: 871940692666732283
+    second: Floor_Interiors_59
+  - first:
+      213: 7363474130599184419
+    second: Floor_Interiors_60
+  - first:
+      213: 1183848739444752641
+    second: Floor_Interiors_61
+  - first:
+      213: -9140983965759524397
+    second: Floor_Interiors_62
+  - first:
+      213: 6470710091325964749
+    second: Floor_Interiors_63
+  - first:
+      213: 5911688747226115376
+    second: Floor_Interiors_64
+  - first:
+      213: -3631092389146792102
+    second: Floor_Interiors_65
+  - first:
+      213: 2076136694382312948
+    second: Floor_Interiors_66
+  - first:
+      213: 4440444828523089535
+    second: Floor_Interiors_67
+  - first:
+      213: -6581317494911528863
+    second: Floor_Interiors_68
+  - first:
+      213: -6894710473118819625
+    second: Floor_Interiors_69
+  - first:
+      213: -3037438246903392357
+    second: Floor_Interiors_70
+  - first:
+      213: -7073516437280469834
+    second: Floor_Interiors_71
+  - first:
+      213: -7774035197858389327
+    second: Floor_Interiors_72
+  - first:
+      213: -4313382442537633911
+    second: Floor_Interiors_73
+  - first:
+      213: -4405444834380595765
+    second: Floor_Interiors_74
+  - first:
+      213: -5412276505940373762
+    second: Floor_Interiors_75
+  - first:
+      213: -5183663741230264600
+    second: Floor_Interiors_76
+  - first:
+      213: -1966009853477340437
+    second: Floor_Interiors_77
+  - first:
+      213: 152736847901853744
+    second: Floor_Interiors_78
+  - first:
+      213: 4398342133473326386
+    second: Floor_Interiors_79
+  - first:
+      213: -8862112781676334369
+    second: Floor_Interiors_80
+  - first:
+      213: -5714870185431391173
+    second: Floor_Interiors_81
+  - first:
+      213: -7260490925180959157
+    second: Floor_Interiors_82
+  - first:
+      213: 6955601645219992710
+    second: Floor_Interiors_83
+  - first:
+      213: 5541026301303565705
+    second: Floor_Interiors_84
+  - first:
+      213: -3479891658993836494
+    second: Floor_Interiors_85
+  - first:
+      213: 9132507118309207345
+    second: Floor_Interiors_86
+  - first:
+      213: 3859995905601879773
+    second: Floor_Interiors_87
+  - first:
+      213: 4570816635952894716
+    second: Floor_Interiors_88
+  - first:
+      213: -1657126581324571649
+    second: Floor_Interiors_89
+  - first:
+      213: 8645376183022753882
+    second: Floor_Interiors_90
+  - first:
+      213: -5408550875153067365
+    second: Floor_Interiors_91
+  - first:
+      213: -4982643682566718270
+    second: Floor_Interiors_92
+  - first:
+      213: 2902480168086344837
+    second: Floor_Interiors_93
+  - first:
+      213: 5043228507544560087
+    second: Floor_Interiors_94
+  - first:
+      213: -7053190429638412993
+    second: Floor_Interiors_95
+  - first:
+      213: 6736736934053936563
+    second: Floor_Interiors_96
+  - first:
+      213: -5730958530730124436
+    second: Floor_Interiors_97
+  - first:
+      213: -2815967945035284998
+    second: Floor_Interiors_98
+  - first:
+      213: -6062926374689627451
+    second: Floor_Interiors_99
+  - first:
+      213: 3623146617660721142
+    second: Floor_Interiors_100
+  - first:
+      213: -7305980393375459809
+    second: Floor_Interiors_101
+  - first:
+      213: 3208958973192949633
+    second: Floor_Interiors_102
+  - first:
+      213: -1642685343020490808
+    second: Floor_Interiors_103
+  - first:
+      213: -7565756387364250684
+    second: Floor_Interiors_104
+  - first:
+      213: 2233999299917493219
+    second: Floor_Interiors_105
+  - first:
+      213: 485149180823037389
+    second: Floor_Interiors_106
+  - first:
+      213: -3731667289390976373
+    second: Floor_Interiors_107
+  - first:
+      213: -3116144622308185975
+    second: Floor_Interiors_108
+  - first:
+      213: 4681856136582268156
+    second: Floor_Interiors_109
+  - first:
+      213: -7759464344347874390
+    second: Floor_Interiors_110
+  - first:
+      213: 9146131242257967177
+    second: Floor_Interiors_111
+  - first:
+      213: -4903433547277253785
+    second: Floor_Interiors_112
+  - first:
+      213: 2896126089363291130
+    second: Floor_Interiors_113
+  - first:
+      213: 5790517123278608604
+    second: Floor_Interiors_114
+  - first:
+      213: 5150614766578542604
+    second: Floor_Interiors_115
+  - first:
+      213: -5823722588871840531
+    second: Floor_Interiors_116
+  - first:
+      213: -8214595155506599510
+    second: Floor_Interiors_117
+  - first:
+      213: -263463426217801771
+    second: Floor_Interiors_118
+  - first:
+      213: 2961646267122948455
+    second: Floor_Interiors_119
+  - first:
+      213: 5750122132516237410
+    second: Floor_Interiors_120
+  - first:
+      213: -7542185687475108239
+    second: Floor_Interiors_121
+  - first:
+      213: -2071416820651043776
+    second: Floor_Interiors_122
+  - first:
+      213: -233154848716056928
+    second: Floor_Interiors_123
+  - first:
+      213: -6454273986538230732
+    second: Floor_Interiors_124
+  - first:
+      213: 8625410427964062103
+    second: Floor_Interiors_125
+  - first:
+      213: 8071100713828782669
+    second: Floor_Interiors_126
+  - first:
+      213: 1428524217459887461
+    second: Floor_Interiors_127
+  - first:
+      213: -3585252009131321387
+    second: Floor_Interiors_128
+  - first:
+      213: -7514616479579259828
+    second: Floor_Interiors_129
+  - first:
+      213: -7192473003246234804
+    second: Floor_Interiors_130
+  - first:
+      213: -3959836757722699886
+    second: Floor_Interiors_131
+  - first:
+      213: -9065787383260867895
+    second: Floor_Interiors_132
+  - first:
+      213: 6560143589932456441
+    second: Floor_Interiors_133
+  - first:
+      213: -2101772683372757571
+    second: Floor_Interiors_134
+  - first:
+      213: -1444881057165445386
+    second: Floor_Interiors_135
+  - first:
+      213: 8511734605669246662
+    second: Floor_Interiors_136
+  - first:
+      213: 4339165287976410926
+    second: Floor_Interiors_137
+  - first:
+      213: 6245315413659769534
+    second: Floor_Interiors_138
+  - first:
+      213: 5814535507919666814
+    second: Floor_Interiors_139
+  - first:
+      213: 1769824880579205249
+    second: Floor_Interiors_140
+  - first:
+      213: -8840363349781722764
+    second: Floor_Interiors_141
+  - first:
+      213: -7879885048394949274
+    second: Floor_Interiors_142
+  - first:
+      213: -6271573073573204031
+    second: Floor_Interiors_143
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floor_Interiors_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1187
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7940cf7de9d3159b0800000000000000
+      internalID: -5093221951141575529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1199
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d92c4b29fa640590800000000000000
+      internalID: -7708919043745633837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1187
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c144b24c432bda0800000000000000
+      internalID: -5930619742149403514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1199
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13358eb822a8e8e20800000000000000
+      internalID: 3354770653418378033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1187
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000773f4025215ac0800000000000000
+      internalID: -3868269784236331008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1199
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b7f82bbbf520190800000000000000
+      internalID: -7997724728497308915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1187
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b3ab7721fb7ea70800000000000000
+      internalID: 8856257278286379858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1199
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3d10e0801343a50800000000000000
+      internalID: 6499874072866968519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1187
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7733e54a8fdc230800000000000000
+      internalID: 3660855456960837570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1199
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefc253626f6acc50800000000000000
+      internalID: 6686279065148772330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_10
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1187
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b196d26c8424f560800000000000000
+      internalID: 7346537077520372150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1199
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401a24654505e9540800000000000000
+      internalID: 5016535358091993348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1097
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea01387f1cd4d17b0800000000000000
+      internalID: -5251956094967541586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1135
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da24bf39c77c3100800000000000000
+      internalID: 89077798881471192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1097
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efdd30875fdd64f0800000000000000
+      internalID: -833764789086986268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b45282073acabcd0800000000000000
+      internalID: -2541496702083115856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1135
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1334598ded35b70800000000000000
+      internalID: 8886691511530631677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1135
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b38e844fed4c790800000000000000
+      internalID: -7510633137770579139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1135
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03305b75598d3360800000000000000
+      internalID: 7151022783568294670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1119
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9583a31145f51d0800000000000000
+      internalID: -3359874364027151915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1119
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ff813ac222bdb60800000000000000
+      internalID: 7771843157068152630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1087
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d695a623181dba0800000000000000
+      internalID: -6065925169558753945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1103
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eb067c97369de40800000000000000
+      internalID: 5681681779591790202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1103
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fa590f59d778c10800000000000000
+      internalID: 2055749837857861424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1103
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedb852b11a137ef0800000000000000
+      internalID: -111716902445203989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1001
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dadd52eb4e614d0800000000000000
+      internalID: -3164090182850990711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1039
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9836806bc84bb9410800000000000000
+      internalID: 1484979018591134601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1001
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c509ed8b34f3ce0800000000000000
+      internalID: -1423344495938741194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1039
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b685113ac56a1030800000000000000
+      internalID: 3466194782296311473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1023
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f8c2a436fa6b910800000000000000
+      internalID: 1852861137690595163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1023
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01ebaee5256f5610800000000000000
+      internalID: 1612118405214363919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1023
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba6d1685d1c4c410800000000000000
+      internalID: 1496534099016116922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1023
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a82f5b99157a7d00800000000000000
+      internalID: 971217422493100196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_33
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1023
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d12f41060a6e200800000000000000
+      internalID: 209030767248022915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_34
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1023
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f014d1f8ae16c4da0800000000000000
+      internalID: -5959280546866708209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_35
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1023
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcb28cac6e363d80800000000000000
+      internalID: -8271355029147697931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_36
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1007
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0217e900d19894580800000000000000
+      internalID: -8842385635707817696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_37
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 991
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a57826f8fe2f760800000000000000
+      internalID: 7490312529382955572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 905
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfca47777a92b5f0800000000000000
+      internalID: -742361150669533233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 943
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1bafe2f8fd610c0800000000000000
+      internalID: -4605247762878254687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 905
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f29f61ab38a78660800000000000000
+      internalID: 7388058687789568759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 927
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d321b20af5d80b3c0800000000000000
+      internalID: -4345818198563941827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 911
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd8ed2432e24fc50800000000000000
+      internalID: 6698029274787384767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_43
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 895
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcae18662d18244b0800000000000000
+      internalID: -5457657057756714293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_44
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 927
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7333923156e6c820800000000000000
+      internalID: 2938289043321074555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_45
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 927
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965ffb9120017bd40800000000000000
+      internalID: 5599962262866490729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 895
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99e3a7928d14e900800000000000000
+      internalID: 712727087758436765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 809
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e113daa6f07ff190800000000000000
+      internalID: -7926492614418558492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 847
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ac83843c7729600800000000000000
+      internalID: 473572591441332841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_49
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 809
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c949f16f9d95d00800000000000000
+      internalID: 962039646535326729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_50
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 831
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ec883abe76000f0800000000000000
+      internalID: -1152807242848219633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_51
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 831
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349a7618990f57910800000000000000
+      internalID: 1834636965315062083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_52
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 831
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee2659294423f2c0800000000000000
+      internalID: -4399132514366116121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_53
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 831
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a44ba57462861860800000000000000
+      internalID: 7500325597414638758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_54
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 831
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1b44242a57830d0800000000000000
+      internalID: -3442872575367794271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 799
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8372aba3f3c5f4a0800000000000000
+      internalID: -6560121830871239796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 713
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40974aed1af14910800000000000000
+      internalID: 1820010730825945167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_57
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 751
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f12fb1312267be0800000000000000
+      internalID: -1479957962076053723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_58
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 713
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38856a3b6b6c49670800000000000000
+      internalID: 8544672881029044355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_59
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 751
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfecb93b071c91c00800000000000000
+      internalID: 871940692666732283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_60
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 751
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328842b55b0503660800000000000000
+      internalID: 7363474130599184419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 751
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101066ef720ed6010800000000000000
+      internalID: 1183848739444752641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_62
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 751
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1bc5f9383b42180800000000000000
+      internalID: -9140983965759524397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_63
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 735
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc105067b849cc950800000000000000
+      internalID: 6470710091325964749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_64
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 735
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d261918998a0250800000000000000
+      internalID: 5911688747226115376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_65
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 703
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fe74ed5b4cb9dc0800000000000000
+      internalID: -3631092389146792102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdbfcdd25befcc10800000000000000
+      internalID: 2076136694382312948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ec6d88b01af9d30800000000000000
+      internalID: 4440444828523089535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_68
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1601cb19b967aa4a0800000000000000
+      internalID: -6581317494911528863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 617
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da569cba511150a0800000000000000
+      internalID: -6894710473118819625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_70
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 655
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97532ae10ad8d5d0800000000000000
+      internalID: -3037438246903392357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_71
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 617
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcc2030742d5dd90800000000000000
+      internalID: -7073516437280469834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_72
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 655
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b264481d241d1490800000000000000
+      internalID: -7774035197858389327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_73
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 639
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98733249589c324c0800000000000000
+      internalID: -4313382442537633911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_74
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 639
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd3a21a347bcd2c0800000000000000
+      internalID: -4405444834380595765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_75
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 639
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe4b3d713bb3e4b0800000000000000
+      internalID: -5412276505940373762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_76
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 639
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eec5e4aa4def08b0800000000000000
+      internalID: -5183663741230264600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_77
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 639
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beab092647457b4e0800000000000000
+      internalID: -1966009853477340437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_78
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 639
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0388d4b9a51ae1200800000000000000
+      internalID: 152736847901853744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_79
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 639
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235bf42fddc0a0d30800000000000000
+      internalID: 4398342133473326386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_80
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 623
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2bbb8e063730580800000000000000
+      internalID: -8862112781676334369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_81
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 607
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3424e358d3b0b0b0800000000000000
+      internalID: -5714870185431391173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_82
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 521
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4644a5a8fd8d3b90800000000000000
+      internalID: -7260490925180959157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 559
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684d57e08d2478060800000000000000
+      internalID: 6955601645219992710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_84
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 521
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dab4c301ea5ec40800000000000000
+      internalID: 5541026301303565705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_85
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 543
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ed3d039f0f4bfc0800000000000000
+      internalID: -3479891658993836494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_86
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 527
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13deb8786de2dbe70800000000000000
+      internalID: 9132507118309207345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_87
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 511
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddebcd333d5719530800000000000000
+      internalID: 3859995905601879773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_88
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 543
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf21b6f538dce6f30800000000000000
+      internalID: 4570816635952894716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_89
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 543
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb9a447724b009e0800000000000000
+      internalID: -1657126581324571649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_90
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 511
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5891b255db8af770800000000000000
+      internalID: 8645376183022753882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 425
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b929fd082a7f0f4b0800000000000000
+      internalID: -5408550875153067365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_92
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 463
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc344a48f71adab0800000000000000
+      internalID: -4982643682566718270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_93
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 425
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584176ab55ea74820800000000000000
+      internalID: 2902480168086344837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_94
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 447
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d121518b952df540800000000000000
+      internalID: 5043228507544560087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_95
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 447
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35b7347ca80e1e90800000000000000
+      internalID: -7053190429638412993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_96
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 447
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdf98b7c82bd7d50800000000000000
+      internalID: 6736736934053936563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_97
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 447
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b1659849b8770b0800000000000000
+      internalID: -5730958530730124436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_98
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 447
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdf849d21cabe8d0800000000000000
+      internalID: -2815967945035284998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_99
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 415
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c22741c5982cdba0800000000000000
+      internalID: -6062926374689627451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_100
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 329
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f743da07a0084230800000000000000
+      internalID: 3623146617660721142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_101
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 367
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1613ec7a81fb9a90800000000000000
+      internalID: -7305980393375459809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_102
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 329
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fc7ff2f23888c20800000000000000
+      internalID: 3208958973192949633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_103
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 367
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfd58342620439e0800000000000000
+      internalID: -1642685343020490808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_104
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 367
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbd20a96a8010790800000000000000
+      internalID: -7565756387364250684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_105
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 367
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3bd0ce682c00f10800000000000000
+      internalID: 2233999299917493219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_106
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 367
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5670a0c989bb600800000000000000
+      internalID: 485149180823037389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_107
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 351
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82f7eb1f54763cc0800000000000000
+      internalID: -3731667289390976373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_108
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 351
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988a39ed9fa31c4d0800000000000000
+      internalID: -3116144622308185975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_109
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 319
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf40876c95b49f040800000000000000
+      internalID: 4681856136582268156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_110
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 335
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabe5db4a48d05490800000000000000
+      internalID: -7759464344347874390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_111
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 335
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94863e318e59dee70800000000000000
+      internalID: 9146131242257967177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_112
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 335
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7634ec21b2183fbb0800000000000000
+      internalID: -4903433547277253785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 233
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb7d3d755b113820800000000000000
+      internalID: 2896126089363291130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_114
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 271
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd896d6e4ac0c5050800000000000000
+      internalID: 5790517123278608604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_115
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 233
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08abc057d8aa7740800000000000000
+      internalID: 5150614766578542604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_116
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec20eb292bfd2fa0800000000000000
+      internalID: -5823722588871840531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_117
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 255
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa962669a35effd80800000000000000
+      internalID: -8214595155506599510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_118
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 255
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d70bf4e86df75cf0800000000000000
+      internalID: -263463426217801771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_119
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 255
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7699936a691e91920800000000000000
+      internalID: 2961646267122948455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_120
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260fdb33d998ccf40800000000000000
+      internalID: 5750122132516237410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_121
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 255
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176c204d316c45790800000000000000
+      internalID: -7542185687475108239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_122
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 255
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044535f5069d043e0800000000000000
+      internalID: -2071416820651043776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_123
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 255
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a69e9086eaa3ccf0800000000000000
+      internalID: -233154848716056928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_124
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 239
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c28556100dd66a0800000000000000
+      internalID: -6454273986538230732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_125
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 223
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7997fb8b51d93b770800000000000000
+      internalID: 8625410427964062103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_126
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 137
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d429a22365f420070800000000000000
+      internalID: 8071100713828782669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_127
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 175
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d4db6053323d310800000000000000
+      internalID: 1428524217459887461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_128
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 137
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7d87d0b40ae3ec0800000000000000
+      internalID: -3585252009131321387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_129
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cb16f3028b6b790800000000000000
+      internalID: -7514616479579259828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_130
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 143
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43dbe039e33f2c90800000000000000
+      internalID: -7192473003246234804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_131
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297676fe275db09c0800000000000000
+      internalID: -3959836757722699886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_132
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c29483586adf2280800000000000000
+      internalID: -9065787383260867895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_133
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9da7186df4a0b50800000000000000
+      internalID: 6560143589932456441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_134
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd72f051e005d2e0800000000000000
+      internalID: -2101772683372757571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_135
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f676f47550c2fbe0800000000000000
+      internalID: -1444881057165445386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_136
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6a059d681cf1670800000000000000
+      internalID: 8511734605669246662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_137
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 41
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f1a8be6dfc73c30800000000000000
+      internalID: 4339165287976410926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_138
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba56759741dba650800000000000000
+      internalID: 6245315413659769534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_139
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 63
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e727bdc3161b050800000000000000
+      internalID: 5814535507919666814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_140
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18852991a5eaf8810800000000000000
+      internalID: 1769824880579205249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_141
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 63
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479c0e22f58b05580800000000000000
+      internalID: -8840363349781722764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_142
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dd1834c4605a290800000000000000
+      internalID: -7879885048394949274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Interiors_143
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfa3ce8485e6f8a0800000000000000
+      internalID: -6271573073573204031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Floor_Interiors_0: -5093221951141575529
+      Floor_Interiors_1: -7708919043745633837
+      Floor_Interiors_10: 7346537077520372150
+      Floor_Interiors_100: 3623146617660721142
+      Floor_Interiors_101: -7305980393375459809
+      Floor_Interiors_102: 3208958973192949633
+      Floor_Interiors_103: -1642685343020490808
+      Floor_Interiors_104: -7565756387364250684
+      Floor_Interiors_105: 2233999299917493219
+      Floor_Interiors_106: 485149180823037389
+      Floor_Interiors_107: -3731667289390976373
+      Floor_Interiors_108: -3116144622308185975
+      Floor_Interiors_109: 4681856136582268156
+      Floor_Interiors_11: 5016535358091993348
+      Floor_Interiors_110: -7759464344347874390
+      Floor_Interiors_111: 9146131242257967177
+      Floor_Interiors_112: -4903433547277253785
+      Floor_Interiors_113: 2896126089363291130
+      Floor_Interiors_114: 5790517123278608604
+      Floor_Interiors_115: 5150614766578542604
+      Floor_Interiors_116: -5823722588871840531
+      Floor_Interiors_117: -8214595155506599510
+      Floor_Interiors_118: -263463426217801771
+      Floor_Interiors_119: 2961646267122948455
+      Floor_Interiors_12: -5251956094967541586
+      Floor_Interiors_120: 5750122132516237410
+      Floor_Interiors_121: -7542185687475108239
+      Floor_Interiors_122: -2071416820651043776
+      Floor_Interiors_123: -233154848716056928
+      Floor_Interiors_124: -6454273986538230732
+      Floor_Interiors_125: 8625410427964062103
+      Floor_Interiors_126: 8071100713828782669
+      Floor_Interiors_127: 1428524217459887461
+      Floor_Interiors_128: -3585252009131321387
+      Floor_Interiors_129: -7514616479579259828
+      Floor_Interiors_13: 89077798881471192
+      Floor_Interiors_130: -7192473003246234804
+      Floor_Interiors_131: -3959836757722699886
+      Floor_Interiors_132: -9065787383260867895
+      Floor_Interiors_133: 6560143589932456441
+      Floor_Interiors_134: -2101772683372757571
+      Floor_Interiors_135: -1444881057165445386
+      Floor_Interiors_136: 8511734605669246662
+      Floor_Interiors_137: 4339165287976410926
+      Floor_Interiors_138: 6245315413659769534
+      Floor_Interiors_139: 5814535507919666814
+      Floor_Interiors_14: -833764789086986268
+      Floor_Interiors_140: 1769824880579205249
+      Floor_Interiors_141: -8840363349781722764
+      Floor_Interiors_142: -7879885048394949274
+      Floor_Interiors_143: -6271573073573204031
+      Floor_Interiors_15: -2541496702083115856
+      Floor_Interiors_16: 8886691511530631677
+      Floor_Interiors_17: -7510633137770579139
+      Floor_Interiors_18: 7151022783568294670
+      Floor_Interiors_19: -3359874364027151915
+      Floor_Interiors_2: -5930619742149403514
+      Floor_Interiors_20: 7771843157068152630
+      Floor_Interiors_21: -6065925169558753945
+      Floor_Interiors_22: 5681681779591790202
+      Floor_Interiors_23: 2055749837857861424
+      Floor_Interiors_24: -111716902445203989
+      Floor_Interiors_25: -3164090182850990711
+      Floor_Interiors_26: 1484979018591134601
+      Floor_Interiors_27: -1423344495938741194
+      Floor_Interiors_28: 3466194782296311473
+      Floor_Interiors_29: 1852861137690595163
+      Floor_Interiors_3: 3354770653418378033
+      Floor_Interiors_30: 1612118405214363919
+      Floor_Interiors_31: 1496534099016116922
+      Floor_Interiors_32: 971217422493100196
+      Floor_Interiors_33: 209030767248022915
+      Floor_Interiors_34: -5959280546866708209
+      Floor_Interiors_35: -8271355029147697931
+      Floor_Interiors_36: -8842385635707817696
+      Floor_Interiors_37: 7490312529382955572
+      Floor_Interiors_38: -742361150669533233
+      Floor_Interiors_39: -4605247762878254687
+      Floor_Interiors_4: -3868269784236331008
+      Floor_Interiors_40: 7388058687789568759
+      Floor_Interiors_41: -4345818198563941827
+      Floor_Interiors_42: 6698029274787384767
+      Floor_Interiors_43: -5457657057756714293
+      Floor_Interiors_44: 2938289043321074555
+      Floor_Interiors_45: 5599962262866490729
+      Floor_Interiors_46: 712727087758436765
+      Floor_Interiors_47: -7926492614418558492
+      Floor_Interiors_48: 473572591441332841
+      Floor_Interiors_49: 962039646535326729
+      Floor_Interiors_5: -7997724728497308915
+      Floor_Interiors_50: -1152807242848219633
+      Floor_Interiors_51: 1834636965315062083
+      Floor_Interiors_52: -4399132514366116121
+      Floor_Interiors_53: 7500325597414638758
+      Floor_Interiors_54: -3442872575367794271
+      Floor_Interiors_55: -6560121830871239796
+      Floor_Interiors_56: 1820010730825945167
+      Floor_Interiors_57: -1479957962076053723
+      Floor_Interiors_58: 8544672881029044355
+      Floor_Interiors_59: 871940692666732283
+      Floor_Interiors_6: 8856257278286379858
+      Floor_Interiors_60: 7363474130599184419
+      Floor_Interiors_61: 1183848739444752641
+      Floor_Interiors_62: -9140983965759524397
+      Floor_Interiors_63: 6470710091325964749
+      Floor_Interiors_64: 5911688747226115376
+      Floor_Interiors_65: -3631092389146792102
+      Floor_Interiors_66: 2076136694382312948
+      Floor_Interiors_67: 4440444828523089535
+      Floor_Interiors_68: -6581317494911528863
+      Floor_Interiors_69: -6894710473118819625
+      Floor_Interiors_7: 6499874072866968519
+      Floor_Interiors_70: -3037438246903392357
+      Floor_Interiors_71: -7073516437280469834
+      Floor_Interiors_72: -7774035197858389327
+      Floor_Interiors_73: -4313382442537633911
+      Floor_Interiors_74: -4405444834380595765
+      Floor_Interiors_75: -5412276505940373762
+      Floor_Interiors_76: -5183663741230264600
+      Floor_Interiors_77: -1966009853477340437
+      Floor_Interiors_78: 152736847901853744
+      Floor_Interiors_79: 4398342133473326386
+      Floor_Interiors_8: 3660855456960837570
+      Floor_Interiors_80: -8862112781676334369
+      Floor_Interiors_81: -5714870185431391173
+      Floor_Interiors_82: -7260490925180959157
+      Floor_Interiors_83: 6955601645219992710
+      Floor_Interiors_84: 5541026301303565705
+      Floor_Interiors_85: -3479891658993836494
+      Floor_Interiors_86: 9132507118309207345
+      Floor_Interiors_87: 3859995905601879773
+      Floor_Interiors_88: 4570816635952894716
+      Floor_Interiors_89: -1657126581324571649
+      Floor_Interiors_9: 6686279065148772330
+      Floor_Interiors_90: 8645376183022753882
+      Floor_Interiors_91: -5408550875153067365
+      Floor_Interiors_92: -4982643682566718270
+      Floor_Interiors_93: 2902480168086344837
+      Floor_Interiors_94: 5043228507544560087
+      Floor_Interiors_95: -7053190429638412993
+      Floor_Interiors_96: 6736736934053936563
+      Floor_Interiors_97: -5730958530730124436
+      Floor_Interiors_98: -2815967945035284998
+      Floor_Interiors_99: -6062926374689627451
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

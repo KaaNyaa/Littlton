@@ -1,0 +1,2418 @@
+fileFormatVersion: 2
+guid: 15f85fe350a8aec4b9631064c15856e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5980375793740315187
+    second: Animation_MarketStand_2_Snow_0
+  - first:
+      213: 8658826294484515652
+    second: Animation_MarketStand_2_Snow_1
+  - first:
+      213: 5703819005879703230
+    second: Animation_MarketStand_2_Snow_2
+  - first:
+      213: -508662049949502539
+    second: Animation_MarketStand_2_Snow_3
+  - first:
+      213: -7741194131117460898
+    second: Animation_MarketStand_2_Snow_4
+  - first:
+      213: -3798013302465449723
+    second: Animation_MarketStand_2_Snow_5
+  - first:
+      213: 9010439977668878603
+    second: Animation_MarketStand_2_Snow_6
+  - first:
+      213: 3172945666573702501
+    second: Animation_MarketStand_2_Snow_7
+  - first:
+      213: -443829787500469684
+    second: Animation_MarketStand_2_Snow_8
+  - first:
+      213: 3356456021694450007
+    second: Animation_MarketStand_2_Snow_9
+  - first:
+      213: 6200160077183590262
+    second: Animation_MarketStand_2_Snow_10
+  - first:
+      213: -6719964652807740061
+    second: Animation_MarketStand_2_Snow_11
+  - first:
+      213: -737432210199261058
+    second: Animation_MarketStand_2_Snow_12
+  - first:
+      213: 1616414628023483280
+    second: Animation_MarketStand_2_Snow_13
+  - first:
+      213: -5179172740148144472
+    second: Animation_MarketStand_2_Snow_14
+  - first:
+      213: -2166065793063629859
+    second: Animation_MarketStand_2_Snow_15
+  - first:
+      213: -6067866066403400678
+    second: Animation_MarketStand_2_Snow_16
+  - first:
+      213: 3426623109711618500
+    second: Animation_MarketStand_2_Snow_17
+  - first:
+      213: 4828202738507217466
+    second: Animation_MarketStand_2_Snow_18
+  - first:
+      213: -4921904354669578046
+    second: Animation_MarketStand_2_Snow_19
+  - first:
+      213: 6464903627037257586
+    second: Animation_MarketStand_2_Snow_20
+  - first:
+      213: -9068608416823985441
+    second: Animation_MarketStand_2_Snow_21
+  - first:
+      213: 533537393470563695
+    second: Animation_MarketStand_2_Snow_22
+  - first:
+      213: 4854092655190439302
+    second: Animation_MarketStand_2_Snow_23
+  - first:
+      213: -6216918532193969898
+    second: Animation_MarketStand_2_Snow_24
+  - first:
+      213: -3737340248284461416
+    second: Animation_MarketStand_2_Snow_25
+  - first:
+      213: 4029332465794718824
+    second: Animation_MarketStand_2_Snow_26
+  - first:
+      213: -3661830632414686633
+    second: Animation_MarketStand_2_Snow_27
+  - first:
+      213: 292131373921035502
+    second: Animation_MarketStand_2_Snow_28
+  - first:
+      213: -5612062630799532575
+    second: Animation_MarketStand_2_Snow_29
+  - first:
+      213: 7452698739525656945
+    second: Animation_MarketStand_2_Snow_30
+  - first:
+      213: 32030622496982104
+    second: Animation_MarketStand_2_Snow_31
+  - first:
+      213: 1671048086021196819
+    second: Animation_MarketStand_2_Snow_32
+  - first:
+      213: -4708729018066066543
+    second: Animation_MarketStand_2_Snow_33
+  - first:
+      213: 7960096814929288150
+    second: Animation_MarketStand_2_Snow_34
+  - first:
+      213: -1504705335547680785
+    second: Animation_MarketStand_2_Snow_35
+  - first:
+      213: 687130482609100119
+    second: Animation_MarketStand_2_Snow_36
+  - first:
+      213: -1333272472413382135
+    second: Animation_MarketStand_2_Snow_37
+  - first:
+      213: -1387159449272486980
+    second: Animation_MarketStand_2_Snow_38
+  - first:
+      213: -9210075219814389808
+    second: Animation_MarketStand_2_Snow_39
+  - first:
+      213: -1945087346942832741
+    second: Animation_MarketStand_2_Snow_40
+  - first:
+      213: 919090141770545851
+    second: Animation_MarketStand_2_Snow_41
+  - first:
+      213: 4960541041323726623
+    second: Animation_MarketStand_2_Snow_42
+  - first:
+      213: -8366414060014758450
+    second: Animation_MarketStand_2_Snow_43
+  - first:
+      213: 8796112917858391882
+    second: Animation_MarketStand_2_Snow_44
+  - first:
+      213: -7432606303720552306
+    second: Animation_MarketStand_2_Snow_45
+  - first:
+      213: 1992171963708712490
+    second: Animation_MarketStand_2_Snow_46
+  - first:
+      213: -7884072183874528547
+    second: Animation_MarketStand_2_Snow_47
+  - first:
+      213: 7148770958944562195
+    second: Animation_MarketStand_2_Snow_48
+  - first:
+      213: -7939481468727469838
+    second: Animation_MarketStand_2_Snow_49
+  - first:
+      213: -5126434012393158586
+    second: Animation_MarketStand_2_Snow_50
+  - first:
+      213: 7261273679794799707
+    second: Animation_MarketStand_2_Snow_51
+  - first:
+      213: 1888829029663984742
+    second: Animation_MarketStand_2_Snow_52
+  - first:
+      213: 1149853991296930400
+    second: Animation_MarketStand_2_Snow_53
+  - first:
+      213: 4817353117753553776
+    second: Animation_MarketStand_2_Snow_54
+  - first:
+      213: -4715362856409189647
+    second: Animation_MarketStand_2_Snow_55
+  - first:
+      213: -4705336193156793432
+    second: Animation_MarketStand_2_Snow_56
+  - first:
+      213: -4673020167937877379
+    second: Animation_MarketStand_2_Snow_57
+  - first:
+      213: -4977568826734350238
+    second: Animation_MarketStand_2_Snow_58
+  - first:
+      213: -6478582360335121966
+    second: Animation_MarketStand_2_Snow_59
+  - first:
+      213: 2934368338614647334
+    second: Animation_MarketStand_2_Snow_60
+  - first:
+      213: 3022807805834115420
+    second: Animation_MarketStand_2_Snow_61
+  - first:
+      213: -7963259686679758984
+    second: Animation_MarketStand_2_Snow_62
+  - first:
+      213: 5715879190769066831
+    second: Animation_MarketStand_2_Snow_63
+  - first:
+      213: 9035399423767844673
+    second: Animation_MarketStand_2_Snow_64
+  - first:
+      213: 4896455821272436801
+    second: Animation_MarketStand_2_Snow_65
+  - first:
+      213: 4696980712670100484
+    second: Animation_MarketStand_2_Snow_66
+  - first:
+      213: 6207809606636204980
+    second: Animation_MarketStand_2_Snow_67
+  - first:
+      213: 3638356250477540352
+    second: Animation_MarketStand_2_Snow_68
+  - first:
+      213: 6244685869551636492
+    second: Animation_MarketStand_2_Snow_69
+  - first:
+      213: 5390350134663906598
+    second: Animation_MarketStand_2_Snow_70
+  - first:
+      213: -3028793088431559798
+    second: Animation_MarketStand_2_Snow_71
+  - first:
+      213: 6488881215152518562
+    second: Animation_MarketStand_2_Snow_72
+  - first:
+      213: -6151041105926905177
+    second: Animation_MarketStand_2_Snow_73
+  - first:
+      213: -4259995876735635839
+    second: Animation_MarketStand_2_Snow_74
+  - first:
+      213: -6408969478824685728
+    second: Animation_MarketStand_2_Snow_75
+  - first:
+      213: -1701782566227201991
+    second: Animation_MarketStand_2_Snow_76
+  - first:
+      213: 9086954758019479881
+    second: Animation_MarketStand_2_Snow_77
+  - first:
+      213: 5578763959431556906
+    second: Animation_MarketStand_2_Snow_78
+  - first:
+      213: 1427191819793888742
+    second: Animation_MarketStand_2_Snow_79
+  - first:
+      213: 6904094357895431088
+    second: Animation_MarketStand_2_Snow_80
+  - first:
+      213: 8176014366757161454
+    second: Animation_MarketStand_2_Snow_81
+  - first:
+      213: -5370746780882511826
+    second: Animation_MarketStand_2_Snow_82
+  - first:
+      213: 8444409022372862987
+    second: Animation_MarketStand_2_Snow_83
+  - first:
+      213: -4655504531286659732
+    second: Animation_MarketStand_2_Snow_84
+  - first:
+      213: 8591844489075794839
+    second: Animation_MarketStand_2_Snow_85
+  - first:
+      213: -7399231383341180421
+    second: Animation_MarketStand_2_Snow_86
+  - first:
+      213: -5738880753720599009
+    second: Animation_MarketStand_2_Snow_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 640
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc583c6a6ef610da0800000000000000
+      internalID: -5980375793740315187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 640
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bbf8e63a45a2870800000000000000
+      internalID: 8658826294484515652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 640
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6d49c6a29082f40800000000000000
+      internalID: 5703819005879703230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 640
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3b9028f8ed0f8f0800000000000000
+      internalID: -508662049949502539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 640
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52b76dc3f0c19490800000000000000
+      internalID: -7741194131117460898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 640
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501b65e260fba4bc0800000000000000
+      internalID: -3798013302465449723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_6
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 640
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01aeea9b638b0d70800000000000000
+      internalID: 9010439977668878603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_7
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 640
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5659db3d541980c20800000000000000
+      internalID: 3172945666573702501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 576
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c422c47e82337d9f0800000000000000
+      internalID: -443829787500469684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 576
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759815de7f6849e20800000000000000
+      internalID: 3356456021694450007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 576
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f16178db46b0650800000000000000
+      internalID: 6200160077183590262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_11
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 576
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365a63e80c3edb2a0800000000000000
+      internalID: -6719964652807740061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 576
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e705429df4d14c5f0800000000000000
+      internalID: -737432210199261058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_13
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 576
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bb5114a88ae6610800000000000000
+      internalID: 1616414628023483280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_14
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 576
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6551155d1ef18b0800000000000000
+      internalID: -5179172740148144472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_15
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 576
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb415433a690f1e0800000000000000
+      internalID: -2166065793063629859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 512
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14e06726fb9acba0800000000000000
+      internalID: -6067866066403400678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 512
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c16181309fcd8f20800000000000000
+      internalID: 3426623109711618500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 512
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a7a4c4fc8310340800000000000000
+      internalID: 4828202738507217466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 512
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8b8791112e1bbb0800000000000000
+      internalID: -4921904354669578046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 512
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fa0b4a893f7b950800000000000000
+      internalID: 6464903627037257586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 512
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdab61441b4d52280800000000000000
+      internalID: -9068608416823985441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_22
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 512
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65633cbe61876700800000000000000
+      internalID: 533537393470563695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_23
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 512
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68575734d833d5340800000000000000
+      internalID: 4854092655190439302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 448
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619190b988119b9a0800000000000000
+      internalID: -6216918532193969898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 448
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8960c3078dc422cc0800000000000000
+      internalID: -3737340248284461416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 448
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c94a187801be730800000000000000
+      internalID: 4029332465794718824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 448
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7525747e0709e2dc0800000000000000
+      internalID: -3661830632414686633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 448
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee46f42dfebdd0400800000000000000
+      internalID: 292131373921035502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_29
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 448
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed13f175c2fd12b0800000000000000
+      internalID: -5612062630799532575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_30
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 448
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171ad6b740e4d6760800000000000000
+      internalID: 7452698739525656945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_31
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 448
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8540ed37eabc17000800000000000000
+      internalID: 32030622496982104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 384
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cc3e17161c03710800000000000000
+      internalID: 1671048086021196819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 384
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193299ee7eb37aeb0800000000000000
+      internalID: -4708729018066066543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 384
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db1497f0e1f77e60800000000000000
+      internalID: 7960096814929288150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_35
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 384
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7ab0738763e1be0800000000000000
+      internalID: -1504705335547680785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_36
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 384
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755124a888d298900800000000000000
+      internalID: 687130482609100119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_37
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 384
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a5ef410c34f7de0800000000000000
+      internalID: -1333272472413382135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_38
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 384
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3794394d1dfbce0800000000000000
+      internalID: -1387159449272486980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_39
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 384
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7e558726d3f2080800000000000000
+      internalID: -9210075219814389808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 320
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f8d5c0d59a105e0800000000000000
+      internalID: -1945087346942832741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 320
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbafbc84d9341cc00800000000000000
+      internalID: 919090141770545851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_42
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 320
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17d8d58bc167d440800000000000000
+      internalID: 4960541041323726623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_43
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 320
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec59cf45db684eb80800000000000000
+      internalID: -8366414060014758450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_44
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 320
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a479c215812121a70800000000000000
+      internalID: 8796112917858391882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_45
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 320
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88486742f31ad890800000000000000
+      internalID: -7432606303720552306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_46
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 320
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26a95498dd95ab10800000000000000
+      internalID: 1992171963708712490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_47
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 320
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddade90de16269290800000000000000
+      internalID: -7884072183874528547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ce484bf49853360800000000000000
+      internalID: 7148770958944562195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8d3bb5bab41d190800000000000000
+      internalID: -7939481468727469838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_50
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64843de3d6f3bd8b0800000000000000
+      internalID: -5126434012393158586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_51
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54001d90f935c460800000000000000
+      internalID: 7261273679794799707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_52
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c419abef7763a10800000000000000
+      internalID: 1888829029663984742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_53
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06291d6ec1a15ff00800000000000000
+      internalID: 1149853991296930400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_54
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073325d132daad240800000000000000
+      internalID: 4817353117753553776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_55
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2b8a4177aaf8eb0800000000000000
+      internalID: -4715362856409189647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abb91a89a943beb0800000000000000
+      internalID: -4705336193156793432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a93dd7ae8162fb0800000000000000
+      internalID: -4673020167937877379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_58
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260f07d368f1ceab0800000000000000
+      internalID: -4977568826734350238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_59
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d10d141ba37716a0800000000000000
+      internalID: -6478582360335121966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_60
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a774ff478f8b820800000000000000
+      internalID: 2934368338614647334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_61
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5935031fab23f920800000000000000
+      internalID: 3022807805834115420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_62
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877b3419181dc7190800000000000000
+      internalID: -7963259686679758984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_63
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4366d807d1e25f40800000000000000
+      internalID: 5715879190769066831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147937187ef246d70800000000000000
+      internalID: 9035399423767844673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_65
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 128
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140565d70a4b3f340800000000000000
+      internalID: 4896455821272436801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 128
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cff8f82170f2140800000000000000
+      internalID: 4696980712670100484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_67
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 128
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3fec462f1962650800000000000000
+      internalID: 6207809606636204980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_68
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 128
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0043904abb90e7230800000000000000
+      internalID: 3638356250477540352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_69
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 128
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00d68c66b499a650800000000000000
+      internalID: 6244685869551636492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_70
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 128
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6250f9f53ee5eca40800000000000000
+      internalID: 5390350134663906598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_71
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 128
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8be0e9bbb097f5d0800000000000000
+      internalID: -3028793088431559798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5fedae5132d0a50800000000000000
+      internalID: 6488881215152518562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_73
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a66a24bc13aaa0800000000000000
+      internalID: -6151041105926905177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_74
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e2b8e025471e4c0800000000000000
+      internalID: -4259995876735635839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_75
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f85561734ce07a0800000000000000
+      internalID: -6408969478824685728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_76
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930331fb5cd0268e0800000000000000
+      internalID: -1701782566227201991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_77
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949fbc925395b1e70800000000000000
+      internalID: 9086954758019479881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_78
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f6ba77340cb6d40800000000000000
+      internalID: 5578763959431556906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_79
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5782506676ec310800000000000000
+      internalID: 1427191819793888742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3c2223d3540df50800000000000000
+      internalID: 6904094357895431088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee90d098fb9077170800000000000000
+      internalID: 8176014366757161454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_82
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28dcea12464775b0800000000000000
+      internalID: -5370746780882511826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_83
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c53a4f341903570800000000000000
+      internalID: 8444409022372862987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_84
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6def627b43546fb0800000000000000
+      internalID: -4655504531286659732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_85
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793a2c09a0d5c3770800000000000000
+      internalID: 8591844489075794839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_86
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9d6097246a05990800000000000000
+      internalID: -7399231383341180421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MarketStand_2_Snow_87
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e58224c566b50b0800000000000000
+      internalID: -5738880753720599009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_MarketStand_2_Snow_0: -5980375793740315187
+      Animation_MarketStand_2_Snow_1: 8658826294484515652
+      Animation_MarketStand_2_Snow_10: 6200160077183590262
+      Animation_MarketStand_2_Snow_11: -6719964652807740061
+      Animation_MarketStand_2_Snow_12: -737432210199261058
+      Animation_MarketStand_2_Snow_13: 1616414628023483280
+      Animation_MarketStand_2_Snow_14: -5179172740148144472
+      Animation_MarketStand_2_Snow_15: -2166065793063629859
+      Animation_MarketStand_2_Snow_16: -6067866066403400678
+      Animation_MarketStand_2_Snow_17: 3426623109711618500
+      Animation_MarketStand_2_Snow_18: 4828202738507217466
+      Animation_MarketStand_2_Snow_19: -4921904354669578046
+      Animation_MarketStand_2_Snow_2: 5703819005879703230
+      Animation_MarketStand_2_Snow_20: 6464903627037257586
+      Animation_MarketStand_2_Snow_21: -9068608416823985441
+      Animation_MarketStand_2_Snow_22: 533537393470563695
+      Animation_MarketStand_2_Snow_23: 4854092655190439302
+      Animation_MarketStand_2_Snow_24: -6216918532193969898
+      Animation_MarketStand_2_Snow_25: -3737340248284461416
+      Animation_MarketStand_2_Snow_26: 4029332465794718824
+      Animation_MarketStand_2_Snow_27: -3661830632414686633
+      Animation_MarketStand_2_Snow_28: 292131373921035502
+      Animation_MarketStand_2_Snow_29: -5612062630799532575
+      Animation_MarketStand_2_Snow_3: -508662049949502539
+      Animation_MarketStand_2_Snow_30: 7452698739525656945
+      Animation_MarketStand_2_Snow_31: 32030622496982104
+      Animation_MarketStand_2_Snow_32: 1671048086021196819
+      Animation_MarketStand_2_Snow_33: -4708729018066066543
+      Animation_MarketStand_2_Snow_34: 7960096814929288150
+      Animation_MarketStand_2_Snow_35: -1504705335547680785
+      Animation_MarketStand_2_Snow_36: 687130482609100119
+      Animation_MarketStand_2_Snow_37: -1333272472413382135
+      Animation_MarketStand_2_Snow_38: -1387159449272486980
+      Animation_MarketStand_2_Snow_39: -9210075219814389808
+      Animation_MarketStand_2_Snow_4: -7741194131117460898
+      Animation_MarketStand_2_Snow_40: -1945087346942832741
+      Animation_MarketStand_2_Snow_41: 919090141770545851
+      Animation_MarketStand_2_Snow_42: 4960541041323726623
+      Animation_MarketStand_2_Snow_43: -8366414060014758450
+      Animation_MarketStand_2_Snow_44: 8796112917858391882
+      Animation_MarketStand_2_Snow_45: -7432606303720552306
+      Animation_MarketStand_2_Snow_46: 1992171963708712490
+      Animation_MarketStand_2_Snow_47: -7884072183874528547
+      Animation_MarketStand_2_Snow_48: 7148770958944562195
+      Animation_MarketStand_2_Snow_49: -7939481468727469838
+      Animation_MarketStand_2_Snow_5: -3798013302465449723
+      Animation_MarketStand_2_Snow_50: -5126434012393158586
+      Animation_MarketStand_2_Snow_51: 7261273679794799707
+      Animation_MarketStand_2_Snow_52: 1888829029663984742
+      Animation_MarketStand_2_Snow_53: 1149853991296930400
+      Animation_MarketStand_2_Snow_54: 4817353117753553776
+      Animation_MarketStand_2_Snow_55: -4715362856409189647
+      Animation_MarketStand_2_Snow_56: -4705336193156793432
+      Animation_MarketStand_2_Snow_57: -4673020167937877379
+      Animation_MarketStand_2_Snow_58: -4977568826734350238
+      Animation_MarketStand_2_Snow_59: -6478582360335121966
+      Animation_MarketStand_2_Snow_6: 9010439977668878603
+      Animation_MarketStand_2_Snow_60: 2934368338614647334
+      Animation_MarketStand_2_Snow_61: 3022807805834115420
+      Animation_MarketStand_2_Snow_62: -7963259686679758984
+      Animation_MarketStand_2_Snow_63: 5715879190769066831
+      Animation_MarketStand_2_Snow_64: 9035399423767844673
+      Animation_MarketStand_2_Snow_65: 4896455821272436801
+      Animation_MarketStand_2_Snow_66: 4696980712670100484
+      Animation_MarketStand_2_Snow_67: 6207809606636204980
+      Animation_MarketStand_2_Snow_68: 3638356250477540352
+      Animation_MarketStand_2_Snow_69: 6244685869551636492
+      Animation_MarketStand_2_Snow_7: 3172945666573702501
+      Animation_MarketStand_2_Snow_70: 5390350134663906598
+      Animation_MarketStand_2_Snow_71: -3028793088431559798
+      Animation_MarketStand_2_Snow_72: 6488881215152518562
+      Animation_MarketStand_2_Snow_73: -6151041105926905177
+      Animation_MarketStand_2_Snow_74: -4259995876735635839
+      Animation_MarketStand_2_Snow_75: -6408969478824685728
+      Animation_MarketStand_2_Snow_76: -1701782566227201991
+      Animation_MarketStand_2_Snow_77: 9086954758019479881
+      Animation_MarketStand_2_Snow_78: 5578763959431556906
+      Animation_MarketStand_2_Snow_79: 1427191819793888742
+      Animation_MarketStand_2_Snow_8: -443829787500469684
+      Animation_MarketStand_2_Snow_80: 6904094357895431088
+      Animation_MarketStand_2_Snow_81: 8176014366757161454
+      Animation_MarketStand_2_Snow_82: -5370746780882511826
+      Animation_MarketStand_2_Snow_83: 8444409022372862987
+      Animation_MarketStand_2_Snow_84: -4655504531286659732
+      Animation_MarketStand_2_Snow_85: 8591844489075794839
+      Animation_MarketStand_2_Snow_86: -7399231383341180421
+      Animation_MarketStand_2_Snow_87: -5738880753720599009
+      Animation_MarketStand_2_Snow_9: 3356456021694450007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

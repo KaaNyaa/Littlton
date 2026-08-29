@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: f03050af5baca11409c55bfe2090b171
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2474283190120664998
+    second: Animation_Rock_Ice_0
+  - first:
+      213: -4948710602794123689
+    second: Animation_Rock_Ice_1
+  - first:
+      213: -1578307781690050418
+    second: Animation_Rock_Ice_2
+  - first:
+      213: 3699286656222540157
+    second: Animation_Rock_Ice_3
+  - first:
+      213: -5864675012006597295
+    second: Animation_Rock_Ice_4
+  - first:
+      213: -6620035799551066962
+    second: Animation_Rock_Ice_5
+  - first:
+      213: 4688906234271479872
+    second: Animation_Rock_Ice_6
+  - first:
+      213: -3976621885789619096
+    second: Animation_Rock_Ice_7
+  - first:
+      213: -5258424248669942672
+    second: Animation_Rock_Ice_8
+  - first:
+      213: -4479594252246053229
+    second: Animation_Rock_Ice_9
+  - first:
+      213: 6063918997071762801
+    second: Animation_Rock_Ice_10
+  - first:
+      213: 1551057197951018378
+    second: Animation_Rock_Ice_11
+  - first:
+      213: -395602478953764060
+    second: Animation_Rock_Ice_12
+  - first:
+      213: -4135453842457078985
+    second: Animation_Rock_Ice_13
+  - first:
+      213: -236649910778981615
+    second: Animation_Rock_Ice_14
+  - first:
+      213: -5432056985825544385
+    second: Animation_Rock_Ice_15
+  - first:
+      213: -3950737001229492286
+    second: Animation_Rock_Ice_16
+  - first:
+      213: 8762562056991789322
+    second: Animation_Rock_Ice_17
+  - first:
+      213: 5279949535242153169
+    second: Animation_Rock_Ice_18
+  - first:
+      213: 4772237772638064625
+    second: Animation_Rock_Ice_19
+  - first:
+      213: 1696640728408285098
+    second: Animation_Rock_Ice_20
+  - first:
+      213: -1232384849760170044
+    second: Animation_Rock_Ice_21
+  - first:
+      213: -514974411814208060
+    second: Animation_Rock_Ice_22
+  - first:
+      213: -677335352216218943
+    second: Animation_Rock_Ice_23
+  - first:
+      213: -5504451806903951829
+    second: Animation_Rock_Ice_24
+  - first:
+      213: -6127533591998527795
+    second: Animation_Rock_Ice_25
+  - first:
+      213: -1832067863309688349
+    second: Animation_Rock_Ice_26
+  - first:
+      213: -6769765408243864767
+    second: Animation_Rock_Ice_27
+  - first:
+      213: 840339579299594693
+    second: Animation_Rock_Ice_28
+  - first:
+      213: -510954621818297900
+    second: Animation_Rock_Ice_29
+  - first:
+      213: 3811120204903795103
+    second: Animation_Rock_Ice_30
+  - first:
+      213: 7232077185065654280
+    second: Animation_Rock_Ice_31
+  - first:
+      213: 1801201976775706178
+    second: Animation_Rock_Ice_32
+  - first:
+      213: -1719069811712205636
+    second: Animation_Rock_Ice_33
+  - first:
+      213: -6420283993471929607
+    second: Animation_Rock_Ice_34
+  - first:
+      213: 3077670846500647551
+    second: Animation_Rock_Ice_35
+  - first:
+      213: -4043221962626670209
+    second: Animation_Rock_Ice_36
+  - first:
+      213: 5499735899928299894
+    second: Animation_Rock_Ice_37
+  - first:
+      213: 7494147555279245224
+    second: Animation_Rock_Ice_38
+  - first:
+      213: 5250880722366311503
+    second: Animation_Rock_Ice_39
+  - first:
+      213: 9039545298407748774
+    second: Animation_Rock_Ice_40
+  - first:
+      213: 6183905167761384974
+    second: Animation_Rock_Ice_41
+  - first:
+      213: 3101012841872506196
+    second: Animation_Rock_Ice_42
+  - first:
+      213: 6000200973304454005
+    second: Animation_Rock_Ice_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5033234c8499add0800000000000000
+      internalID: -2474283190120664998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 301
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e3f381de5a25bb0800000000000000
+      internalID: -4948710602794123689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88312e4f69b81ae0800000000000000
+      internalID: -1578307781690050418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 302
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71bc7a3d91865330800000000000000
+      internalID: 3699286656222540157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dac32262d7c9ea0800000000000000
+      internalID: -5864675012006597295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 301
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacb367c388e024a0800000000000000
+      internalID: -6620035799551066962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 289
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048bdde8067521140800000000000000
+      internalID: 4688906234271479872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 289
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c3773c67330d8c0800000000000000
+      internalID: -3976621885789619096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 289
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c4ab391035607b0800000000000000
+      internalID: -5258424248669942672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e0ef0f2c845d1c0800000000000000
+      internalID: -4479594252246053229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 302
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1759437233e572450800000000000000
+      internalID: 6063918997071762801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 289
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85ee2ebd46768510800000000000000
+      internalID: 1551057197951018378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 289
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b62b134a9828af0800000000000000
+      internalID: -395602478953764060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733525f04aaeb96c0800000000000000
+      internalID: -4135453842457078985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11314e3f82047bcf0800000000000000
+      internalID: -236649910778981615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f377030a3f47d94b0800000000000000
+      internalID: -5432056985825544385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf59b811a92c29c0800000000000000
+      internalID: -3950737001229492286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01df49c3cfda9970800000000000000
+      internalID: 8762562056991789322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dce810c026264940800000000000000
+      internalID: 5279949535242153169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff0bc548f46a3240800000000000000
+      internalID: 4772237772638064625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf5c38d0cdab8710800000000000000
+      internalID: 1696640728408285098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfc8733280b5eee0800000000000000
+      internalID: -1232384849760170044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdf56b30817ad8f0800000000000000
+      internalID: -514974411814208060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c29659f51f9996f0800000000000000
+      internalID: -677335352216218943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e9b36de324c93b0800000000000000
+      internalID: -5504451806903951829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc687a3c9a0a6faa0800000000000000
+      internalID: -6127533591998527795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1640b2cff2396e0800000000000000
+      internalID: -1832067863309688349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ba5ec9a36fc02a0800000000000000
+      internalID: -6769765408243864767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c18ad2256c79ab00800000000000000
+      internalID: 840339579299594693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d12d268a79b8e8f0800000000000000
+      internalID: -510954621818297900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99ca9952a1d3e430800000000000000
+      internalID: 3811120204903795103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8089b04f1ef7d5460800000000000000
+      internalID: 7232077185065654280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246827a97a72ff810800000000000000
+      internalID: 1801201976775706178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcdbc04d13a428e0800000000000000
+      internalID: -1719069811712205636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2bafb59b196e6a0800000000000000
+      internalID: -6420283993471929607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f723f35245516ba20800000000000000
+      internalID: 3077670846500647551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7164910c0793e7c0800000000000000
+      internalID: -4043221962626670209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 49
+        width: 98
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67980b189acf25c40800000000000000
+      internalID: 5499735899928299894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af08ceee7f800860800000000000000
+      internalID: 7494147555279245224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c27965230eed840800000000000000
+      internalID: 5250880722366311503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a475aa2e8ae27d70800000000000000
+      internalID: 9039545298407748774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06ae118cf4a1d550800000000000000
+      internalID: 6183905167761384974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d3cb3ffb2090b20800000000000000
+      internalID: 3101012841872506196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Ice_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bd3caaefef44350800000000000000
+      internalID: 6000200973304454005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_Rock_Ice_0: -2474283190120664998
+      Animation_Rock_Ice_1: -4948710602794123689
+      Animation_Rock_Ice_10: 6063918997071762801
+      Animation_Rock_Ice_11: 1551057197951018378
+      Animation_Rock_Ice_12: -395602478953764060
+      Animation_Rock_Ice_13: -4135453842457078985
+      Animation_Rock_Ice_14: -236649910778981615
+      Animation_Rock_Ice_15: -5432056985825544385
+      Animation_Rock_Ice_16: -3950737001229492286
+      Animation_Rock_Ice_17: 8762562056991789322
+      Animation_Rock_Ice_18: 5279949535242153169
+      Animation_Rock_Ice_19: 4772237772638064625
+      Animation_Rock_Ice_2: -1578307781690050418
+      Animation_Rock_Ice_20: 1696640728408285098
+      Animation_Rock_Ice_21: -1232384849760170044
+      Animation_Rock_Ice_22: -514974411814208060
+      Animation_Rock_Ice_23: -677335352216218943
+      Animation_Rock_Ice_24: -5504451806903951829
+      Animation_Rock_Ice_25: -6127533591998527795
+      Animation_Rock_Ice_26: -1832067863309688349
+      Animation_Rock_Ice_27: -6769765408243864767
+      Animation_Rock_Ice_28: 840339579299594693
+      Animation_Rock_Ice_29: -510954621818297900
+      Animation_Rock_Ice_3: 3699286656222540157
+      Animation_Rock_Ice_30: 3811120204903795103
+      Animation_Rock_Ice_31: 7232077185065654280
+      Animation_Rock_Ice_32: 1801201976775706178
+      Animation_Rock_Ice_33: -1719069811712205636
+      Animation_Rock_Ice_34: -6420283993471929607
+      Animation_Rock_Ice_35: 3077670846500647551
+      Animation_Rock_Ice_36: -4043221962626670209
+      Animation_Rock_Ice_37: 5499735899928299894
+      Animation_Rock_Ice_38: 7494147555279245224
+      Animation_Rock_Ice_39: 5250880722366311503
+      Animation_Rock_Ice_4: -5864675012006597295
+      Animation_Rock_Ice_40: 9039545298407748774
+      Animation_Rock_Ice_41: 6183905167761384974
+      Animation_Rock_Ice_42: 3101012841872506196
+      Animation_Rock_Ice_43: 6000200973304454005
+      Animation_Rock_Ice_5: -6620035799551066962
+      Animation_Rock_Ice_6: 4688906234271479872
+      Animation_Rock_Ice_7: -3976621885789619096
+      Animation_Rock_Ice_8: -5258424248669942672
+      Animation_Rock_Ice_9: -4479594252246053229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

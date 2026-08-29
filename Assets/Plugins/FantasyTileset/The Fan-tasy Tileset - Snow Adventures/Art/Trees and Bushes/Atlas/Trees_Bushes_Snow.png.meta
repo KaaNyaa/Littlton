@@ -1,0 +1,2964 @@
+fileFormatVersion: 2
+guid: eb4dd60374357b24f81d87bf073182ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3740319438792187843
+    second: Trees_Bushes_Snow_0
+  - first:
+      213: -5148425486777071017
+    second: Trees_Bushes_Snow_1
+  - first:
+      213: -1879436531004320238
+    second: Trees_Bushes_Snow_2
+  - first:
+      213: 127531331678181819
+    second: Trees_Bushes_Snow_3
+  - first:
+      213: 5018761353838413030
+    second: Trees_Bushes_Snow_4
+  - first:
+      213: 6296119659006099771
+    second: Trees_Bushes_Snow_5
+  - first:
+      213: -728088229873419908
+    second: Trees_Bushes_Snow_6
+  - first:
+      213: -2589026399706143097
+    second: Trees_Bushes_Snow_7
+  - first:
+      213: 352738559602676819
+    second: Trees_Bushes_Snow_8
+  - first:
+      213: 5312865797079355221
+    second: Trees_Bushes_Snow_9
+  - first:
+      213: 2209095314602277932
+    second: Trees_Bushes_Snow_10
+  - first:
+      213: -5513350582993298578
+    second: Trees_Bushes_Snow_11
+  - first:
+      213: 152249697850284035
+    second: Trees_Bushes_Snow_12
+  - first:
+      213: 6621954028374363609
+    second: Trees_Bushes_Snow_13
+  - first:
+      213: -2171506776294114980
+    second: Trees_Bushes_Snow_14
+  - first:
+      213: 568464019973231727
+    second: Trees_Bushes_Snow_15
+  - first:
+      213: 7734146005450980322
+    second: Trees_Bushes_Snow_16
+  - first:
+      213: 8835907700171714677
+    second: Trees_Bushes_Snow_17
+  - first:
+      213: -8577369831168708039
+    second: Trees_Bushes_Snow_18
+  - first:
+      213: 4277447340253283009
+    second: Trees_Bushes_Snow_19
+  - first:
+      213: 4344583756351968978
+    second: Trees_Bushes_Snow_20
+  - first:
+      213: 4319986782923170998
+    second: Trees_Bushes_Snow_21
+  - first:
+      213: 535490115499635311
+    second: Trees_Bushes_Snow_22
+  - first:
+      213: -3472634355459027329
+    second: Trees_Bushes_Snow_23
+  - first:
+      213: -5483185251199696444
+    second: Trees_Bushes_Snow_24
+  - first:
+      213: 4650291991294988566
+    second: Trees_Bushes_Snow_25
+  - first:
+      213: -2279507972454931084
+    second: Trees_Bushes_Snow_26
+  - first:
+      213: 7567769187684042108
+    second: Trees_Bushes_Snow_27
+  - first:
+      213: 5356428881862813417
+    second: Trees_Bushes_Snow_28
+  - first:
+      213: 4806268948873604970
+    second: Trees_Bushes_Snow_29
+  - first:
+      213: 6399024118659758007
+    second: Trees_Bushes_Snow_30
+  - first:
+      213: -4206535960996106398
+    second: Trees_Bushes_Snow_31
+  - first:
+      213: -4032563322491778055
+    second: Trees_Bushes_Snow_32
+  - first:
+      213: -4644022540532973958
+    second: Trees_Bushes_Snow_33
+  - first:
+      213: 4245932888199106033
+    second: Trees_Bushes_Snow_34
+  - first:
+      213: -2762944686124747758
+    second: Trees_Bushes_Snow_35
+  - first:
+      213: -9128179833950361465
+    second: Trees_Bushes_Snow_36
+  - first:
+      213: -7726862279839722592
+    second: Trees_Bushes_Snow_37
+  - first:
+      213: -8313410383087047204
+    second: Trees_Bushes_Snow_38
+  - first:
+      213: 5191565150553208700
+    second: Trees_Bushes_Snow_39
+  - first:
+      213: -2391760811819494114
+    second: Trees_Bushes_Snow_40
+  - first:
+      213: 4821359162761959873
+    second: Trees_Bushes_Snow_41
+  - first:
+      213: 8471713674866185016
+    second: Trees_Bushes_Snow_42
+  - first:
+      213: -4939529830217959873
+    second: Trees_Bushes_Snow_43
+  - first:
+      213: -1585194629011691156
+    second: Trees_Bushes_Snow_44
+  - first:
+      213: 4046801098929482876
+    second: Trees_Bushes_Snow_45
+  - first:
+      213: -2820844291209950185
+    second: Trees_Bushes_Snow_46
+  - first:
+      213: 8815152965975904152
+    second: Trees_Bushes_Snow_47
+  - first:
+      213: 1564009642534364222
+    second: Trees_Bushes_Snow_48
+  - first:
+      213: -4176225267260023824
+    second: Trees_Bushes_Snow_49
+  - first:
+      213: 1279010726932083474
+    second: Trees_Bushes_Snow_50
+  - first:
+      213: -7738869276979794754
+    second: Trees_Bushes_Snow_51
+  - first:
+      213: 8407150185004623161
+    second: Trees_Bushes_Snow_52
+  - first:
+      213: -1370694568784032616
+    second: Trees_Bushes_Snow_53
+  - first:
+      213: 3827579654939051375
+    second: Trees_Bushes_Snow_54
+  - first:
+      213: -9201671764099645481
+    second: Trees_Bushes_Snow_55
+  - first:
+      213: 398922489933409465
+    second: Trees_Bushes_Snow_56
+  - first:
+      213: -8557109616685208958
+    second: Trees_Bushes_Snow_57
+  - first:
+      213: -7586981872542568301
+    second: Trees_Bushes_Snow_58
+  - first:
+      213: -860002890011214880
+    second: Trees_Bushes_Snow_59
+  - first:
+      213: 572986017473785881
+    second: Trees_Bushes_Snow_60
+  - first:
+      213: 7134700382978339547
+    second: Trees_Bushes_Snow_61
+  - first:
+      213: -4549677480246260055
+    second: Trees_Bushes_Snow_62
+  - first:
+      213: 1085382143407767262
+    second: Trees_Bushes_Snow_63
+  - first:
+      213: -2234703634695095061
+    second: Trees_Bushes_Snow_64
+  - first:
+      213: -3921200511226988780
+    second: Trees_Bushes_Snow_65
+  - first:
+      213: -8138609650036074463
+    second: Trees_Bushes_Snow_66
+  - first:
+      213: -2156597852919875188
+    second: Trees_Bushes_Snow_67
+  - first:
+      213: -4244393484328530320
+    second: Trees_Bushes_Snow_68
+  - first:
+      213: 7370517126168861150
+    second: Trees_Bushes_Snow_69
+  - first:
+      213: -492481905020062830
+    second: Trees_Bushes_Snow_70
+  - first:
+      213: 108716366614444352
+    second: Trees_Bushes_Snow_71
+  - first:
+      213: -5310065438541822006
+    second: Trees_Bushes_Snow_72
+  - first:
+      213: -2322925486280386195
+    second: Trees_Bushes_Snow_73
+  - first:
+      213: 1943519020884667107
+    second: Trees_Bushes_Snow_74
+  - first:
+      213: -5581780852975361561
+    second: Trees_Bushes_Snow_75
+  - first:
+      213: 7290636153827270749
+    second: Trees_Bushes_Snow_76
+  - first:
+      213: 5375105305930505604
+    second: Trees_Bushes_Snow_77
+  - first:
+      213: 7271377145141366357
+    second: Trees_Bushes_Snow_78
+  - first:
+      213: -5483620522392761261
+    second: Trees_Bushes_Snow_79
+  - first:
+      213: 2536077821527692746
+    second: Trees_Bushes_Snow_80
+  - first:
+      213: 8416138541565254762
+    second: Trees_Bushes_Snow_81
+  - first:
+      213: 5895133398331297145
+    second: Trees_Bushes_Snow_82
+  - first:
+      213: 736025624526460205
+    second: Trees_Bushes_Snow_83
+  - first:
+      213: -4875973302379934193
+    second: Trees_Bushes_Snow_84
+  - first:
+      213: 3564807728345235759
+    second: Trees_Bushes_Snow_85
+  - first:
+      213: -6858429153895522186
+    second: Trees_Bushes_Snow_86
+  - first:
+      213: 1152120107440547787
+    second: Trees_Bushes_Snow_87
+  - first:
+      213: -2384460240190875862
+    second: Trees_Bushes_Snow_88
+  - first:
+      213: 9002333936252051130
+    second: Trees_Bushes_Snow_89
+  - first:
+      213: 128701110777892835
+    second: Trees_Bushes_Snow_90
+  - first:
+      213: 8943048653398770735
+    second: Trees_Bushes_Snow_91
+  - first:
+      213: -5602642392935816805
+    second: Trees_Bushes_Snow_92
+  - first:
+      213: -1516535429502156721
+    second: Trees_Bushes_Snow_93
+  - first:
+      213: -3428132738300641184
+    second: Trees_Bushes_Snow_94
+  - first:
+      213: 4975341226949704611
+    second: Trees_Bushes_Snow_95
+  - first:
+      213: -7108304414981702678
+    second: Trees_Bushes_Snow_96
+  - first:
+      213: 6968467150274691258
+    second: Trees_Bushes_Snow_97
+  - first:
+      213: -2639278398640379157
+    second: Trees_Bushes_Snow_98
+  - first:
+      213: 7502116264002589375
+    second: Trees_Bushes_Snow_99
+  - first:
+      213: -5159183444315553184
+    second: Trees_Bushes_Snow_100
+  - first:
+      213: -3176141523258379489
+    second: Trees_Bushes_Snow_101
+  - first:
+      213: -7573979471514532740
+    second: Trees_Bushes_Snow_102
+  - first:
+      213: 6055899455722071140
+    second: Trees_Bushes_Snow_103
+  - first:
+      213: -8623846921020753265
+    second: Trees_Bushes_Snow_104
+  - first:
+      213: 5835494715517708753
+    second: Trees_Bushes_Snow_105
+  - first:
+      213: -2223481799999375921
+    second: Trees_Bushes_Snow_106
+  - first:
+      213: -1981407897205519929
+    second: Trees_Bushes_Snow_107
+  - first:
+      213: 1200544564298398249
+    second: Trees_Bushes_Snow_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1311
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf52b766b848e330800000000000000
+      internalID: 3740319438792187843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1344
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ac51c1c4e1d88b0800000000000000
+      internalID: -5148425486777071017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1311
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2165897ce66eae5e0800000000000000
+      internalID: -1879436531004320238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1344
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9196a021515c100800000000000000
+      internalID: 127531331678181819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1311
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e44ffb5cd836a540800000000000000
+      internalID: 5018761353838413030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_5
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1344
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31896ab87f406750800000000000000
+      internalID: 6296119659006099771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1231
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79704dcc9f45e5f0800000000000000
+      internalID: -728088229873419908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1296
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786286be43ee11cd0800000000000000
+      internalID: -2589026399706143097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1231
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35453bfd9dd25e400800000000000000
+      internalID: 352738559602676819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1296
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fcc3e2b471bb940800000000000000
+      internalID: 5312865797079355221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1231
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c39ddfb7848ae10800000000000000
+      internalID: 2209095314602277932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_11
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1296
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bdd721bd4ac73b0800000000000000
+      internalID: -5513350582993298578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1248
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308d6852b46ec1200800000000000000
+      internalID: 152249697850284035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1248
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd883caa18e5eb50800000000000000
+      internalID: 6621954028374363609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_14
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1248
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59b2a397124dd1e0800000000000000
+      internalID: -2171506776294114980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_15
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1231
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64581aa30793e700800000000000000
+      internalID: 568464019973231727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1215
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb79ef80d4355b60800000000000000
+      internalID: 7734146005450980322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_17
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1215
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570bfd81d337f9a70800000000000000
+      internalID: 8835907700171714677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_18
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1215
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932790a559f07f880800000000000000
+      internalID: -8577369831168708039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1120
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c28c3d61bb8c5b30800000000000000
+      internalID: 4277447340253283009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1185
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d69a4668ef0b4c30800000000000000
+      internalID: 4344583756351968978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1120
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4a48e371da3fb30800000000000000
+      internalID: 4319986782923170998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1185
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62b6134c617e6700800000000000000
+      internalID: 535490115499635311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_23
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1120
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e0c08d379becfc0800000000000000
+      internalID: -3472634355459027329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_24
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1185
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1c490b010d7e3b0800000000000000
+      internalID: -5483185251199696444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_25
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1120
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6115bf28de7298040800000000000000
+      internalID: 4650291991294988566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475272f839f8d50e0800000000000000
+      internalID: -2279507972454931084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75cd0efafd160960800000000000000
+      internalID: 7567769187684042108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_28
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6631040bbd55a40800000000000000
+      internalID: 5356428881862813417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1120
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fe990f42c43b240800000000000000
+      internalID: 4806268948873604970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_30
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1120
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b73fdd4886edc850800000000000000
+      internalID: 6399024118659758007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_31
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1120
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fabe5a4d16f95c0800000000000000
+      internalID: -4206535960996106398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1009
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbcb9c06057908c0800000000000000
+      internalID: -4032563322491778055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1074
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eff9eba1e1d8fb0800000000000000
+      internalID: -4644022540532973958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_34
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1009
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd814547759cea30800000000000000
+      internalID: 4245932888199106033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1074
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2143b79527c08a9d0800000000000000
+      internalID: -2762944686124747758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_36
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1009
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788218fddc0325180800000000000000
+      internalID: -9128179833950361465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_37
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1074
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3d9c5f1bba4c490800000000000000
+      internalID: -7726862279839722592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_38
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1009
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd6d0c8d45d0ac80800000000000000
+      internalID: -8313410383087047204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_39
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1007
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7775039ff42c0840800000000000000
+      internalID: 5191565150553208700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_40
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1007
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e159cc7b632ceced0800000000000000
+      internalID: -2391760811819494114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_41
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1007
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c950072d98e8e240800000000000000
+      internalID: 4821359162761959873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833d735c3b2919570800000000000000
+      internalID: 8471713674866185016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_43
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 976
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36b9684ac3437bb0800000000000000
+      internalID: -4939529830217959873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 928
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69a6e532e1400ae0800000000000000
+      internalID: -1585194629011691156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 976
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c2a5a9820292830800000000000000
+      internalID: 4046801098929482876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 928
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c0eb700195ad8d0800000000000000
+      internalID: -2820844291209950185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_47
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 928
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f89b9fae6b55a70800000000000000
+      internalID: 8815152965975904152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34eb80cb7a74b510800000000000000
+      internalID: 1564009642534364222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 879
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb94fafe311b06c0800000000000000
+      internalID: -4176225267260023824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_50
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 832
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21373baca75ffb110800000000000000
+      internalID: 1279010726932083474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_51
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 879
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc6f6615630a9490800000000000000
+      internalID: -7738869276979794754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 847
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9356f8edc823ca470800000000000000
+      internalID: 8407150185004623161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_53
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 847
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c021c4d805afce0800000000000000
+      internalID: -1370694568784032616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 688
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f658722ba6b4e1530800000000000000
+      internalID: 3827579654939051375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_55
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 688
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df391978481d4080800000000000000
+      internalID: -9201671764099645481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_56
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 688
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc256914e1498500800000000000000
+      internalID: 398922489933409465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_57
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 688
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a2661242a0f3980800000000000000
+      internalID: -8557109616685208958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390b5c93f20a5b690800000000000000
+      internalID: -7586981872542568301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_59
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 560
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb72139de7a014f0800000000000000
+      internalID: -860002890011214880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_60
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 560
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9107ac04fb7a3f700800000000000000
+      internalID: 572986017473785881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_61
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 560
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd27442723c830360800000000000000
+      internalID: 7134700382978339547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 464
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aec35bdf6c4cd0c0800000000000000
+      internalID: -4549677480246260055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_63
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 513
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede3f5f0f4d001f00800000000000000
+      internalID: 1085382143407767262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_64
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 464
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec79bb52ecbcf0e0800000000000000
+      internalID: -2234703634695095061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_65
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 513
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4173c3319e81599c0800000000000000
+      internalID: -3921200511226988780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_66
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 464
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128980cb4a9dd0f80800000000000000
+      internalID: -8138609650036074463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_67
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 513
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89375dcda93212e0800000000000000
+      internalID: -2156597852919875188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_68
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 464
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e8d9f1d92e815c0800000000000000
+      internalID: -4244393484328530320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 465
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95a3c8646594660800000000000000
+      internalID: 7370517126168861150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_70
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 465
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b8f0115a5a29f0800000000000000
+      internalID: -492481905020062830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_71
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 465
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049335d95fc328100800000000000000
+      internalID: 108716366614444352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 352
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7c2a91e9bde46b0800000000000000
+      internalID: -5310065438541822006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 417
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d695e8ed39f43cfd0800000000000000
+      internalID: -2322925486280386195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_74
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 352
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaab069044c8fa10800000000000000
+      internalID: 1943519020884667107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_75
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 417
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1a35443e78982b0800000000000000
+      internalID: -5581780852975361561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_76
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 352
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50ae7754fa8d2560800000000000000
+      internalID: 7290636153827270749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_77
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 417
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d1e461cc5389a40800000000000000
+      internalID: 5375105305930505604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_78
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 352
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e8b04fcfe19e460800000000000000
+      internalID: 7271377145141366357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cccb7303446e3b0800000000000000
+      internalID: -5483620522392761261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_80
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 241
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac597ea8755f13320800000000000000
+      internalID: 2536077821527692746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_81
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 241
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c9876b9612cc470800000000000000
+      internalID: 8416138541565254762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_82
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 241
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d041f8798bfc150800000000000000
+      internalID: 5895133398331297145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d251c77e763e63a00800000000000000
+      internalID: 736025624526460205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_84
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e0b519d10155cb0800000000000000
+      internalID: -4875973302379934193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_85
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 159
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21c594edbdb87130800000000000000
+      internalID: 3564807728345235759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_86
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 160
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670efd4a507f1d0a0800000000000000
+      internalID: -6858429153895522186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_87
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 159
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7249e22272dff00800000000000000
+      internalID: 1152120107440547787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_88
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 160
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2751628b02b8eed0800000000000000
+      internalID: -2384460240190875862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_89
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 159
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe5fb3c407beec70800000000000000
+      internalID: 9002333936252051130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_90
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 160
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef4d167afc39c100800000000000000
+      internalID: 128701110777892835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f248ed23e571c1c70800000000000000
+      internalID: 8943048653398770735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_92
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91248d7d6a6f32b0800000000000000
+      internalID: -5602642392935816805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_93
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40ca33df0f24fae0800000000000000
+      internalID: -1516535429502156721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_94
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 113
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06004b20073dc60d0800000000000000
+      internalID: -3428132738300641184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_95
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 97
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab71b44c76fb0540800000000000000
+      internalID: 4975341226949704611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_96
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 129
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebbca5cbca3a5d90800000000000000
+      internalID: -7108304414981702678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_97
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 113
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab00a11e3f7f4b060800000000000000
+      internalID: 6968467150274691258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_98
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 97
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaada9a7466f5bd0800000000000000
+      internalID: -2639278398640379157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_99
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 129
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb21e838efedc1860800000000000000
+      internalID: 7502116264002589375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 17
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062ce7eedf5e668b0800000000000000
+      internalID: -5159183444315553184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13f0ddcc141ce3d0800000000000000
+      internalID: -3176141523258379489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_102
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 81
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c748640acc1d3e690800000000000000
+      internalID: -7573979471514532740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_103
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 17
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464abcd2870ea0450800000000000000
+      internalID: 6055899455722071140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_104
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 17
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a363b9ae0f15880800000000000000
+      internalID: -8623846921020753265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_105
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 81
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d92a17a687dbf050800000000000000
+      internalID: 5835494715517708753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_106
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 17
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5bd7a551b9421e0800000000000000
+      internalID: -2223481799999375921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_107
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 17
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c949e3f300a084e0800000000000000
+      internalID: -1981407897205519929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Snow_108
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 81
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a3804abe039a010800000000000000
+      internalID: 1200544564298398249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trees_Bushes_Snow_0: 3740319438792187843
+      Trees_Bushes_Snow_1: -5148425486777071017
+      Trees_Bushes_Snow_10: 2209095314602277932
+      Trees_Bushes_Snow_100: -5159183444315553184
+      Trees_Bushes_Snow_101: -3176141523258379489
+      Trees_Bushes_Snow_102: -7573979471514532740
+      Trees_Bushes_Snow_103: 6055899455722071140
+      Trees_Bushes_Snow_104: -8623846921020753265
+      Trees_Bushes_Snow_105: 5835494715517708753
+      Trees_Bushes_Snow_106: -2223481799999375921
+      Trees_Bushes_Snow_107: -1981407897205519929
+      Trees_Bushes_Snow_108: 1200544564298398249
+      Trees_Bushes_Snow_11: -5513350582993298578
+      Trees_Bushes_Snow_12: 152249697850284035
+      Trees_Bushes_Snow_13: 6621954028374363609
+      Trees_Bushes_Snow_14: -2171506776294114980
+      Trees_Bushes_Snow_15: 568464019973231727
+      Trees_Bushes_Snow_16: 7734146005450980322
+      Trees_Bushes_Snow_17: 8835907700171714677
+      Trees_Bushes_Snow_18: -8577369831168708039
+      Trees_Bushes_Snow_19: 4277447340253283009
+      Trees_Bushes_Snow_2: -1879436531004320238
+      Trees_Bushes_Snow_20: 4344583756351968978
+      Trees_Bushes_Snow_21: 4319986782923170998
+      Trees_Bushes_Snow_22: 535490115499635311
+      Trees_Bushes_Snow_23: -3472634355459027329
+      Trees_Bushes_Snow_24: -5483185251199696444
+      Trees_Bushes_Snow_25: 4650291991294988566
+      Trees_Bushes_Snow_26: -2279507972454931084
+      Trees_Bushes_Snow_27: 7567769187684042108
+      Trees_Bushes_Snow_28: 5356428881862813417
+      Trees_Bushes_Snow_29: 4806268948873604970
+      Trees_Bushes_Snow_3: 127531331678181819
+      Trees_Bushes_Snow_30: 6399024118659758007
+      Trees_Bushes_Snow_31: -4206535960996106398
+      Trees_Bushes_Snow_32: -4032563322491778055
+      Trees_Bushes_Snow_33: -4644022540532973958
+      Trees_Bushes_Snow_34: 4245932888199106033
+      Trees_Bushes_Snow_35: -2762944686124747758
+      Trees_Bushes_Snow_36: -9128179833950361465
+      Trees_Bushes_Snow_37: -7726862279839722592
+      Trees_Bushes_Snow_38: -8313410383087047204
+      Trees_Bushes_Snow_39: 5191565150553208700
+      Trees_Bushes_Snow_4: 5018761353838413030
+      Trees_Bushes_Snow_40: -2391760811819494114
+      Trees_Bushes_Snow_41: 4821359162761959873
+      Trees_Bushes_Snow_42: 8471713674866185016
+      Trees_Bushes_Snow_43: -4939529830217959873
+      Trees_Bushes_Snow_44: -1585194629011691156
+      Trees_Bushes_Snow_45: 4046801098929482876
+      Trees_Bushes_Snow_46: -2820844291209950185
+      Trees_Bushes_Snow_47: 8815152965975904152
+      Trees_Bushes_Snow_48: 1564009642534364222
+      Trees_Bushes_Snow_49: -4176225267260023824
+      Trees_Bushes_Snow_5: 6296119659006099771
+      Trees_Bushes_Snow_50: 1279010726932083474
+      Trees_Bushes_Snow_51: -7738869276979794754
+      Trees_Bushes_Snow_52: 8407150185004623161
+      Trees_Bushes_Snow_53: -1370694568784032616
+      Trees_Bushes_Snow_54: 3827579654939051375
+      Trees_Bushes_Snow_55: -9201671764099645481
+      Trees_Bushes_Snow_56: 398922489933409465
+      Trees_Bushes_Snow_57: -8557109616685208958
+      Trees_Bushes_Snow_58: -7586981872542568301
+      Trees_Bushes_Snow_59: -860002890011214880
+      Trees_Bushes_Snow_6: -728088229873419908
+      Trees_Bushes_Snow_60: 572986017473785881
+      Trees_Bushes_Snow_61: 7134700382978339547
+      Trees_Bushes_Snow_62: -4549677480246260055
+      Trees_Bushes_Snow_63: 1085382143407767262
+      Trees_Bushes_Snow_64: -2234703634695095061
+      Trees_Bushes_Snow_65: -3921200511226988780
+      Trees_Bushes_Snow_66: -8138609650036074463
+      Trees_Bushes_Snow_67: -2156597852919875188
+      Trees_Bushes_Snow_68: -4244393484328530320
+      Trees_Bushes_Snow_69: 7370517126168861150
+      Trees_Bushes_Snow_7: -2589026399706143097
+      Trees_Bushes_Snow_70: -492481905020062830
+      Trees_Bushes_Snow_71: 108716366614444352
+      Trees_Bushes_Snow_72: -5310065438541822006
+      Trees_Bushes_Snow_73: -2322925486280386195
+      Trees_Bushes_Snow_74: 1943519020884667107
+      Trees_Bushes_Snow_75: -5581780852975361561
+      Trees_Bushes_Snow_76: 7290636153827270749
+      Trees_Bushes_Snow_77: 5375105305930505604
+      Trees_Bushes_Snow_78: 7271377145141366357
+      Trees_Bushes_Snow_79: -5483620522392761261
+      Trees_Bushes_Snow_8: 352738559602676819
+      Trees_Bushes_Snow_80: 2536077821527692746
+      Trees_Bushes_Snow_81: 8416138541565254762
+      Trees_Bushes_Snow_82: 5895133398331297145
+      Trees_Bushes_Snow_83: 736025624526460205
+      Trees_Bushes_Snow_84: -4875973302379934193
+      Trees_Bushes_Snow_85: 3564807728345235759
+      Trees_Bushes_Snow_86: -6858429153895522186
+      Trees_Bushes_Snow_87: 1152120107440547787
+      Trees_Bushes_Snow_88: -2384460240190875862
+      Trees_Bushes_Snow_89: 9002333936252051130
+      Trees_Bushes_Snow_9: 5312865797079355221
+      Trees_Bushes_Snow_90: 128701110777892835
+      Trees_Bushes_Snow_91: 8943048653398770735
+      Trees_Bushes_Snow_92: -5602642392935816805
+      Trees_Bushes_Snow_93: -1516535429502156721
+      Trees_Bushes_Snow_94: -3428132738300641184
+      Trees_Bushes_Snow_95: 4975341226949704611
+      Trees_Bushes_Snow_96: -7108304414981702678
+      Trees_Bushes_Snow_97: 6968467150274691258
+      Trees_Bushes_Snow_98: -2639278398640379157
+      Trees_Bushes_Snow_99: 7502116264002589375
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

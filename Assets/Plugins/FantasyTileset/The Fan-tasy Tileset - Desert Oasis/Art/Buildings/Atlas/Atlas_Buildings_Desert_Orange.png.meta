@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 6ddd0b6951a6a004987c8bc121578341
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -385673888160066646
+    second: Atlas_Buildings_Desert_Orange_0
+  - first:
+      213: 8929909219090929641
+    second: Atlas_Buildings_Desert_Orange_1
+  - first:
+      213: 7604294582181756033
+    second: Atlas_Buildings_Desert_Orange_2
+  - first:
+      213: -4286536717987195859
+    second: Atlas_Buildings_Desert_Orange_3
+  - first:
+      213: 2929991321427160182
+    second: Atlas_Buildings_Desert_Orange_4
+  - first:
+      213: 858795513818707598
+    second: Atlas_Buildings_Desert_Orange_5
+  - first:
+      213: 7642371464326439316
+    second: Atlas_Buildings_Desert_Orange_6
+  - first:
+      213: -8657302223955376929
+    second: Atlas_Buildings_Desert_Orange_7
+  - first:
+      213: 6830502317968999427
+    second: Atlas_Buildings_Desert_Orange_8
+  - first:
+      213: 8578911578471579621
+    second: Atlas_Buildings_Desert_Orange_9
+  - first:
+      213: 8321105697645181891
+    second: Atlas_Buildings_Desert_Orange_10
+  - first:
+      213: 7186744282512081223
+    second: Atlas_Buildings_Desert_Orange_11
+  - first:
+      213: 238960983710563068
+    second: Atlas_Buildings_Desert_Orange_12
+  - first:
+      213: -7935857345527665640
+    second: Atlas_Buildings_Desert_Orange_13
+  - first:
+      213: 2720325509962109699
+    second: Atlas_Buildings_Desert_Orange_14
+  - first:
+      213: -5879248465766091489
+    second: Atlas_Buildings_Desert_Orange_15
+  - first:
+      213: -7894561939544004716
+    second: Atlas_Buildings_Desert_Orange_16
+  - first:
+      213: 4376767336026279161
+    second: Atlas_Buildings_Desert_Orange_17
+  - first:
+      213: 3264291484426810550
+    second: Atlas_Buildings_Desert_Orange_18
+  - first:
+      213: 5251262656320821916
+    second: Atlas_Buildings_Desert_Orange_19
+  - first:
+      213: 8800039485881138003
+    second: Atlas_Buildings_Desert_Orange_20
+  - first:
+      213: 1912501186134863125
+    second: Atlas_Buildings_Desert_Orange_21
+  - first:
+      213: 3041752557940896400
+    second: Atlas_Buildings_Desert_Orange_22
+  - first:
+      213: 3146466237276582410
+    second: Atlas_Buildings_Desert_Orange_23
+  - first:
+      213: 5852300751345951405
+    second: Atlas_Buildings_Desert_Orange_24
+  - first:
+      213: 1792324856916725000
+    second: Atlas_Buildings_Desert_Orange_25
+  - first:
+      213: 1061728773042472801
+    second: Atlas_Buildings_Desert_Orange_26
+  - first:
+      213: 6892155082923379767
+    second: Atlas_Buildings_Desert_Orange_27
+  - first:
+      213: -433076026429448302
+    second: Atlas_Buildings_Desert_Orange_28
+  - first:
+      213: 7673753066314277604
+    second: Atlas_Buildings_Desert_Orange_29
+  - first:
+      213: -1508720231029500574
+    second: Atlas_Buildings_Desert_Orange_30
+  - first:
+      213: -4023186523610254932
+    second: Atlas_Buildings_Desert_Orange_31
+  - first:
+      213: 1273730608113346987
+    second: Atlas_Buildings_Desert_Orange_32
+  - first:
+      213: 2339719075921626724
+    second: Atlas_Buildings_Desert_Orange_33
+  - first:
+      213: -2977130261894001759
+    second: Atlas_Buildings_Desert_Orange_34
+  - first:
+      213: 323386135830293467
+    second: Atlas_Buildings_Desert_Orange_35
+  - first:
+      213: 893240862209703948
+    second: Atlas_Buildings_Desert_Orange_36
+  - first:
+      213: 2921689235176062790
+    second: Atlas_Buildings_Desert_Orange_37
+  - first:
+      213: 4232268226760921888
+    second: Atlas_Buildings_Desert_Orange_38
+  - first:
+      213: -3523302835126441912
+    second: Atlas_Buildings_Desert_Orange_39
+  - first:
+      213: 5645718846098776307
+    second: Atlas_Buildings_Desert_Orange_40
+  - first:
+      213: -9190592969034904799
+    second: Atlas_Buildings_Desert_Orange_41
+  - first:
+      213: -3082393739973939299
+    second: Atlas_Buildings_Desert_Orange_42
+  - first:
+      213: -2138664954111050081
+    second: Atlas_Buildings_Desert_Orange_43
+  - first:
+      213: -353538582871926505
+    second: Atlas_Buildings_Desert_Orange_44
+  - first:
+      213: 4937031365211099915
+    second: Atlas_Buildings_Desert_Orange_45
+  - first:
+      213: -8152299977218205182
+    second: Atlas_Buildings_Desert_Orange_46
+  - first:
+      213: -989514357002295759
+    second: Atlas_Buildings_Desert_Orange_47
+  - first:
+      213: -2815328211740414290
+    second: Atlas_Buildings_Desert_Orange_48
+  - first:
+      213: -1716716438074788257
+    second: Atlas_Buildings_Desert_Orange_49
+  - first:
+      213: -4122944589694477577
+    second: Atlas_Buildings_Desert_Orange_50
+  - first:
+      213: 5984792619550419359
+    second: Atlas_Buildings_Desert_Orange_51
+  - first:
+      213: -8702488871873831360
+    second: Atlas_Buildings_Desert_Orange_52
+  - first:
+      213: -3630317646027667069
+    second: Atlas_Buildings_Desert_Orange_53
+  - first:
+      213: -1924071587624759551
+    second: Atlas_Buildings_Desert_Orange_54
+  - first:
+      213: -5131005908565388454
+    second: Atlas_Buildings_Desert_Orange_55
+  - first:
+      213: 8831741908402035390
+    second: Atlas_Buildings_Desert_Orange_56
+  - first:
+      213: 6540979133952274238
+    second: Atlas_Buildings_Desert_Orange_57
+  - first:
+      213: -5200794223100075982
+    second: Atlas_Buildings_Desert_Orange_58
+  - first:
+      213: -7686171782179605605
+    second: Atlas_Buildings_Desert_Orange_59
+  - first:
+      213: 9173324320962901261
+    second: Atlas_Buildings_Desert_Orange_60
+  - first:
+      213: 4947420076469066493
+    second: Atlas_Buildings_Desert_Orange_61
+  - first:
+      213: -910608102641364117
+    second: Atlas_Buildings_Desert_Orange_62
+  - first:
+      213: 2859655860480919885
+    second: Atlas_Buildings_Desert_Orange_63
+  - first:
+      213: 616214974728534796
+    second: Atlas_Buildings_Desert_Orange_64
+  - first:
+      213: -3727933135359289833
+    second: Atlas_Buildings_Desert_Orange_65
+  - first:
+      213: -6385770811823441485
+    second: Atlas_Buildings_Desert_Orange_66
+  - first:
+      213: 7656432662234408469
+    second: Atlas_Buildings_Desert_Orange_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2031
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3531164afc5aaf0800000000000000
+      internalID: -385673888160066646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2006
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e796604f196deb70800000000000000
+      internalID: 8929909219090929641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2031
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cfe5a12a1e78960800000000000000
+      internalID: 7604294582181756033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2031
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2454b7e0992384c0800000000000000
+      internalID: -4286536717987195859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2031
+        width: 125
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ca4a4459b69a820800000000000000
+      internalID: 2929991321427160182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1839
+        width: 157
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86fcdf38fd0beb00800000000000000
+      internalID: 858795513818707598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1839
+        width: 157
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49162c41b582f0a60800000000000000
+      internalID: 7642371464326439316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1839
+        width: 194
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4c0f3ee751bd780800000000000000
+      internalID: -8657302223955376929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1663
+        width: 158
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304460c2ba1dace50800000000000000
+      internalID: 6830502317968999427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1663
+        width: 146
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efb84aa0aa6e0770800000000000000
+      internalID: 8578911578471579621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1679
+        width: 153
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbbe9e7b818a7370800000000000000
+      internalID: 8321105697645181891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1487
+        width: 182
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741c3b219d17cb360800000000000000
+      internalID: 7186744282512081223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1487
+        width: 187
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfafe35afb5f05300800000000000000
+      internalID: 238960983710563068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1487
+        width: 204
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c26ab4acb2ed190800000000000000
+      internalID: -7935857345527665640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1471
+        width: 174
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30399be63a980c520800000000000000
+      internalID: 2720325509962109699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1570c38ba6b86ea0800000000000000
+      internalID: -5879248465766091489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49729204eb1e07290800000000000000
+      internalID: -7894561939544004716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc0168f3b66dbc30800000000000000
+      internalID: 4376767336026279161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4b7946fc71d4d20800000000000000
+      internalID: 3264291484426810550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ad644409b30e840800000000000000
+      internalID: 5251262656320821916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b3b5da945002a70800000000000000
+      internalID: 8800039485881138003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_21
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51de41822b19a8a10800000000000000
+      internalID: 1912501186134863125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_22
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092f3b6e5d9763a20800000000000000
+      internalID: 3041752557940896400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_23
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0271a24f5e7aab20800000000000000
+      internalID: 3146466237276582410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_24
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da22abac68c873150800000000000000
+      internalID: 5852300751345951405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_25
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dcf9216fd9fd810800000000000000
+      internalID: 1792324856916725000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1055
+        width: 82
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167020d91b40cbe00800000000000000
+      internalID: 1061728773042472801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1055
+        width: 82
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c0d8e188ad5af50800000000000000
+      internalID: 6892155082923379767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1055
+        width: 146
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f5fe306a76df9f0800000000000000
+      internalID: -433076026429448302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 911
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e22abba1c5ae7a60800000000000000
+      internalID: 7673753066314277604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 911
+        width: 133
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2659a0481f2ff0be0800000000000000
+      internalID: -1508720231029500574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 911
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1721b2c25ca28c0800000000000000
+      internalID: -4023186523610254932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba963245d333da110800000000000000
+      internalID: 1273730608113346987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466838a6a1a587020800000000000000
+      internalID: 2339719075921626724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab0eb1eccb1fa6d0800000000000000
+      internalID: -2977130261894001759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb63772af5ec7400800000000000000
+      internalID: 323386135830293467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_36
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c008fd2e4dd656c00800000000000000
+      internalID: 893240862209703948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_37
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f70ce21eceb8820800000000000000
+      internalID: 2921689235176062790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_38
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023d14a57890cba30800000000000000
+      internalID: 4232268226760921888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_39
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848692c1db6ba1fc0800000000000000
+      internalID: -3523302835126441912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_40
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f02273d06f995e40800000000000000
+      internalID: 5645718846098776307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_41
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bc8757364747080800000000000000
+      internalID: -9190592969034904799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_42
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 751
+        width: 174
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f27f689332935d0800000000000000
+      internalID: -3082393739973939299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 545
+        width: 157
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e32ac2e8fe152e0800000000000000
+      internalID: -2138664954111050081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 545
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7191681388af71bf0800000000000000
+      internalID: -353538582871926505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_45
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 545
+        width: 160
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b039e508edbd38440800000000000000
+      internalID: 4937031365211099915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 432
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20adb7b0d563dde80800000000000000
+      internalID: -8152299977218205182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136aaba5fe98442f0800000000000000
+      internalID: -989514357002295759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaea31d58e1fde8d0800000000000000
+      internalID: -2815328211740414290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f567a70ce7ffc28e0800000000000000
+      internalID: -1716716438074788257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 432
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa54ae6dbb58c6c0800000000000000
+      internalID: -4122944589694477577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_51
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 432
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99aeaebd214e0350800000000000000
+      internalID: 5984792619550419359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 320
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e9b229a7c8a3780800000000000000
+      internalID: -8702488871873831360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38940bec5558e9dc0800000000000000
+      internalID: -3630317646027667069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 320
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f4431d5135c45e0800000000000000
+      internalID: -1924071587624759551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 224
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a539787bf410bc8b0800000000000000
+      internalID: -5131005908565388454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_56
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 224
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebadb3e1976a09a70800000000000000
+      internalID: 8831741908402035390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fa772edd936ca50800000000000000
+      internalID: 6540979133952274238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2306736853113d7b0800000000000000
+      internalID: -5200794223100075982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93bd88bc7b355590800000000000000
+      internalID: -7686171782179605605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_60
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05f1781ed13e4f70800000000000000
+      internalID: 9173324320962901261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_61
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa1394d854c8a440800000000000000
+      internalID: 4947420076469066493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63187851cedc53f0800000000000000
+      internalID: -910608102641364117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_63
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4944df9ad98fa720800000000000000
+      internalID: 2859655860480919885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_64
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b78f1314c3d8800800000000000000
+      internalID: 616214974728534796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_65
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71650889098b34cc0800000000000000
+      internalID: -3727933135359289833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_66
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9b438a74f2167a0800000000000000
+      internalID: -6385770811823441485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Orange_67
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5162e27d0fc114a60800000000000000
+      internalID: 7656432662234408469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas_Buildings_Desert_Orange_0: -385673888160066646
+      Atlas_Buildings_Desert_Orange_1: 8929909219090929641
+      Atlas_Buildings_Desert_Orange_10: 8321105697645181891
+      Atlas_Buildings_Desert_Orange_11: 7186744282512081223
+      Atlas_Buildings_Desert_Orange_12: 238960983710563068
+      Atlas_Buildings_Desert_Orange_13: -7935857345527665640
+      Atlas_Buildings_Desert_Orange_14: 2720325509962109699
+      Atlas_Buildings_Desert_Orange_15: -5879248465766091489
+      Atlas_Buildings_Desert_Orange_16: -7894561939544004716
+      Atlas_Buildings_Desert_Orange_17: 4376767336026279161
+      Atlas_Buildings_Desert_Orange_18: 3264291484426810550
+      Atlas_Buildings_Desert_Orange_19: 5251262656320821916
+      Atlas_Buildings_Desert_Orange_2: 7604294582181756033
+      Atlas_Buildings_Desert_Orange_20: 8800039485881138003
+      Atlas_Buildings_Desert_Orange_21: 1912501186134863125
+      Atlas_Buildings_Desert_Orange_22: 3041752557940896400
+      Atlas_Buildings_Desert_Orange_23: 3146466237276582410
+      Atlas_Buildings_Desert_Orange_24: 5852300751345951405
+      Atlas_Buildings_Desert_Orange_25: 1792324856916725000
+      Atlas_Buildings_Desert_Orange_26: 1061728773042472801
+      Atlas_Buildings_Desert_Orange_27: 6892155082923379767
+      Atlas_Buildings_Desert_Orange_28: -433076026429448302
+      Atlas_Buildings_Desert_Orange_29: 7673753066314277604
+      Atlas_Buildings_Desert_Orange_3: -4286536717987195859
+      Atlas_Buildings_Desert_Orange_30: -1508720231029500574
+      Atlas_Buildings_Desert_Orange_31: -4023186523610254932
+      Atlas_Buildings_Desert_Orange_32: 1273730608113346987
+      Atlas_Buildings_Desert_Orange_33: 2339719075921626724
+      Atlas_Buildings_Desert_Orange_34: -2977130261894001759
+      Atlas_Buildings_Desert_Orange_35: 323386135830293467
+      Atlas_Buildings_Desert_Orange_36: 893240862209703948
+      Atlas_Buildings_Desert_Orange_37: 2921689235176062790
+      Atlas_Buildings_Desert_Orange_38: 4232268226760921888
+      Atlas_Buildings_Desert_Orange_39: -3523302835126441912
+      Atlas_Buildings_Desert_Orange_4: 2929991321427160182
+      Atlas_Buildings_Desert_Orange_40: 5645718846098776307
+      Atlas_Buildings_Desert_Orange_41: -9190592969034904799
+      Atlas_Buildings_Desert_Orange_42: -3082393739973939299
+      Atlas_Buildings_Desert_Orange_43: -2138664954111050081
+      Atlas_Buildings_Desert_Orange_44: -353538582871926505
+      Atlas_Buildings_Desert_Orange_45: 4937031365211099915
+      Atlas_Buildings_Desert_Orange_46: -8152299977218205182
+      Atlas_Buildings_Desert_Orange_47: -989514357002295759
+      Atlas_Buildings_Desert_Orange_48: -2815328211740414290
+      Atlas_Buildings_Desert_Orange_49: -1716716438074788257
+      Atlas_Buildings_Desert_Orange_5: 858795513818707598
+      Atlas_Buildings_Desert_Orange_50: -4122944589694477577
+      Atlas_Buildings_Desert_Orange_51: 5984792619550419359
+      Atlas_Buildings_Desert_Orange_52: -8702488871873831360
+      Atlas_Buildings_Desert_Orange_53: -3630317646027667069
+      Atlas_Buildings_Desert_Orange_54: -1924071587624759551
+      Atlas_Buildings_Desert_Orange_55: -5131005908565388454
+      Atlas_Buildings_Desert_Orange_56: 8831741908402035390
+      Atlas_Buildings_Desert_Orange_57: 6540979133952274238
+      Atlas_Buildings_Desert_Orange_58: -5200794223100075982
+      Atlas_Buildings_Desert_Orange_59: -7686171782179605605
+      Atlas_Buildings_Desert_Orange_6: 7642371464326439316
+      Atlas_Buildings_Desert_Orange_60: 9173324320962901261
+      Atlas_Buildings_Desert_Orange_61: 4947420076469066493
+      Atlas_Buildings_Desert_Orange_62: -910608102641364117
+      Atlas_Buildings_Desert_Orange_63: 2859655860480919885
+      Atlas_Buildings_Desert_Orange_64: 616214974728534796
+      Atlas_Buildings_Desert_Orange_65: -3727933135359289833
+      Atlas_Buildings_Desert_Orange_66: -6385770811823441485
+      Atlas_Buildings_Desert_Orange_67: 7656432662234408469
+      Atlas_Buildings_Desert_Orange_7: -8657302223955376929
+      Atlas_Buildings_Desert_Orange_8: 6830502317968999427
+      Atlas_Buildings_Desert_Orange_9: 8578911578471579621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

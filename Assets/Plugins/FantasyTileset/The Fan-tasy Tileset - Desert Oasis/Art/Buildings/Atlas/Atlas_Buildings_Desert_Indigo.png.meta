@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 2fb01235d997d1e4ca722bce321c9b05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1349895681838743873
+    second: Atlas_Buildings_Desert_Indigo_0
+  - first:
+      213: 5201367888089158353
+    second: Atlas_Buildings_Desert_Indigo_1
+  - first:
+      213: -3429286799607218917
+    second: Atlas_Buildings_Desert_Indigo_2
+  - first:
+      213: -4345067025983541786
+    second: Atlas_Buildings_Desert_Indigo_3
+  - first:
+      213: -6640385929211109151
+    second: Atlas_Buildings_Desert_Indigo_4
+  - first:
+      213: 4219436106476579432
+    second: Atlas_Buildings_Desert_Indigo_5
+  - first:
+      213: -2134791979925912512
+    second: Atlas_Buildings_Desert_Indigo_6
+  - first:
+      213: -3731950563446142356
+    second: Atlas_Buildings_Desert_Indigo_7
+  - first:
+      213: 2022176250616450072
+    second: Atlas_Buildings_Desert_Indigo_8
+  - first:
+      213: -311965356669042543
+    second: Atlas_Buildings_Desert_Indigo_9
+  - first:
+      213: -2528803297869866758
+    second: Atlas_Buildings_Desert_Indigo_10
+  - first:
+      213: -1290876660561382069
+    second: Atlas_Buildings_Desert_Indigo_11
+  - first:
+      213: 6029649287476341261
+    second: Atlas_Buildings_Desert_Indigo_12
+  - first:
+      213: -2433828985215193669
+    second: Atlas_Buildings_Desert_Indigo_13
+  - first:
+      213: -3189549291116325401
+    second: Atlas_Buildings_Desert_Indigo_14
+  - first:
+      213: 3888105351130883802
+    second: Atlas_Buildings_Desert_Indigo_15
+  - first:
+      213: 5061717732607970581
+    second: Atlas_Buildings_Desert_Indigo_16
+  - first:
+      213: -1261970530305972136
+    second: Atlas_Buildings_Desert_Indigo_17
+  - first:
+      213: -3256305986527616541
+    second: Atlas_Buildings_Desert_Indigo_18
+  - first:
+      213: 4122015070408918995
+    second: Atlas_Buildings_Desert_Indigo_19
+  - first:
+      213: 5649080603764520951
+    second: Atlas_Buildings_Desert_Indigo_20
+  - first:
+      213: -1523000106990301701
+    second: Atlas_Buildings_Desert_Indigo_21
+  - first:
+      213: 1405485172165259490
+    second: Atlas_Buildings_Desert_Indigo_22
+  - first:
+      213: 2377096621663862324
+    second: Atlas_Buildings_Desert_Indigo_23
+  - first:
+      213: 7530455781028206774
+    second: Atlas_Buildings_Desert_Indigo_24
+  - first:
+      213: 7589392471297052616
+    second: Atlas_Buildings_Desert_Indigo_25
+  - first:
+      213: -6107361831059200924
+    second: Atlas_Buildings_Desert_Indigo_26
+  - first:
+      213: -6042724491081500919
+    second: Atlas_Buildings_Desert_Indigo_27
+  - first:
+      213: -6703692696424161058
+    second: Atlas_Buildings_Desert_Indigo_28
+  - first:
+      213: 4070419897724289728
+    second: Atlas_Buildings_Desert_Indigo_29
+  - first:
+      213: -4446993201038363616
+    second: Atlas_Buildings_Desert_Indigo_30
+  - first:
+      213: -6523653908030018580
+    second: Atlas_Buildings_Desert_Indigo_31
+  - first:
+      213: -8208659716687523266
+    second: Atlas_Buildings_Desert_Indigo_32
+  - first:
+      213: 7934219389288763683
+    second: Atlas_Buildings_Desert_Indigo_33
+  - first:
+      213: -7951237916555216319
+    second: Atlas_Buildings_Desert_Indigo_34
+  - first:
+      213: 5471282497945026094
+    second: Atlas_Buildings_Desert_Indigo_35
+  - first:
+      213: -1219785893313704944
+    second: Atlas_Buildings_Desert_Indigo_36
+  - first:
+      213: -8877210004057727347
+    second: Atlas_Buildings_Desert_Indigo_37
+  - first:
+      213: 6748351163175257489
+    second: Atlas_Buildings_Desert_Indigo_38
+  - first:
+      213: -7626024372971067253
+    second: Atlas_Buildings_Desert_Indigo_39
+  - first:
+      213: -8011214643697006109
+    second: Atlas_Buildings_Desert_Indigo_40
+  - first:
+      213: -2309376705264865603
+    second: Atlas_Buildings_Desert_Indigo_41
+  - first:
+      213: 2714669027876058908
+    second: Atlas_Buildings_Desert_Indigo_42
+  - first:
+      213: 632876472428130308
+    second: Atlas_Buildings_Desert_Indigo_43
+  - first:
+      213: 7752379019388213969
+    second: Atlas_Buildings_Desert_Indigo_44
+  - first:
+      213: -900298988358143483
+    second: Atlas_Buildings_Desert_Indigo_45
+  - first:
+      213: 383897084769243120
+    second: Atlas_Buildings_Desert_Indigo_46
+  - first:
+      213: 983552538025337112
+    second: Atlas_Buildings_Desert_Indigo_47
+  - first:
+      213: -8471343091485715427
+    second: Atlas_Buildings_Desert_Indigo_48
+  - first:
+      213: 5594145702659389084
+    second: Atlas_Buildings_Desert_Indigo_49
+  - first:
+      213: -2429684247496273892
+    second: Atlas_Buildings_Desert_Indigo_50
+  - first:
+      213: 8198746699802248785
+    second: Atlas_Buildings_Desert_Indigo_51
+  - first:
+      213: 6043656259595312559
+    second: Atlas_Buildings_Desert_Indigo_52
+  - first:
+      213: 8646844443704878937
+    second: Atlas_Buildings_Desert_Indigo_53
+  - first:
+      213: -2507092522207998598
+    second: Atlas_Buildings_Desert_Indigo_54
+  - first:
+      213: -7547238031932667795
+    second: Atlas_Buildings_Desert_Indigo_55
+  - first:
+      213: 3610267758483876279
+    second: Atlas_Buildings_Desert_Indigo_56
+  - first:
+      213: 2785498831001775597
+    second: Atlas_Buildings_Desert_Indigo_57
+  - first:
+      213: -2988767844620839626
+    second: Atlas_Buildings_Desert_Indigo_58
+  - first:
+      213: -1130324717189272654
+    second: Atlas_Buildings_Desert_Indigo_59
+  - first:
+      213: 2262570357173714052
+    second: Atlas_Buildings_Desert_Indigo_60
+  - first:
+      213: 5772391330880479789
+    second: Atlas_Buildings_Desert_Indigo_61
+  - first:
+      213: 368217892618440611
+    second: Atlas_Buildings_Desert_Indigo_62
+  - first:
+      213: -3796174053159144809
+    second: Atlas_Buildings_Desert_Indigo_63
+  - first:
+      213: -4879926562804816435
+    second: Atlas_Buildings_Desert_Indigo_64
+  - first:
+      213: -6415219091076018175
+    second: Atlas_Buildings_Desert_Indigo_65
+  - first:
+      213: -5803446734379647843
+    second: Atlas_Buildings_Desert_Indigo_66
+  - first:
+      213: -8594788951579784441
+    second: Atlas_Buildings_Desert_Indigo_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2031
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14105d778facbb210800000000000000
+      internalID: 1349895681838743873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2006
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d29da34988fe2840800000000000000
+      internalID: 5201367888089158353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2031
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1db97c23d9b860d0800000000000000
+      internalID: -3429286799607218917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2031
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edecfe9f8833b3c0800000000000000
+      internalID: -4345067025983541786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2031
+        width: 125
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0aeddfd2c98d3a0800000000000000
+      internalID: -6640385929211109151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1839
+        width: 157
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a6ef688c27e8a30800000000000000
+      internalID: 4219436106476579432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1839
+        width: 157
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044c92f3102bf52e0800000000000000
+      internalID: -2134791979925912512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1839
+        width: 194
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a497a3cb2753cc0800000000000000
+      internalID: -3731950563446142356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1663
+        width: 158
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c89330696301c10800000000000000
+      internalID: 2022176250616450072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1663
+        width: 146
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1908385392dababf0800000000000000
+      internalID: -311965356669042543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1679
+        width: 153
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af851ab7cc2e7ecd0800000000000000
+      internalID: -2528803297869866758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1487
+        width: 182
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45756e3482e51ee0800000000000000
+      internalID: -1290876660561382069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1487
+        width: 187
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ae63c941e9da350800000000000000
+      internalID: 6029649287476341261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1487
+        width: 204
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbde234de6d493ed0800000000000000
+      internalID: -2433828985215193669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1471
+        width: 174
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5996591d17cb3d0800000000000000
+      internalID: -3189549291116325401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6a37f773355f530800000000000000
+      internalID: 3888105351130883802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dc46da575de3640800000000000000
+      internalID: 5061717732607970581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858e9182d749c7ee0800000000000000
+      internalID: -1261970530305972136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e12b0935f64fc2d0800000000000000
+      internalID: -3256305986527616541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7c78efdd6543930800000000000000
+      internalID: 4122015070408918995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7fee601e0956e40800000000000000
+      internalID: 5649080603764520951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_21
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd06fdc8773ddae0800000000000000
+      internalID: -1523000106990301701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_22
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e03df74159418310800000000000000
+      internalID: 1405485172165259490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_23
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e3e0378c42df020800000000000000
+      internalID: 2377096621663862324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_24
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b819f082ad818860800000000000000
+      internalID: 7530455781028206774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_25
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1327
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf4fa80e30f25960800000000000000
+      internalID: 7589392471297052616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1055
+        width: 82
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464efe8d5ca4e3ba0800000000000000
+      internalID: -6107361831059200924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1055
+        width: 82
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907b881571ee32ca0800000000000000
+      internalID: -6042724491081500919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1055
+        width: 146
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0e142a203b7f2a0800000000000000
+      internalID: -6703692696424161058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 911
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2c98ab4590d7830800000000000000
+      internalID: 4070419897724289728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 911
+        width: 133
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024f78dae3b1942c0800000000000000
+      internalID: -4446993201038363616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 911
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb284e95535775a0800000000000000
+      internalID: -6523653908030018580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3218c0aa7bf41e80800000000000000
+      internalID: -8208659716687523266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321d29c4f720c1e60800000000000000
+      internalID: 7934219389288763683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14afb1b0e3787a190800000000000000
+      internalID: -7951237916555216319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e33db9176edeb40800000000000000
+      internalID: 5471282497945026094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_36
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c01075133721fe0800000000000000
+      internalID: -1219785893313704944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_37
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e5897e880ddc480800000000000000
+      internalID: -8877210004057727347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_38
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195c7ace0a5f6ad50800000000000000
+      internalID: 6748351163175257489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_39
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88a698bc3bea2690800000000000000
+      internalID: -7626024372971067253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_40
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9480f0ab272d090800000000000000
+      internalID: -8011214643697006109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_41
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 751
+        width: 175
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe20264f1273ffd0800000000000000
+      internalID: -2309376705264865603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_42
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 751
+        width: 174
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17be4119117ca520800000000000000
+      internalID: 2714669027876058908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 545
+        width: 157
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400f7cd6ccd68c800800000000000000
+      internalID: 632876472428130308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 545
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da53dee4abf59b60800000000000000
+      internalID: 7752379019388213969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_45
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 545
+        width: 160
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502f44f07de7183f0800000000000000
+      internalID: -900298988358143483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 432
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff8af75d50e35500800000000000000
+      internalID: 383897084769243120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8112fee72d746ad00800000000000000
+      internalID: 983552538025337112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14d885675ebf6a80800000000000000
+      internalID: -8471343091485715427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c967ac4a0e562ad40800000000000000
+      internalID: 5594145702659389084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 432
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c105f97cc07084ed0800000000000000
+      internalID: -2429684247496273892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_51
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 432
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1568e154facc7c170800000000000000
+      internalID: 8198746699802248785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 320
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad9eb1f8516fd350800000000000000
+      internalID: 6043656259595312559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957e6176533cff770800000000000000
+      internalID: 8646844443704878937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 320
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d01ca52a4053dd0800000000000000
+      internalID: -2507092522207998598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 224
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68c5573ff2d24790800000000000000
+      internalID: -7547238031932667795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_56
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 224
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b92a78f56f3a1230800000000000000
+      internalID: 3610267758483876279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded6028bd6418a620800000000000000
+      internalID: 2785498831001775597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635d3410b73c586d0800000000000000
+      internalID: -2988767844620839626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbe61f88a74050f0800000000000000
+      internalID: -1130324717189272654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_60
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cfaa290c3466f10800000000000000
+      internalID: 2262570357173714052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_61
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22ecadf457ab1050800000000000000
+      internalID: 5772391330880479789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af0771f83c2c1500800000000000000
+      internalID: 368217892618440611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_63
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792f4e7cfc7415bc0800000000000000
+      internalID: -3796174053159144809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_64
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5a60665a4074cb0800000000000000
+      internalID: -4879926562804816435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_65
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1001c18d93098f6a0800000000000000
+      internalID: -6415219091076018175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_66
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c766c61f3067fa0800000000000000
+      internalID: -5803446734379647843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Desert_Indigo_67
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 48
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b82a55cfc29b880800000000000000
+      internalID: -8594788951579784441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas_Buildings_Desert_Indigo_0: 1349895681838743873
+      Atlas_Buildings_Desert_Indigo_1: 5201367888089158353
+      Atlas_Buildings_Desert_Indigo_10: -2528803297869866758
+      Atlas_Buildings_Desert_Indigo_11: -1290876660561382069
+      Atlas_Buildings_Desert_Indigo_12: 6029649287476341261
+      Atlas_Buildings_Desert_Indigo_13: -2433828985215193669
+      Atlas_Buildings_Desert_Indigo_14: -3189549291116325401
+      Atlas_Buildings_Desert_Indigo_15: 3888105351130883802
+      Atlas_Buildings_Desert_Indigo_16: 5061717732607970581
+      Atlas_Buildings_Desert_Indigo_17: -1261970530305972136
+      Atlas_Buildings_Desert_Indigo_18: -3256305986527616541
+      Atlas_Buildings_Desert_Indigo_19: 4122015070408918995
+      Atlas_Buildings_Desert_Indigo_2: -3429286799607218917
+      Atlas_Buildings_Desert_Indigo_20: 5649080603764520951
+      Atlas_Buildings_Desert_Indigo_21: -1523000106990301701
+      Atlas_Buildings_Desert_Indigo_22: 1405485172165259490
+      Atlas_Buildings_Desert_Indigo_23: 2377096621663862324
+      Atlas_Buildings_Desert_Indigo_24: 7530455781028206774
+      Atlas_Buildings_Desert_Indigo_25: 7589392471297052616
+      Atlas_Buildings_Desert_Indigo_26: -6107361831059200924
+      Atlas_Buildings_Desert_Indigo_27: -6042724491081500919
+      Atlas_Buildings_Desert_Indigo_28: -6703692696424161058
+      Atlas_Buildings_Desert_Indigo_29: 4070419897724289728
+      Atlas_Buildings_Desert_Indigo_3: -4345067025983541786
+      Atlas_Buildings_Desert_Indigo_30: -4446993201038363616
+      Atlas_Buildings_Desert_Indigo_31: -6523653908030018580
+      Atlas_Buildings_Desert_Indigo_32: -8208659716687523266
+      Atlas_Buildings_Desert_Indigo_33: 7934219389288763683
+      Atlas_Buildings_Desert_Indigo_34: -7951237916555216319
+      Atlas_Buildings_Desert_Indigo_35: 5471282497945026094
+      Atlas_Buildings_Desert_Indigo_36: -1219785893313704944
+      Atlas_Buildings_Desert_Indigo_37: -8877210004057727347
+      Atlas_Buildings_Desert_Indigo_38: 6748351163175257489
+      Atlas_Buildings_Desert_Indigo_39: -7626024372971067253
+      Atlas_Buildings_Desert_Indigo_4: -6640385929211109151
+      Atlas_Buildings_Desert_Indigo_40: -8011214643697006109
+      Atlas_Buildings_Desert_Indigo_41: -2309376705264865603
+      Atlas_Buildings_Desert_Indigo_42: 2714669027876058908
+      Atlas_Buildings_Desert_Indigo_43: 632876472428130308
+      Atlas_Buildings_Desert_Indigo_44: 7752379019388213969
+      Atlas_Buildings_Desert_Indigo_45: -900298988358143483
+      Atlas_Buildings_Desert_Indigo_46: 383897084769243120
+      Atlas_Buildings_Desert_Indigo_47: 983552538025337112
+      Atlas_Buildings_Desert_Indigo_48: -8471343091485715427
+      Atlas_Buildings_Desert_Indigo_49: 5594145702659389084
+      Atlas_Buildings_Desert_Indigo_5: 4219436106476579432
+      Atlas_Buildings_Desert_Indigo_50: -2429684247496273892
+      Atlas_Buildings_Desert_Indigo_51: 8198746699802248785
+      Atlas_Buildings_Desert_Indigo_52: 6043656259595312559
+      Atlas_Buildings_Desert_Indigo_53: 8646844443704878937
+      Atlas_Buildings_Desert_Indigo_54: -2507092522207998598
+      Atlas_Buildings_Desert_Indigo_55: -7547238031932667795
+      Atlas_Buildings_Desert_Indigo_56: 3610267758483876279
+      Atlas_Buildings_Desert_Indigo_57: 2785498831001775597
+      Atlas_Buildings_Desert_Indigo_58: -2988767844620839626
+      Atlas_Buildings_Desert_Indigo_59: -1130324717189272654
+      Atlas_Buildings_Desert_Indigo_6: -2134791979925912512
+      Atlas_Buildings_Desert_Indigo_60: 2262570357173714052
+      Atlas_Buildings_Desert_Indigo_61: 5772391330880479789
+      Atlas_Buildings_Desert_Indigo_62: 368217892618440611
+      Atlas_Buildings_Desert_Indigo_63: -3796174053159144809
+      Atlas_Buildings_Desert_Indigo_64: -4879926562804816435
+      Atlas_Buildings_Desert_Indigo_65: -6415219091076018175
+      Atlas_Buildings_Desert_Indigo_66: -5803446734379647843
+      Atlas_Buildings_Desert_Indigo_67: -8594788951579784441
+      Atlas_Buildings_Desert_Indigo_7: -3731950563446142356
+      Atlas_Buildings_Desert_Indigo_8: 2022176250616450072
+      Atlas_Buildings_Desert_Indigo_9: -311965356669042543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

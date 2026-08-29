@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: cdb4a6c8207a8994685618153d3f91fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5850111927128241977
+    second: Animation_Rock_Gray_Desert_0
+  - first:
+      213: -8655400363439455906
+    second: Animation_Rock_Gray_Desert_1
+  - first:
+      213: 5356853670839423597
+    second: Animation_Rock_Gray_Desert_2
+  - first:
+      213: 2873578593435243734
+    second: Animation_Rock_Gray_Desert_3
+  - first:
+      213: -999922646825571041
+    second: Animation_Rock_Gray_Desert_4
+  - first:
+      213: -5202682783206839868
+    second: Animation_Rock_Gray_Desert_5
+  - first:
+      213: -5113752464842731782
+    second: Animation_Rock_Gray_Desert_6
+  - first:
+      213: 8060721793458465430
+    second: Animation_Rock_Gray_Desert_7
+  - first:
+      213: 3039033233752617105
+    second: Animation_Rock_Gray_Desert_8
+  - first:
+      213: -8785344250204153836
+    second: Animation_Rock_Gray_Desert_9
+  - first:
+      213: -2743007688897817627
+    second: Animation_Rock_Gray_Desert_10
+  - first:
+      213: -8548792722074033910
+    second: Animation_Rock_Gray_Desert_11
+  - first:
+      213: -6329395368748284932
+    second: Animation_Rock_Gray_Desert_12
+  - first:
+      213: 2690051022997729834
+    second: Animation_Rock_Gray_Desert_13
+  - first:
+      213: -6782777766671178603
+    second: Animation_Rock_Gray_Desert_14
+  - first:
+      213: 5849493376885062045
+    second: Animation_Rock_Gray_Desert_15
+  - first:
+      213: -973220807561618912
+    second: Animation_Rock_Gray_Desert_16
+  - first:
+      213: 1478675012537469209
+    second: Animation_Rock_Gray_Desert_17
+  - first:
+      213: -6043693407284447345
+    second: Animation_Rock_Gray_Desert_18
+  - first:
+      213: -5960128012324981855
+    second: Animation_Rock_Gray_Desert_19
+  - first:
+      213: 6449212266994222981
+    second: Animation_Rock_Gray_Desert_20
+  - first:
+      213: -1544803005886739266
+    second: Animation_Rock_Gray_Desert_21
+  - first:
+      213: 8457986768905874462
+    second: Animation_Rock_Gray_Desert_22
+  - first:
+      213: -3634603723686530335
+    second: Animation_Rock_Gray_Desert_23
+  - first:
+      213: -3056673162385222113
+    second: Animation_Rock_Gray_Desert_24
+  - first:
+      213: 7103222175464936390
+    second: Animation_Rock_Gray_Desert_25
+  - first:
+      213: 2800684262917380050
+    second: Animation_Rock_Gray_Desert_26
+  - first:
+      213: -6918988452642235705
+    second: Animation_Rock_Gray_Desert_27
+  - first:
+      213: -8936918254818492492
+    second: Animation_Rock_Gray_Desert_28
+  - first:
+      213: -4078006077059625377
+    second: Animation_Rock_Gray_Desert_29
+  - first:
+      213: -5646174079190053372
+    second: Animation_Rock_Gray_Desert_30
+  - first:
+      213: 8016249786720984798
+    second: Animation_Rock_Gray_Desert_31
+  - first:
+      213: -7554749366933069303
+    second: Animation_Rock_Gray_Desert_32
+  - first:
+      213: -221098166226010268
+    second: Animation_Rock_Gray_Desert_33
+  - first:
+      213: -9140387825959416791
+    second: Animation_Rock_Gray_Desert_34
+  - first:
+      213: -6300739835817192165
+    second: Animation_Rock_Gray_Desert_35
+  - first:
+      213: -1455878865024955910
+    second: Animation_Rock_Gray_Desert_36
+  - first:
+      213: -7486503200041859370
+    second: Animation_Rock_Gray_Desert_37
+  - first:
+      213: -6937029063708422916
+    second: Animation_Rock_Gray_Desert_38
+  - first:
+      213: -739883824518146855
+    second: Animation_Rock_Gray_Desert_39
+  - first:
+      213: -2942380837674950329
+    second: Animation_Rock_Gray_Desert_40
+  - first:
+      213: 953912057602406137
+    second: Animation_Rock_Gray_Desert_41
+  - first:
+      213: 3616490352740735004
+    second: Animation_Rock_Gray_Desert_42
+  - first:
+      213: -5227602889252604630
+    second: Animation_Rock_Gray_Desert_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93731c07dc5cf2150800000000000000
+      internalID: 5850111927128241977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 301
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51876c4a37d1e780800000000000000
+      internalID: -8655400363439455906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d629124280e575a40800000000000000
+      internalID: 5356853670839423597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 302
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4dfdf718001e720800000000000000
+      internalID: 2873578593435243734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1de71986af8f12f0800000000000000
+      internalID: -999922646825571041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 301
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c96aebd29b5cc7b0800000000000000
+      internalID: -5202682783206839868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 289
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe45cf1a3d4809b0800000000000000
+      internalID: -5113752464842731782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 289
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a675c73cf6ddf60800000000000000
+      internalID: 8060721793458465430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 289
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1907e66ef90dc2a20800000000000000
+      internalID: 3039033233752617105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4189f0183ff241680800000000000000
+      internalID: -8785344250204153836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 302
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3941f3a01eee9d0800000000000000
+      internalID: -2743007688897817627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 289
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01255e00569c5980800000000000000
+      internalID: -8548792722074033910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 289
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf381ca52787928a0800000000000000
+      internalID: -6329395368748284932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22b475272bf45520800000000000000
+      internalID: 2690051022997729834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594a523de8bbed1a0800000000000000
+      internalID: -6782777766671178603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99fb3dfb339d2150800000000000000
+      internalID: 5849493376885062045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a5545f4dc6e72f0800000000000000
+      internalID: -973220807561618912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919ca8ce61f458410800000000000000
+      internalID: 1478675012537469209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87b07feddc702ca0800000000000000
+      internalID: -6043693407284447345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3b381a62f594da0800000000000000
+      internalID: -5960128012324981855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587484f2364308950800000000000000
+      internalID: 6449212266994222981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc4a22d9d1cf8ae0800000000000000
+      internalID: -1544803005886739266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ca69b672ec06570800000000000000
+      internalID: 8457986768905874462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e23a569b2b4f8dc0800000000000000
+      internalID: -3634603723686530335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f161f8924f38495d0800000000000000
+      internalID: -3056673162385222113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3d3412fe6b39260800000000000000
+      internalID: 7103222175464936390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7973b9f770ed620800000000000000
+      internalID: 2800684262917380050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cada3329a0daff90800000000000000
+      internalID: -6918988452642235705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bff6d27230b9f380800000000000000
+      internalID: -8936918254818492492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e0af044130867c0800000000000000
+      internalID: -4078006077059625377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ecbd5f692c4a1b0800000000000000
+      internalID: -5646174079190053372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede1e4885b07f3f60800000000000000
+      internalID: 8016249786720984798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902e8d04a73282790800000000000000
+      internalID: -7554749366933069303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fbb95a3608eecf0800000000000000
+      internalID: -221098166226010268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c426c33b1d62180800000000000000
+      internalID: -9140387825959416791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1596f780864f88a0800000000000000
+      internalID: -6300739835817192165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af94036c2edabcbe0800000000000000
+      internalID: -1455878865024955910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 49
+        width: 98
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d60ea731099a1890800000000000000
+      internalID: -7486503200041859370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc491d02d8babf90800000000000000
+      internalID: -6937029063708422916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4d988e4976bb5f0800000000000000
+      internalID: -739883824518146855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741e770b7309a27d0800000000000000
+      internalID: -2942380837674950329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f67a5c56f9fc3d00800000000000000
+      internalID: 953912057602406137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c181db890da503230800000000000000
+      internalID: 3616490352740735004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_Desert_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25fa478ed2d377b0800000000000000
+      internalID: -5227602889252604630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_Rock_Gray_Desert_0: 5850111927128241977
+      Animation_Rock_Gray_Desert_1: -8655400363439455906
+      Animation_Rock_Gray_Desert_10: -2743007688897817627
+      Animation_Rock_Gray_Desert_11: -8548792722074033910
+      Animation_Rock_Gray_Desert_12: -6329395368748284932
+      Animation_Rock_Gray_Desert_13: 2690051022997729834
+      Animation_Rock_Gray_Desert_14: -6782777766671178603
+      Animation_Rock_Gray_Desert_15: 5849493376885062045
+      Animation_Rock_Gray_Desert_16: -973220807561618912
+      Animation_Rock_Gray_Desert_17: 1478675012537469209
+      Animation_Rock_Gray_Desert_18: -6043693407284447345
+      Animation_Rock_Gray_Desert_19: -5960128012324981855
+      Animation_Rock_Gray_Desert_2: 5356853670839423597
+      Animation_Rock_Gray_Desert_20: 6449212266994222981
+      Animation_Rock_Gray_Desert_21: -1544803005886739266
+      Animation_Rock_Gray_Desert_22: 8457986768905874462
+      Animation_Rock_Gray_Desert_23: -3634603723686530335
+      Animation_Rock_Gray_Desert_24: -3056673162385222113
+      Animation_Rock_Gray_Desert_25: 7103222175464936390
+      Animation_Rock_Gray_Desert_26: 2800684262917380050
+      Animation_Rock_Gray_Desert_27: -6918988452642235705
+      Animation_Rock_Gray_Desert_28: -8936918254818492492
+      Animation_Rock_Gray_Desert_29: -4078006077059625377
+      Animation_Rock_Gray_Desert_3: 2873578593435243734
+      Animation_Rock_Gray_Desert_30: -5646174079190053372
+      Animation_Rock_Gray_Desert_31: 8016249786720984798
+      Animation_Rock_Gray_Desert_32: -7554749366933069303
+      Animation_Rock_Gray_Desert_33: -221098166226010268
+      Animation_Rock_Gray_Desert_34: -9140387825959416791
+      Animation_Rock_Gray_Desert_35: -6300739835817192165
+      Animation_Rock_Gray_Desert_36: -1455878865024955910
+      Animation_Rock_Gray_Desert_37: -7486503200041859370
+      Animation_Rock_Gray_Desert_38: -6937029063708422916
+      Animation_Rock_Gray_Desert_39: -739883824518146855
+      Animation_Rock_Gray_Desert_4: -999922646825571041
+      Animation_Rock_Gray_Desert_40: -2942380837674950329
+      Animation_Rock_Gray_Desert_41: 953912057602406137
+      Animation_Rock_Gray_Desert_42: 3616490352740735004
+      Animation_Rock_Gray_Desert_43: -5227602889252604630
+      Animation_Rock_Gray_Desert_5: -5202682783206839868
+      Animation_Rock_Gray_Desert_6: -5113752464842731782
+      Animation_Rock_Gray_Desert_7: 8060721793458465430
+      Animation_Rock_Gray_Desert_8: 3039033233752617105
+      Animation_Rock_Gray_Desert_9: -8785344250204153836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

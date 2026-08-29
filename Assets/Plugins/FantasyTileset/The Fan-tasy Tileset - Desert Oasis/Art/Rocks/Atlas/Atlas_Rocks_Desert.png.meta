@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: 02e202640dd8fd0469673c33befb1418
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8907270906658305949
+    second: Atlas_Rocks_Desert_0
+  - first:
+      213: 2289362455441767435
+    second: Atlas_Rocks_Desert_1
+  - first:
+      213: 2573628024718962579
+    second: Atlas_Rocks_Desert_2
+  - first:
+      213: 2402988134228522692
+    second: Atlas_Rocks_Desert_3
+  - first:
+      213: -208659024725670757
+    second: Atlas_Rocks_Desert_4
+  - first:
+      213: -323013648706043550
+    second: Atlas_Rocks_Desert_5
+  - first:
+      213: -4684308549668079045
+    second: Atlas_Rocks_Desert_6
+  - first:
+      213: -1243884130016328301
+    second: Atlas_Rocks_Desert_7
+  - first:
+      213: 673382351960222003
+    second: Atlas_Rocks_Desert_8
+  - first:
+      213: -7799439998969993286
+    second: Atlas_Rocks_Desert_9
+  - first:
+      213: -524803642781989164
+    second: Atlas_Rocks_Desert_10
+  - first:
+      213: -4343025059318100821
+    second: Atlas_Rocks_Desert_11
+  - first:
+      213: 687791350363643194
+    second: Atlas_Rocks_Desert_12
+  - first:
+      213: -9123768645216885068
+    second: Atlas_Rocks_Desert_13
+  - first:
+      213: 642176479238052826
+    second: Atlas_Rocks_Desert_14
+  - first:
+      213: 6786728331636038278
+    second: Atlas_Rocks_Desert_15
+  - first:
+      213: 4433596094299406475
+    second: Atlas_Rocks_Desert_16
+  - first:
+      213: 7555651014964221959
+    second: Atlas_Rocks_Desert_17
+  - first:
+      213: -6689879507847565331
+    second: Atlas_Rocks_Desert_18
+  - first:
+      213: 3678399754978118595
+    second: Atlas_Rocks_Desert_19
+  - first:
+      213: -2405739756411942903
+    second: Atlas_Rocks_Desert_20
+  - first:
+      213: 8347532931826437549
+    second: Atlas_Rocks_Desert_21
+  - first:
+      213: -3929650013460758722
+    second: Atlas_Rocks_Desert_22
+  - first:
+      213: -6552348488677294225
+    second: Atlas_Rocks_Desert_23
+  - first:
+      213: 6417588493762789533
+    second: Atlas_Rocks_Desert_24
+  - first:
+      213: -8462228188164426948
+    second: Atlas_Rocks_Desert_25
+  - first:
+      213: -7844976174573670310
+    second: Atlas_Rocks_Desert_26
+  - first:
+      213: 4121890519275190374
+    second: Atlas_Rocks_Desert_27
+  - first:
+      213: -7545503058376063627
+    second: Atlas_Rocks_Desert_28
+  - first:
+      213: -7611095125430680435
+    second: Atlas_Rocks_Desert_29
+  - first:
+      213: -8089284956423797478
+    second: Atlas_Rocks_Desert_30
+  - first:
+      213: 4633161010789864138
+    second: Atlas_Rocks_Desert_31
+  - first:
+      213: -8622532105249935110
+    second: Atlas_Rocks_Desert_32
+  - first:
+      213: -5356376622561440011
+    second: Atlas_Rocks_Desert_33
+  - first:
+      213: -554052956722909782
+    second: Atlas_Rocks_Desert_34
+  - first:
+      213: -7687955408342615819
+    second: Atlas_Rocks_Desert_35
+  - first:
+      213: 7121909812283393816
+    second: Atlas_Rocks_Desert_36
+  - first:
+      213: -1181625336210961888
+    second: Atlas_Rocks_Desert_37
+  - first:
+      213: -243556935400485515
+    second: Atlas_Rocks_Desert_38
+  - first:
+      213: -602051404762641558
+    second: Atlas_Rocks_Desert_39
+  - first:
+      213: -675811276970342195
+    second: Atlas_Rocks_Desert_40
+  - first:
+      213: 2029610973604130168
+    second: Atlas_Rocks_Desert_41
+  - first:
+      213: -6224016197270401232
+    second: Atlas_Rocks_Desert_42
+  - first:
+      213: -1791537087711801584
+    second: Atlas_Rocks_Desert_43
+  - first:
+      213: -5778645980732893503
+    second: Atlas_Rocks_Desert_44
+  - first:
+      213: -633521926918111104
+    second: Atlas_Rocks_Desert_45
+  - first:
+      213: -557141736975191038
+    second: Atlas_Rocks_Desert_46
+  - first:
+      213: 6975939597437879047
+    second: Atlas_Rocks_Desert_47
+  - first:
+      213: -3114140875035340128
+    second: Atlas_Rocks_Desert_48
+  - first:
+      213: -3229442858503925240
+    second: Atlas_Rocks_Desert_49
+  - first:
+      213: 5432590079547457321
+    second: Atlas_Rocks_Desert_50
+  - first:
+      213: -5807186136486530269
+    second: Atlas_Rocks_Desert_51
+  - first:
+      213: 6152234536914880050
+    second: Atlas_Rocks_Desert_52
+  - first:
+      213: 3349236817693990582
+    second: Atlas_Rocks_Desert_53
+  - first:
+      213: 8809433784819138795
+    second: Atlas_Rocks_Desert_54
+  - first:
+      213: 452166765357613148
+    second: Atlas_Rocks_Desert_55
+  - first:
+      213: 301110632928617802
+    second: Atlas_Rocks_Desert_56
+  - first:
+      213: -6377923344354596875
+    second: Atlas_Rocks_Desert_57
+  - first:
+      213: 9170780392315516334
+    second: Atlas_Rocks_Desert_58
+  - first:
+      213: -2815466036420514252
+    second: Atlas_Rocks_Desert_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_0
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 737
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368c57a9d44036480800000000000000
+      internalID: -8907270906658305949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 737
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cf8be060375cf10800000000000000
+      internalID: 2289362455441767435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_2
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 737
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f2d558d0d57b320800000000000000
+      internalID: 2573628024718962579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_3
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 737
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c67b2cf9f0295120800000000000000
+      internalID: 2402988134228522692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b940c08f8b1ba1df0800000000000000
+      internalID: -208659024725670757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 689
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26106434ccc648bf0800000000000000
+      internalID: -323013648706043550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_6
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a75be413efdfeb0800000000000000
+      internalID: -4684308549668079045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_7
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 689
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39581a069f5dcbee0800000000000000
+      internalID: -1243884130016328301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 641
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3392b9e6ea5585900800000000000000
+      internalID: 673382351960222003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 658
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7ab66e4a2d2c390800000000000000
+      internalID: -7799439998969993286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_10
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 641
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6062f0ed587b8f0800000000000000
+      internalID: -524803642781989164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_11
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 658
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac89b808b97ab3c0800000000000000
+      internalID: -4343025059318100821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 626
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3dd20ec6968b8900800000000000000
+      internalID: 687791350363643194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_13
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 626
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b62009c1ccd16180800000000000000
+      internalID: -9123768645216885068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 609
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb58100b1879e800800000000000000
+      internalID: 642176479238052826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_15
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 609
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ade32c57d4f2e50800000000000000
+      internalID: 6786728331636038278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 593
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b808646582c478d30800000000000000
+      internalID: 4433596094299406475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_17
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 593
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70813c901901bd860800000000000000
+      internalID: 7555651014964221959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 515
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defa4983806c823a0800000000000000
+      internalID: -6689879507847565331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_19
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 515
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbca51961d4c0330800000000000000
+      internalID: 3678399754978118595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_20
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 451
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908080d00781d9ed0800000000000000
+      internalID: -2405739756411942903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_21
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 451
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadc36079f468d370800000000000000
+      internalID: 8347532931826437549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_22
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 451
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fff0802241779c0800000000000000
+      internalID: -3929650013460758722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_23
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 451
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f72dfe3c16115a0800000000000000
+      internalID: -6552348488677294225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 402
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d908d55bbbadf0950800000000000000
+      internalID: 6417588493762789533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 417
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3379243c40209a80800000000000000
+      internalID: -8462228188164426948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_26
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 402
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a503223dbbb012390800000000000000
+      internalID: -7844976174573670310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_27
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 417
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668b27ca695e33930800000000000000
+      internalID: 4121890519275190374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_28
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 337
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5750fd932fcf84790800000000000000
+      internalID: -7545503058376063627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 336
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d844ff80f45ff5690800000000000000
+      internalID: -7611095125430680435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_30
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 337
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15c275e0361dbf80800000000000000
+      internalID: -8089284956423797478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_31
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 336
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2d15b446b4c4040800000000000000
+      internalID: 4633161010789864138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_32
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 273
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af03d220cbc965880800000000000000
+      internalID: -8622532105249935110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 285
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fec40157d35aa5b0800000000000000
+      internalID: -5356376622561440011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_34
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 273
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aada6c775cb9f48f0800000000000000
+      internalID: -554052956722909782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_35
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 273
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8f1b4e945ee4590800000000000000
+      internalID: -7687955408342615819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_36
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 285
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8174583ad3b16d260800000000000000
+      internalID: 7121909812283393816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_37
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 273
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a4b8964060a9fe0800000000000000
+      internalID: -1181625336210961888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 225
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d0fd6f146be9cf0800000000000000
+      internalID: -243556935400485515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 241
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b099aef6515a7f0800000000000000
+      internalID: -602051404762641558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_40
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 225
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8caf469390f96f0800000000000000
+      internalID: -675811276970342195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_41
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 241
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87da8e95d60aa2c10800000000000000
+      internalID: 2029610973604130168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 209
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f8b6dae3adf99a0800000000000000
+      internalID: -6224016197270401232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_43
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 209
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f000db28e2327e0800000000000000
+      internalID: -1791537087711801584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 177
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c65dabd8102ecfa0800000000000000
+      internalID: -5778645980732893503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_45
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 177
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08000acf9274537f0800000000000000
+      internalID: -633521926918111104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_46
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 177
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204bc06ca82a448f0800000000000000
+      internalID: -557141736975191038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_47
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 177
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703cddf8a148fc060800000000000000
+      internalID: 6975939597437879047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_48
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 79
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a29ef2af5958c4d0800000000000000
+      internalID: -3114140875035340128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_49
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 145
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802937c94d6be23d0800000000000000
+      internalID: -3229442858503925240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_50
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 79
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fbcbde4ef646b40800000000000000
+      internalID: 5432590079547457321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_51
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 145
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323b5260afab86fa0800000000000000
+      internalID: -5807186136486530269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_52
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23683b327b0216550800000000000000
+      internalID: 6152234536914880050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_53
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be5f430421ea7e20800000000000000
+      internalID: 3349236817693990582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_54
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be048785a55614a70800000000000000
+      internalID: 8809433784819138795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_55
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 80
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50c064074b664600800000000000000
+      internalID: 452166765357613148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_56
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 16
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45adc97682cd2400800000000000000
+      internalID: 301110632928617802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7a21f82801d77a0800000000000000
+      internalID: -6377923344354596875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_58
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 16
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5751d8d28254f70800000000000000
+      internalID: 9170780392315516334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Rocks_Desert_59
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 16
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e6afd8e847de8d0800000000000000
+      internalID: -2815466036420514252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas_Rocks_Desert_0: -8907270906658305949
+      Atlas_Rocks_Desert_1: 2289362455441767435
+      Atlas_Rocks_Desert_10: -524803642781989164
+      Atlas_Rocks_Desert_11: -4343025059318100821
+      Atlas_Rocks_Desert_12: 687791350363643194
+      Atlas_Rocks_Desert_13: -9123768645216885068
+      Atlas_Rocks_Desert_14: 642176479238052826
+      Atlas_Rocks_Desert_15: 6786728331636038278
+      Atlas_Rocks_Desert_16: 4433596094299406475
+      Atlas_Rocks_Desert_17: 7555651014964221959
+      Atlas_Rocks_Desert_18: -6689879507847565331
+      Atlas_Rocks_Desert_19: 3678399754978118595
+      Atlas_Rocks_Desert_2: 2573628024718962579
+      Atlas_Rocks_Desert_20: -2405739756411942903
+      Atlas_Rocks_Desert_21: 8347532931826437549
+      Atlas_Rocks_Desert_22: -3929650013460758722
+      Atlas_Rocks_Desert_23: -6552348488677294225
+      Atlas_Rocks_Desert_24: 6417588493762789533
+      Atlas_Rocks_Desert_25: -8462228188164426948
+      Atlas_Rocks_Desert_26: -7844976174573670310
+      Atlas_Rocks_Desert_27: 4121890519275190374
+      Atlas_Rocks_Desert_28: -7545503058376063627
+      Atlas_Rocks_Desert_29: -7611095125430680435
+      Atlas_Rocks_Desert_3: 2402988134228522692
+      Atlas_Rocks_Desert_30: -8089284956423797478
+      Atlas_Rocks_Desert_31: 4633161010789864138
+      Atlas_Rocks_Desert_32: -8622532105249935110
+      Atlas_Rocks_Desert_33: -5356376622561440011
+      Atlas_Rocks_Desert_34: -554052956722909782
+      Atlas_Rocks_Desert_35: -7687955408342615819
+      Atlas_Rocks_Desert_36: 7121909812283393816
+      Atlas_Rocks_Desert_37: -1181625336210961888
+      Atlas_Rocks_Desert_38: -243556935400485515
+      Atlas_Rocks_Desert_39: -602051404762641558
+      Atlas_Rocks_Desert_4: -208659024725670757
+      Atlas_Rocks_Desert_40: -675811276970342195
+      Atlas_Rocks_Desert_41: 2029610973604130168
+      Atlas_Rocks_Desert_42: -6224016197270401232
+      Atlas_Rocks_Desert_43: -1791537087711801584
+      Atlas_Rocks_Desert_44: -5778645980732893503
+      Atlas_Rocks_Desert_45: -633521926918111104
+      Atlas_Rocks_Desert_46: -557141736975191038
+      Atlas_Rocks_Desert_47: 6975939597437879047
+      Atlas_Rocks_Desert_48: -3114140875035340128
+      Atlas_Rocks_Desert_49: -3229442858503925240
+      Atlas_Rocks_Desert_5: -323013648706043550
+      Atlas_Rocks_Desert_50: 5432590079547457321
+      Atlas_Rocks_Desert_51: -5807186136486530269
+      Atlas_Rocks_Desert_52: 6152234536914880050
+      Atlas_Rocks_Desert_53: 3349236817693990582
+      Atlas_Rocks_Desert_54: 8809433784819138795
+      Atlas_Rocks_Desert_55: 452166765357613148
+      Atlas_Rocks_Desert_56: 301110632928617802
+      Atlas_Rocks_Desert_57: -6377923344354596875
+      Atlas_Rocks_Desert_58: 9170780392315516334
+      Atlas_Rocks_Desert_59: -2815466036420514252
+      Atlas_Rocks_Desert_6: -4684308549668079045
+      Atlas_Rocks_Desert_7: -1243884130016328301
+      Atlas_Rocks_Desert_8: 673382351960222003
+      Atlas_Rocks_Desert_9: -7799439998969993286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

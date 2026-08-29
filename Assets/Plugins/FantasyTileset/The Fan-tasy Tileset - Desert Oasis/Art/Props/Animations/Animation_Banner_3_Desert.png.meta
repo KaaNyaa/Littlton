@@ -1,0 +1,2418 @@
+fileFormatVersion: 2
+guid: 7e24848e24f789e4db1936158e942853
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5560332703885697859
+    second: Animation_Banner_3_Desert_0
+  - first:
+      213: 8705918192523087368
+    second: Animation_Banner_3_Desert_1
+  - first:
+      213: 4200187490520584933
+    second: Animation_Banner_3_Desert_2
+  - first:
+      213: 5005263485666211621
+    second: Animation_Banner_3_Desert_3
+  - first:
+      213: -5745125760416715376
+    second: Animation_Banner_3_Desert_4
+  - first:
+      213: 8573755534731633060
+    second: Animation_Banner_3_Desert_5
+  - first:
+      213: 8709827640128862765
+    second: Animation_Banner_3_Desert_6
+  - first:
+      213: -7078309935456651505
+    second: Animation_Banner_3_Desert_7
+  - first:
+      213: 7844348102070328680
+    second: Animation_Banner_3_Desert_8
+  - first:
+      213: 2835581696119437078
+    second: Animation_Banner_3_Desert_9
+  - first:
+      213: -3237403188662474551
+    second: Animation_Banner_3_Desert_10
+  - first:
+      213: 6360619919167109043
+    second: Animation_Banner_3_Desert_11
+  - first:
+      213: 176771775340357773
+    second: Animation_Banner_3_Desert_12
+  - first:
+      213: -2259073815435440050
+    second: Animation_Banner_3_Desert_13
+  - first:
+      213: -7628981209700498752
+    second: Animation_Banner_3_Desert_14
+  - first:
+      213: 5899711920761503496
+    second: Animation_Banner_3_Desert_15
+  - first:
+      213: -5338321908002261316
+    second: Animation_Banner_3_Desert_16
+  - first:
+      213: 6642549812097926167
+    second: Animation_Banner_3_Desert_17
+  - first:
+      213: 3912579303199835515
+    second: Animation_Banner_3_Desert_18
+  - first:
+      213: -1091009357174059146
+    second: Animation_Banner_3_Desert_19
+  - first:
+      213: -2861819271570191952
+    second: Animation_Banner_3_Desert_20
+  - first:
+      213: -703504125303569776
+    second: Animation_Banner_3_Desert_21
+  - first:
+      213: 6451098255040741763
+    second: Animation_Banner_3_Desert_22
+  - first:
+      213: -1195481182794595188
+    second: Animation_Banner_3_Desert_23
+  - first:
+      213: -4213936763579323359
+    second: Animation_Banner_3_Desert_24
+  - first:
+      213: 1095629062396099621
+    second: Animation_Banner_3_Desert_25
+  - first:
+      213: 6007261025465155970
+    second: Animation_Banner_3_Desert_26
+  - first:
+      213: -4098228011576151406
+    second: Animation_Banner_3_Desert_27
+  - first:
+      213: -4750317625244589261
+    second: Animation_Banner_3_Desert_28
+  - first:
+      213: 2946382039295331782
+    second: Animation_Banner_3_Desert_29
+  - first:
+      213: -8074778194658648589
+    second: Animation_Banner_3_Desert_30
+  - first:
+      213: 8008391438256770808
+    second: Animation_Banner_3_Desert_31
+  - first:
+      213: 921908408922233210
+    second: Animation_Banner_3_Desert_32
+  - first:
+      213: 6954869799534592032
+    second: Animation_Banner_3_Desert_33
+  - first:
+      213: 6290521440485841318
+    second: Animation_Banner_3_Desert_34
+  - first:
+      213: 2850469322905833549
+    second: Animation_Banner_3_Desert_35
+  - first:
+      213: 8666896977334512899
+    second: Animation_Banner_3_Desert_36
+  - first:
+      213: 6378595806020075138
+    second: Animation_Banner_3_Desert_37
+  - first:
+      213: -4852062303713684245
+    second: Animation_Banner_3_Desert_38
+  - first:
+      213: 9192244089589817143
+    second: Animation_Banner_3_Desert_39
+  - first:
+      213: -1271037444215764566
+    second: Animation_Banner_3_Desert_40
+  - first:
+      213: 7379255135743667587
+    second: Animation_Banner_3_Desert_41
+  - first:
+      213: 1328662749045789288
+    second: Animation_Banner_3_Desert_42
+  - first:
+      213: -7459495231425208874
+    second: Animation_Banner_3_Desert_43
+  - first:
+      213: -184532758233860707
+    second: Animation_Banner_3_Desert_44
+  - first:
+      213: 4121155016465040640
+    second: Animation_Banner_3_Desert_45
+  - first:
+      213: -5041141144323156754
+    second: Animation_Banner_3_Desert_46
+  - first:
+      213: -4840380178146915684
+    second: Animation_Banner_3_Desert_47
+  - first:
+      213: -8566075023808808326
+    second: Animation_Banner_3_Desert_48
+  - first:
+      213: -6729638000364993144
+    second: Animation_Banner_3_Desert_49
+  - first:
+      213: -7182364748044931336
+    second: Animation_Banner_3_Desert_50
+  - first:
+      213: -3604617110453152792
+    second: Animation_Banner_3_Desert_51
+  - first:
+      213: 5021860150067296318
+    second: Animation_Banner_3_Desert_52
+  - first:
+      213: 6609907551437334594
+    second: Animation_Banner_3_Desert_53
+  - first:
+      213: -4016610905276914860
+    second: Animation_Banner_3_Desert_54
+  - first:
+      213: -501428250369092057
+    second: Animation_Banner_3_Desert_55
+  - first:
+      213: 419161769949668732
+    second: Animation_Banner_3_Desert_56
+  - first:
+      213: -1520172914361965734
+    second: Animation_Banner_3_Desert_57
+  - first:
+      213: -5879011001291911508
+    second: Animation_Banner_3_Desert_58
+  - first:
+      213: -3190352128326219187
+    second: Animation_Banner_3_Desert_59
+  - first:
+      213: 429397018906700257
+    second: Animation_Banner_3_Desert_60
+  - first:
+      213: -7752237720719603104
+    second: Animation_Banner_3_Desert_61
+  - first:
+      213: 5243076885212417656
+    second: Animation_Banner_3_Desert_62
+  - first:
+      213: 2064221032126101505
+    second: Animation_Banner_3_Desert_63
+  - first:
+      213: 6958604338343310956
+    second: Animation_Banner_3_Desert_64
+  - first:
+      213: -2232151915937248185
+    second: Animation_Banner_3_Desert_65
+  - first:
+      213: -1776259568301912088
+    second: Animation_Banner_3_Desert_66
+  - first:
+      213: -578004419851833665
+    second: Animation_Banner_3_Desert_67
+  - first:
+      213: 8230719997547912086
+    second: Animation_Banner_3_Desert_68
+  - first:
+      213: 4443374074236728192
+    second: Animation_Banner_3_Desert_69
+  - first:
+      213: 6422680590597972977
+    second: Animation_Banner_3_Desert_70
+  - first:
+      213: 1926623333874415327
+    second: Animation_Banner_3_Desert_71
+  - first:
+      213: 8430223893068129888
+    second: Animation_Banner_3_Desert_72
+  - first:
+      213: 2386211925227902974
+    second: Animation_Banner_3_Desert_73
+  - first:
+      213: 8223121097458319092
+    second: Animation_Banner_3_Desert_74
+  - first:
+      213: 3572914634192677045
+    second: Animation_Banner_3_Desert_75
+  - first:
+      213: -4493988055301433184
+    second: Animation_Banner_3_Desert_76
+  - first:
+      213: -6590493982511421097
+    second: Animation_Banner_3_Desert_77
+  - first:
+      213: -6468471203292901731
+    second: Animation_Banner_3_Desert_78
+  - first:
+      213: 1811420573673430945
+    second: Animation_Banner_3_Desert_79
+  - first:
+      213: 646944488545590850
+    second: Animation_Banner_3_Desert_80
+  - first:
+      213: -3397774535826832137
+    second: Animation_Banner_3_Desert_81
+  - first:
+      213: 8876569191247825474
+    second: Animation_Banner_3_Desert_82
+  - first:
+      213: 3690494675575034746
+    second: Animation_Banner_3_Desert_83
+  - first:
+      213: 159609463953662856
+    second: Animation_Banner_3_Desert_84
+  - first:
+      213: -7158113829353720192
+    second: Animation_Banner_3_Desert_85
+  - first:
+      213: -6764865360666981727
+    second: Animation_Banner_3_Desert_86
+  - first:
+      213: 2272725131536082152
+    second: Animation_Banner_3_Desert_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343281062254a2d40800000000000000
+      internalID: 5560332703885697859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e03fc5872a1d870800000000000000
+      internalID: 8705918192523087368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2d482e4401a4a30800000000000000
+      internalID: 4200187490520584933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5273e560f94467540800000000000000
+      internalID: 5005263485666211621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d6a645f863540b0800000000000000
+      internalID: -5745125760416715376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1e7beab391cf670800000000000000
+      internalID: 8573755534731633060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a72c097168fd870800000000000000
+      internalID: 8709827640128862765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 640
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07fcfebd9ac4cd90800000000000000
+      internalID: -7078309935456651505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d5966a909bcdc60800000000000000
+      internalID: 7844348102070328680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6177cc077820a5720800000000000000
+      internalID: 2835581696119437078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c86e01d3fe6213d0800000000000000
+      internalID: -3237403188662474551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7ba31dd16754850800000000000000
+      internalID: 6360619919167109043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d882a7b3ef4047200800000000000000
+      internalID: 176771775340357773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40959d755826a0e0800000000000000
+      internalID: -2259073815435440050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c20ca5820a602690800000000000000
+      internalID: -7628981209700498752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 576
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f7022ebbcffd150800000000000000
+      internalID: 5899711920761503496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6f6d022887ae5b0800000000000000
+      internalID: -5338321908002261316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7144fe04cd31f2c50800000000000000
+      internalID: 6642549812097926167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7585c285264c4630800000000000000
+      internalID: 3912579303199835515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f430325c4fbd0f0800000000000000
+      internalID: -1091009357174059146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b901baf886c848d0800000000000000
+      internalID: -2861819271570191952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0924241b9b6ac36f0800000000000000
+      internalID: -703504125303569776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38188defea7e68950800000000000000
+      internalID: 6451098255040741763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 512
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c844ddbb23cc86fe0800000000000000
+      internalID: -1195481182794595188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c25e407d61585c0800000000000000
+      internalID: -4213936763579323359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cb6bdc3d4743f00800000000000000
+      internalID: 1095629062396099621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28146e723141e5350800000000000000
+      internalID: 6007261025465155970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292b279365b2027c0800000000000000
+      internalID: -4098228011576151406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333e401c94b731eb0800000000000000
+      internalID: -4750317625244589261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_29
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd0ac8aad6a3e820800000000000000
+      internalID: 2946382039295331782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd1d439300a0ff80800000000000000
+      internalID: -8074778194658648589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_31
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 448
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe03933595832f60800000000000000
+      internalID: 8008391438256770808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79514d30d64bcc00800000000000000
+      internalID: 921908408922233210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0200a54fb39a48060800000000000000
+      internalID: 6954869799534592032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_34
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a91328ebeb6c4750800000000000000
+      internalID: 6290521440485841318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4053fa2fb6ee8720800000000000000
+      internalID: 2850469322905833549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_36
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d2ee6b1e0074870800000000000000
+      internalID: 8666896977334512899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e7f9f1713558850800000000000000
+      internalID: 6378595806020075138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_38
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be41517ca030aacb0800000000000000
+      internalID: -4852062303713684245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_39
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 384
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f5fa00c49619f70800000000000000
+      internalID: 9192244089589817143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa98c41cd2e5c5ee0800000000000000
+      internalID: -1271037444215764566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d6af0f271686660800000000000000
+      internalID: 7379255135743667587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8621b2f0bbb507210800000000000000
+      internalID: 1328662749045789288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd1e2feb9c8a7890800000000000000
+      internalID: -7459495231425208874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_44
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d953c002f68607df0800000000000000
+      internalID: -184532758233860707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_45
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005c7b417a8413930800000000000000
+      internalID: 4121155016465040640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_46
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4130e96d44a0ab0800000000000000
+      internalID: -5041141144323156754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_47
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a06b79fd383dcb0800000000000000
+      internalID: -4840380178146915684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ab78e96203f1980800000000000000
+      internalID: -8566075023808808326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8854641d4e58b92a0800000000000000
+      internalID: -6729638000364993144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_50
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe6e71c05d135c90800000000000000
+      internalID: -7182364748044931336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3152c06d3d9fdc0800000000000000
+      internalID: -3604617110453152792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e387374133b31b540800000000000000
+      internalID: 5021860150067296318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_53
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2482891b5eb1bbb50800000000000000
+      internalID: 6609907551437334594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_54
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453620e99a12248c0800000000000000
+      internalID: -4016610905276914860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_55
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 256
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7269768b9a19a09f0800000000000000
+      internalID: -501428250369092057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c752641b86921d500800000000000000
+      internalID: 419161769949668732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_57
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53e842e9c247eae0800000000000000
+      internalID: -1520172914361965734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_58
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caec16584ae896ea0800000000000000
+      internalID: -5879011001291911508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_59
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a44ba74a799b3d0800000000000000
+      internalID: -3190352128326219187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_60
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9ab8b405685f500800000000000000
+      internalID: 429397018906700257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_61
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06acf1abdd48a6490800000000000000
+      internalID: -7752237720719603104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ec529e5a623c840800000000000000
+      internalID: 5243076885212417656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_63
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 192
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10834cd871695ac10800000000000000
+      internalID: 2064221032126101505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_64
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66f17707cde19060800000000000000
+      internalID: 6958604338343310956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_65
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c4adda8adc501e0800000000000000
+      internalID: -2232151915937248185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_66
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efc97a65557957e0800000000000000
+      internalID: -1776259568301912088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_67
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe2024ea048af7f0800000000000000
+      internalID: -578004419851833665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_68
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b1c83ca34693270800000000000000
+      internalID: 8230719997547912086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_69
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0837f03bd290aad30800000000000000
+      internalID: 4443374074236728192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_70
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f36364e7f1f12950800000000000000
+      internalID: 6422680590597972977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_71
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 128
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd63097e6bdbcba10800000000000000
+      internalID: 1926623333874415327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_72
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066265b27fb2ef470800000000000000
+      internalID: 8430223893068129888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef792027a178d1120800000000000000
+      internalID: 2386211925227902974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_74
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fef507f1156e1270800000000000000
+      internalID: 8223121097458319092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_75
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b869dffdea859130800000000000000
+      internalID: 3572914634192677045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_76
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8d8e28ca522a1c0800000000000000
+      internalID: -4493988055301433184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_77
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759ae0e04acd984a0800000000000000
+      internalID: -6590493982511421097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_78
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e02e746bf5b36a0800000000000000
+      internalID: -6468471203292901731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_79
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 64
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af93a81a65732910800000000000000
+      internalID: 1811420573673430945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_80
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e182da5986af800800000000000000
+      internalID: 646944488545590850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_81
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f48c25df0ea8d0d0800000000000000
+      internalID: -3397774535826832137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_82
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ac08c36a8ef2b70800000000000000
+      internalID: 8876569191247825474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_83
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73de17ba55473330800000000000000
+      internalID: 3690494675575034746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_84
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883afb936fb073200800000000000000
+      internalID: 159609463953662856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_85
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0867f83c56549ac90800000000000000
+      internalID: -7158113829353720192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_86
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa8918dbce5e12a0800000000000000
+      internalID: -6764865360666981727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_3_Desert_87
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4af4937775a8f10800000000000000
+      internalID: 2272725131536082152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_Banner_3_Desert_0: 5560332703885697859
+      Animation_Banner_3_Desert_1: 8705918192523087368
+      Animation_Banner_3_Desert_10: -3237403188662474551
+      Animation_Banner_3_Desert_11: 6360619919167109043
+      Animation_Banner_3_Desert_12: 176771775340357773
+      Animation_Banner_3_Desert_13: -2259073815435440050
+      Animation_Banner_3_Desert_14: -7628981209700498752
+      Animation_Banner_3_Desert_15: 5899711920761503496
+      Animation_Banner_3_Desert_16: -5338321908002261316
+      Animation_Banner_3_Desert_17: 6642549812097926167
+      Animation_Banner_3_Desert_18: 3912579303199835515
+      Animation_Banner_3_Desert_19: -1091009357174059146
+      Animation_Banner_3_Desert_2: 4200187490520584933
+      Animation_Banner_3_Desert_20: -2861819271570191952
+      Animation_Banner_3_Desert_21: -703504125303569776
+      Animation_Banner_3_Desert_22: 6451098255040741763
+      Animation_Banner_3_Desert_23: -1195481182794595188
+      Animation_Banner_3_Desert_24: -4213936763579323359
+      Animation_Banner_3_Desert_25: 1095629062396099621
+      Animation_Banner_3_Desert_26: 6007261025465155970
+      Animation_Banner_3_Desert_27: -4098228011576151406
+      Animation_Banner_3_Desert_28: -4750317625244589261
+      Animation_Banner_3_Desert_29: 2946382039295331782
+      Animation_Banner_3_Desert_3: 5005263485666211621
+      Animation_Banner_3_Desert_30: -8074778194658648589
+      Animation_Banner_3_Desert_31: 8008391438256770808
+      Animation_Banner_3_Desert_32: 921908408922233210
+      Animation_Banner_3_Desert_33: 6954869799534592032
+      Animation_Banner_3_Desert_34: 6290521440485841318
+      Animation_Banner_3_Desert_35: 2850469322905833549
+      Animation_Banner_3_Desert_36: 8666896977334512899
+      Animation_Banner_3_Desert_37: 6378595806020075138
+      Animation_Banner_3_Desert_38: -4852062303713684245
+      Animation_Banner_3_Desert_39: 9192244089589817143
+      Animation_Banner_3_Desert_4: -5745125760416715376
+      Animation_Banner_3_Desert_40: -1271037444215764566
+      Animation_Banner_3_Desert_41: 7379255135743667587
+      Animation_Banner_3_Desert_42: 1328662749045789288
+      Animation_Banner_3_Desert_43: -7459495231425208874
+      Animation_Banner_3_Desert_44: -184532758233860707
+      Animation_Banner_3_Desert_45: 4121155016465040640
+      Animation_Banner_3_Desert_46: -5041141144323156754
+      Animation_Banner_3_Desert_47: -4840380178146915684
+      Animation_Banner_3_Desert_48: -8566075023808808326
+      Animation_Banner_3_Desert_49: -6729638000364993144
+      Animation_Banner_3_Desert_5: 8573755534731633060
+      Animation_Banner_3_Desert_50: -7182364748044931336
+      Animation_Banner_3_Desert_51: -3604617110453152792
+      Animation_Banner_3_Desert_52: 5021860150067296318
+      Animation_Banner_3_Desert_53: 6609907551437334594
+      Animation_Banner_3_Desert_54: -4016610905276914860
+      Animation_Banner_3_Desert_55: -501428250369092057
+      Animation_Banner_3_Desert_56: 419161769949668732
+      Animation_Banner_3_Desert_57: -1520172914361965734
+      Animation_Banner_3_Desert_58: -5879011001291911508
+      Animation_Banner_3_Desert_59: -3190352128326219187
+      Animation_Banner_3_Desert_6: 8709827640128862765
+      Animation_Banner_3_Desert_60: 429397018906700257
+      Animation_Banner_3_Desert_61: -7752237720719603104
+      Animation_Banner_3_Desert_62: 5243076885212417656
+      Animation_Banner_3_Desert_63: 2064221032126101505
+      Animation_Banner_3_Desert_64: 6958604338343310956
+      Animation_Banner_3_Desert_65: -2232151915937248185
+      Animation_Banner_3_Desert_66: -1776259568301912088
+      Animation_Banner_3_Desert_67: -578004419851833665
+      Animation_Banner_3_Desert_68: 8230719997547912086
+      Animation_Banner_3_Desert_69: 4443374074236728192
+      Animation_Banner_3_Desert_7: -7078309935456651505
+      Animation_Banner_3_Desert_70: 6422680590597972977
+      Animation_Banner_3_Desert_71: 1926623333874415327
+      Animation_Banner_3_Desert_72: 8430223893068129888
+      Animation_Banner_3_Desert_73: 2386211925227902974
+      Animation_Banner_3_Desert_74: 8223121097458319092
+      Animation_Banner_3_Desert_75: 3572914634192677045
+      Animation_Banner_3_Desert_76: -4493988055301433184
+      Animation_Banner_3_Desert_77: -6590493982511421097
+      Animation_Banner_3_Desert_78: -6468471203292901731
+      Animation_Banner_3_Desert_79: 1811420573673430945
+      Animation_Banner_3_Desert_8: 7844348102070328680
+      Animation_Banner_3_Desert_80: 646944488545590850
+      Animation_Banner_3_Desert_81: -3397774535826832137
+      Animation_Banner_3_Desert_82: 8876569191247825474
+      Animation_Banner_3_Desert_83: 3690494675575034746
+      Animation_Banner_3_Desert_84: 159609463953662856
+      Animation_Banner_3_Desert_85: -7158113829353720192
+      Animation_Banner_3_Desert_86: -6764865360666981727
+      Animation_Banner_3_Desert_87: 2272725131536082152
+      Animation_Banner_3_Desert_9: 2835581696119437078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

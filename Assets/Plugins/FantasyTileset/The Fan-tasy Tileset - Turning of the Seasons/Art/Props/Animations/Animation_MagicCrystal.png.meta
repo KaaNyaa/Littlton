@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 8ad6308025c97ac43b403c07b30a3035
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4364890458209011344
+    second: Animation_MagicCrystal_0
+  - first:
+      213: -605029679706141780
+    second: Animation_MagicCrystal_1
+  - first:
+      213: -6816891873474380245
+    second: Animation_MagicCrystal_2
+  - first:
+      213: 7494529384791543106
+    second: Animation_MagicCrystal_3
+  - first:
+      213: -1529290909963352383
+    second: Animation_MagicCrystal_4
+  - first:
+      213: -7143563034537205268
+    second: Animation_MagicCrystal_5
+  - first:
+      213: 8428064302388249212
+    second: Animation_MagicCrystal_6
+  - first:
+      213: 5958590316279417043
+    second: Animation_MagicCrystal_7
+  - first:
+      213: 3336142615184698112
+    second: Animation_MagicCrystal_8
+  - first:
+      213: 31859520051394882
+    second: Animation_MagicCrystal_9
+  - first:
+      213: -8783557401095572940
+    second: Animation_MagicCrystal_10
+  - first:
+      213: 2934759004734517265
+    second: Animation_MagicCrystal_11
+  - first:
+      213: 6592272324831508092
+    second: Animation_MagicCrystal_12
+  - first:
+      213: 7175327638371204825
+    second: Animation_MagicCrystal_13
+  - first:
+      213: 2558912411267095177
+    second: Animation_MagicCrystal_14
+  - first:
+      213: 2995282665012560659
+    second: Animation_MagicCrystal_15
+  - first:
+      213: 5210337169512838597
+    second: Animation_MagicCrystal_16
+  - first:
+      213: -4967289386520271566
+    second: Animation_MagicCrystal_17
+  - first:
+      213: -8196020887481673904
+    second: Animation_MagicCrystal_18
+  - first:
+      213: 4111451781053370234
+    second: Animation_MagicCrystal_19
+  - first:
+      213: -5929802417838781159
+    second: Animation_MagicCrystal_20
+  - first:
+      213: 8571518334921976971
+    second: Animation_MagicCrystal_21
+  - first:
+      213: -1383518319840470246
+    second: Animation_MagicCrystal_22
+  - first:
+      213: 6596639461154306193
+    second: Animation_MagicCrystal_23
+  - first:
+      213: 4297199264362024166
+    second: Animation_MagicCrystal_24
+  - first:
+      213: -2297350130519316633
+    second: Animation_MagicCrystal_25
+  - first:
+      213: 7972869558567612171
+    second: Animation_MagicCrystal_26
+  - first:
+      213: 8360838234189359521
+    second: Animation_MagicCrystal_27
+  - first:
+      213: -1892701453885793814
+    second: Animation_MagicCrystal_28
+  - first:
+      213: 4933676009006158321
+    second: Animation_MagicCrystal_29
+  - first:
+      213: 8788380032930116101
+    second: Animation_MagicCrystal_30
+  - first:
+      213: -2227041431837882867
+    second: Animation_MagicCrystal_31
+  - first:
+      213: 4650984241523462648
+    second: Animation_MagicCrystal_32
+  - first:
+      213: -332512930829699288
+    second: Animation_MagicCrystal_33
+  - first:
+      213: 8070341267158035467
+    second: Animation_MagicCrystal_34
+  - first:
+      213: 7862752255082337427
+    second: Animation_MagicCrystal_35
+  - first:
+      213: -845489022436044957
+    second: Animation_MagicCrystal_36
+  - first:
+      213: 3896502807138806031
+    second: Animation_MagicCrystal_37
+  - first:
+      213: -3627515897638461185
+    second: Animation_MagicCrystal_38
+  - first:
+      213: 9104105652455801418
+    second: Animation_MagicCrystal_39
+  - first:
+      213: -7885512114518191045
+    second: Animation_MagicCrystal_40
+  - first:
+      213: 90070660471077773
+    second: Animation_MagicCrystal_41
+  - first:
+      213: -4593607253730082571
+    second: Animation_MagicCrystal_42
+  - first:
+      213: 3651588869264199858
+    second: Animation_MagicCrystal_43
+  - first:
+      213: 8696456800502525090
+    second: Animation_MagicCrystal_44
+  - first:
+      213: -7799674280507529090
+    second: Animation_MagicCrystal_45
+  - first:
+      213: -2576547976702913887
+    second: Animation_MagicCrystal_46
+  - first:
+      213: 1666317096614705996
+    second: Animation_MagicCrystal_47
+  - first:
+      213: 4732063212949463800
+    second: Animation_MagicCrystal_48
+  - first:
+      213: 5508545284013295905
+    second: Animation_MagicCrystal_49
+  - first:
+      213: -3853610775720264592
+    second: Animation_MagicCrystal_50
+  - first:
+      213: -5724043249447409744
+    second: Animation_MagicCrystal_51
+  - first:
+      213: -6583119543916274082
+    second: Animation_MagicCrystal_52
+  - first:
+      213: -2776819395312520125
+    second: Animation_MagicCrystal_53
+  - first:
+      213: -6189089092977157087
+    second: Animation_MagicCrystal_54
+  - first:
+      213: -534588134025938620
+    second: Animation_MagicCrystal_55
+  - first:
+      213: -5034678018854435459
+    second: Animation_MagicCrystal_56
+  - first:
+      213: 2463447902406064968
+    second: Animation_MagicCrystal_57
+  - first:
+      213: -7774960345242196571
+    second: Animation_MagicCrystal_58
+  - first:
+      213: -8518936166684054466
+    second: Animation_MagicCrystal_59
+  - first:
+      213: 3781902822653237838
+    second: Animation_MagicCrystal_60
+  - first:
+      213: 7547148160993151248
+    second: Animation_MagicCrystal_61
+  - first:
+      213: 6681068822974393130
+    second: Animation_MagicCrystal_62
+  - first:
+      213: 4551004094982968645
+    second: Animation_MagicCrystal_63
+  - first:
+      213: 5543098233466700619
+    second: Animation_MagicCrystal_64
+  - first:
+      213: 1892534764181510543
+    second: Animation_MagicCrystal_65
+  - first:
+      213: 8423082765991297977
+    second: Animation_MagicCrystal_66
+  - first:
+      213: -6599942199705348563
+    second: Animation_MagicCrystal_67
+  - first:
+      213: -7171420757705591394
+    second: Animation_MagicCrystal_68
+  - first:
+      213: -1994258982905258848
+    second: Animation_MagicCrystal_69
+  - first:
+      213: -2186442390657842150
+    second: Animation_MagicCrystal_70
+  - first:
+      213: 6675845978736215924
+    second: Animation_MagicCrystal_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 97
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0964a0ddeb4339c30800000000000000
+      internalID: 4364890458209011344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 97
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab0c8e36b08a97f0800000000000000
+      internalID: -605029679706141780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 97
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eff4165f88561a0800000000000000
+      internalID: -6816891873474380245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 97
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d0a3b84cae10860800000000000000
+      internalID: 7494529384791543106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 97
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c68669150ed6cae0800000000000000
+      internalID: -1529290909963352383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 97
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce16ccfa447fcdc90800000000000000
+      internalID: -7143563034537205268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 97
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72800844df76f470800000000000000
+      internalID: 8428064302388249212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 97
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8caeb925a21b250800000000000000
+      internalID: 5958590316279417043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 97
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b602a680c5c4e20800000000000000
+      internalID: 3336142615184698112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 97
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249b06f8010317000800000000000000
+      internalID: 31859520051394882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 97
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432f17bb4198a1680800000000000000
+      internalID: -8783557401095572940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 97
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110749a04cb5ab820800000000000000
+      internalID: 2934759004734517265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 324
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76783880c47c7b50800000000000000
+      internalID: 6592272324831508092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 323
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de78287872e39360800000000000000
+      internalID: 7175327638371204825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 322
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ad9e4c745138320800000000000000
+      internalID: 2558912411267095177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 321
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31385f1d6b1619920800000000000000
+      internalID: 2995282665012560659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 320
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5b3d4dc06de4840800000000000000
+      internalID: 5210337169512838597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 319
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23524ebee94a01bb0800000000000000
+      internalID: -4967289386520271566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 320
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05719fd5d62e14e80800000000000000
+      internalID: -8196020887481673904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 321
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f45d88c9fce0930800000000000000
+      internalID: 4111451781053370234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 322
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d87705e1c15bda0800000000000000
+      internalID: -5929802417838781159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 323
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ca5c2038624f670800000000000000
+      internalID: 8571518334921976971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bd9a51b61cccce0800000000000000
+      internalID: -1383518319840470246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 259
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1983d61b3a8fb8b50800000000000000
+      internalID: 6596639461154306193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 258
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec4e51a6f7b2ab30800000000000000
+      internalID: 4297199264362024166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 257
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767e2b96a3c2e10e0800000000000000
+      internalID: -2297350130519316633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 256
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fa2f61f9255ae60800000000000000
+      internalID: 7972869558567612171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_27
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 255
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a96c5d831aa70470800000000000000
+      internalID: 8360838234189359521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_28
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 256
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9954f3e06cbb5e0800000000000000
+      internalID: -1892701453885793814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 257
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1dda1c030f77440800000000000000
+      internalID: 4933676009006158321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 258
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5027fedb31996f970800000000000000
+      internalID: 8788380032930116101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_31
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 259
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06c93bfd95f711e0800000000000000
+      internalID: -2227041431837882867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f112f3968d9b8040800000000000000
+      internalID: 4650984241523462648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 195
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827fbaa404da26bf0800000000000000
+      internalID: -332512930829699288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 194
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c612dbf9c9fff60800000000000000
+      internalID: 8070341267158035467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 193
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3949511748b1e1d60800000000000000
+      internalID: 7862752255082337427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f0534b6383444f0800000000000000
+      internalID: -845489022436044957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_37
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 191
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0922d598a8231630800000000000000
+      internalID: 3896502807138806031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 192
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff06d20b28978adc0800000000000000
+      internalID: -3627515897638461185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_39
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 193
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a420144fad7485e70800000000000000
+      internalID: 9104105652455801418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_40
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 194
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b349a16d288019290800000000000000
+      internalID: -7885512114518191045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_41
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 195
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b301ad9ceff3100800000000000000
+      internalID: 90070660471077773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0c2cb6a8a3040c0800000000000000
+      internalID: -4593607253730082571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 131
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0534acabc0da230800000000000000
+      internalID: 3651588869264199858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 130
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acab7e526500b870800000000000000
+      internalID: 8696456800502525090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_45
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 129
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78299af09df1c390800000000000000
+      internalID: -7799674280507529090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 128
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a21fdd24434e3cd0800000000000000
+      internalID: -2576547976702913887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_47
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 127
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b31e22292ff1710800000000000000
+      internalID: 1666317096614705996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_48
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 128
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2eb8eab6aaba140800000000000000
+      internalID: 4732063212949463800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 129
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12904c210c8427c40800000000000000
+      internalID: 5508545284013295905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_50
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 130
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c7392ba69358ac0800000000000000
+      internalID: -3853610775720264592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_51
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 131
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7e6bdedfc1090b0800000000000000
+      internalID: -5724043249447409744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 68
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e50f657af04a4a0800000000000000
+      internalID: -6583119543916274082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 67
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3447bf0e871c679d0800000000000000
+      internalID: -2776819395312520125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_54
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 66
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c1ad9d240fb1aa0800000000000000
+      internalID: -6189089092977157087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_55
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 65
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449be3aace2c498f0800000000000000
+      internalID: -534588134025938620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_56
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75c6b7440b312ab0800000000000000
+      internalID: -5034678018854435459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_57
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 63
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b3899b0dcef2220800000000000000
+      internalID: 2463447902406064968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_58
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 64
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5271f62cac91490800000000000000
+      internalID: -7774960345242196571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_59
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 65
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ca19011b8a6c980800000000000000
+      internalID: -8518936166684054466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_60
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 66
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a1b4f64940c7430800000000000000
+      internalID: 3781902822653237838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_61
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 67
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0194d33144bdcb860800000000000000
+      internalID: 7547148160993151248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b635952bce7bc50800000000000000
+      internalID: 6681068822974393130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_63
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545dec4bc1a682f30800000000000000
+      internalID: 4551004094982968645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_64
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43c0e8897a0dec40800000000000000
+      internalID: 5543098233466700619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_65
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89dd184752a34a10800000000000000
+      internalID: 1892534764181510543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_66
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b340a4f52dc4e470800000000000000
+      internalID: 8423082765991297977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_67
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26d370998b4864a0800000000000000
+      internalID: -6599942199705348563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_68
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95781211def97c90800000000000000
+      internalID: -7171420757705591394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_69
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acdcc56508f254e0800000000000000
+      internalID: -1994258982905258848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_70
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14cbfeda3238a1e0800000000000000
+      internalID: -2186442390657842150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_MagicCrystal_71
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477cac92c8e55ac50800000000000000
+      internalID: 6675845978736215924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_MagicCrystal_0: 4364890458209011344
+      Animation_MagicCrystal_1: -605029679706141780
+      Animation_MagicCrystal_10: -8783557401095572940
+      Animation_MagicCrystal_11: 2934759004734517265
+      Animation_MagicCrystal_12: 6592272324831508092
+      Animation_MagicCrystal_13: 7175327638371204825
+      Animation_MagicCrystal_14: 2558912411267095177
+      Animation_MagicCrystal_15: 2995282665012560659
+      Animation_MagicCrystal_16: 5210337169512838597
+      Animation_MagicCrystal_17: -4967289386520271566
+      Animation_MagicCrystal_18: -8196020887481673904
+      Animation_MagicCrystal_19: 4111451781053370234
+      Animation_MagicCrystal_2: -6816891873474380245
+      Animation_MagicCrystal_20: -5929802417838781159
+      Animation_MagicCrystal_21: 8571518334921976971
+      Animation_MagicCrystal_22: -1383518319840470246
+      Animation_MagicCrystal_23: 6596639461154306193
+      Animation_MagicCrystal_24: 4297199264362024166
+      Animation_MagicCrystal_25: -2297350130519316633
+      Animation_MagicCrystal_26: 7972869558567612171
+      Animation_MagicCrystal_27: 8360838234189359521
+      Animation_MagicCrystal_28: -1892701453885793814
+      Animation_MagicCrystal_29: 4933676009006158321
+      Animation_MagicCrystal_3: 7494529384791543106
+      Animation_MagicCrystal_30: 8788380032930116101
+      Animation_MagicCrystal_31: -2227041431837882867
+      Animation_MagicCrystal_32: 4650984241523462648
+      Animation_MagicCrystal_33: -332512930829699288
+      Animation_MagicCrystal_34: 8070341267158035467
+      Animation_MagicCrystal_35: 7862752255082337427
+      Animation_MagicCrystal_36: -845489022436044957
+      Animation_MagicCrystal_37: 3896502807138806031
+      Animation_MagicCrystal_38: -3627515897638461185
+      Animation_MagicCrystal_39: 9104105652455801418
+      Animation_MagicCrystal_4: -1529290909963352383
+      Animation_MagicCrystal_40: -7885512114518191045
+      Animation_MagicCrystal_41: 90070660471077773
+      Animation_MagicCrystal_42: -4593607253730082571
+      Animation_MagicCrystal_43: 3651588869264199858
+      Animation_MagicCrystal_44: 8696456800502525090
+      Animation_MagicCrystal_45: -7799674280507529090
+      Animation_MagicCrystal_46: -2576547976702913887
+      Animation_MagicCrystal_47: 1666317096614705996
+      Animation_MagicCrystal_48: 4732063212949463800
+      Animation_MagicCrystal_49: 5508545284013295905
+      Animation_MagicCrystal_5: -7143563034537205268
+      Animation_MagicCrystal_50: -3853610775720264592
+      Animation_MagicCrystal_51: -5724043249447409744
+      Animation_MagicCrystal_52: -6583119543916274082
+      Animation_MagicCrystal_53: -2776819395312520125
+      Animation_MagicCrystal_54: -6189089092977157087
+      Animation_MagicCrystal_55: -534588134025938620
+      Animation_MagicCrystal_56: -5034678018854435459
+      Animation_MagicCrystal_57: 2463447902406064968
+      Animation_MagicCrystal_58: -7774960345242196571
+      Animation_MagicCrystal_59: -8518936166684054466
+      Animation_MagicCrystal_6: 8428064302388249212
+      Animation_MagicCrystal_60: 3781902822653237838
+      Animation_MagicCrystal_61: 7547148160993151248
+      Animation_MagicCrystal_62: 6681068822974393130
+      Animation_MagicCrystal_63: 4551004094982968645
+      Animation_MagicCrystal_64: 5543098233466700619
+      Animation_MagicCrystal_65: 1892534764181510543
+      Animation_MagicCrystal_66: 8423082765991297977
+      Animation_MagicCrystal_67: -6599942199705348563
+      Animation_MagicCrystal_68: -7171420757705591394
+      Animation_MagicCrystal_69: -1994258982905258848
+      Animation_MagicCrystal_7: 5958590316279417043
+      Animation_MagicCrystal_70: -2186442390657842150
+      Animation_MagicCrystal_71: 6675845978736215924
+      Animation_MagicCrystal_8: 3336142615184698112
+      Animation_MagicCrystal_9: 31859520051394882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

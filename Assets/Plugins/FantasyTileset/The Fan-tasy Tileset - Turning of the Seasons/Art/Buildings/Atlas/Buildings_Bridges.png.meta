@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 1d2d4a8ded7eb48478b6bb8ede8048e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7397407811861418665
+    second: Buildings_Bridges_0
+  - first:
+      213: 535024209755949614
+    second: Buildings_Bridges_1
+  - first:
+      213: 2616142392012073861
+    second: Buildings_Bridges_2
+  - first:
+      213: 6255280223418646692
+    second: Buildings_Bridges_3
+  - first:
+      213: -6140997629260716879
+    second: Buildings_Bridges_4
+  - first:
+      213: -5914687768313077512
+    second: Buildings_Bridges_5
+  - first:
+      213: -5548564036425645076
+    second: Buildings_Bridges_6
+  - first:
+      213: 7976038328091038937
+    second: Buildings_Bridges_7
+  - first:
+      213: 1693896945560294092
+    second: Buildings_Bridges_8
+  - first:
+      213: 8340512302638004236
+    second: Buildings_Bridges_9
+  - first:
+      213: -9039295080309360573
+    second: Buildings_Bridges_10
+  - first:
+      213: -7864981096854560655
+    second: Buildings_Bridges_11
+  - first:
+      213: 1267533284565498062
+    second: Buildings_Bridges_12
+  - first:
+      213: -4520159672159262547
+    second: Buildings_Bridges_13
+  - first:
+      213: 1461512668729277812
+    second: Buildings_Bridges_14
+  - first:
+      213: 155911407573511764
+    second: Buildings_Bridges_15
+  - first:
+      213: 3715642710700572703
+    second: Buildings_Bridges_16
+  - first:
+      213: -860763345320643385
+    second: Buildings_Bridges_17
+  - first:
+      213: 5486490080396655475
+    second: Buildings_Bridges_18
+  - first:
+      213: -4090347343786838403
+    second: Buildings_Bridges_19
+  - first:
+      213: 4624903569393295617
+    second: Buildings_Bridges_20
+  - first:
+      213: 223084517990620353
+    second: Buildings_Bridges_21
+  - first:
+      213: 7587206565177156338
+    second: Buildings_Bridges_22
+  - first:
+      213: 999673207916421474
+    second: Buildings_Bridges_23
+  - first:
+      213: -6771346986384236645
+    second: Buildings_Bridges_24
+  - first:
+      213: -9014228447586263478
+    second: Buildings_Bridges_25
+  - first:
+      213: 7476119527050434507
+    second: Buildings_Bridges_26
+  - first:
+      213: 1585658745377177696
+    second: Buildings_Bridges_27
+  - first:
+      213: -1408484462309502616
+    second: Buildings_Bridges_28
+  - first:
+      213: 8042626759495782179
+    second: Buildings_Bridges_29
+  - first:
+      213: 7837413726060957609
+    second: Buildings_Bridges_30
+  - first:
+      213: -3541348967225635494
+    second: Buildings_Bridges_31
+  - first:
+      213: -2927366078097813230
+    second: Buildings_Bridges_32
+  - first:
+      213: 7826765313804083435
+    second: Buildings_Bridges_33
+  - first:
+      213: 5506800394019936192
+    second: Buildings_Bridges_34
+  - first:
+      213: 7189744850293232268
+    second: Buildings_Bridges_35
+  - first:
+      213: 3240615449024927792
+    second: Buildings_Bridges_36
+  - first:
+      213: -5253972312848466359
+    second: Buildings_Bridges_37
+  - first:
+      213: 3366985349682222464
+    second: Buildings_Bridges_38
+  - first:
+      213: -416725659085227884
+    second: Buildings_Bridges_39
+  - first:
+      213: 1507377574928208629
+    second: Buildings_Bridges_40
+  - first:
+      213: 1915999501903521941
+    second: Buildings_Bridges_41
+  - first:
+      213: 5718137172729870564
+    second: Buildings_Bridges_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buildings_Bridges_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 616
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dec4bc9c0275990800000000000000
+      internalID: -7397407811861418665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 616
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2accb02fa9cc6700800000000000000
+      internalID: 535024209755949614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 616
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b68b505a76e4420800000000000000
+      internalID: 2616142392012073861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 515
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a00567a8383fc650800000000000000
+      internalID: 6255280223418646692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 495
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4266d413bc6caa0800000000000000
+      internalID: -6140997629260716879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 431
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0e954efcecaeda0800000000000000
+      internalID: -5914687768313077512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 433
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3875b086a8ff2b0800000000000000
+      internalID: -5548564036425645076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 433
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d454ccb99490be60800000000000000
+      internalID: 7976038328091038937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 433
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc29d3e1c4ee18710800000000000000
+      internalID: 1693896945560294092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 431
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c087383dfb37fb370800000000000000
+      internalID: 8340512302638004236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 431
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34879364409fd8280800000000000000
+      internalID: -9039295080309360573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 401
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17062d4ec59f9d290800000000000000
+      internalID: -7864981096854560655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 369
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8b28f7ece279110800000000000000
+      internalID: 1267533284565498062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 369
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8a6ec1aba2541c0800000000000000
+      internalID: -4520159672159262547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 399
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d775e5706584410800000000000000
+      internalID: 1461512668729277812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 371
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ea9d06998e92200800000000000000
+      internalID: 155911407573511764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 371
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10c39beb5d909330800000000000000
+      internalID: 3715642710700572703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 367
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c47c764c44fd04f0800000000000000
+      internalID: -860763345320643385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 367
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b3fb1d8ade32c40800000000000000
+      internalID: 5486490080396655475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d767f9d23ca2c37c0800000000000000
+      internalID: -4090347343786838403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101af16ea45fe2040800000000000000
+      internalID: 4624903569393295617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 300
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc58b9ef2e881300800000000000000
+      internalID: 223084517990620353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 287
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f265ea1c2c2b4960800000000000000
+      internalID: 7587206565177156338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 294
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26165517c7d8fdd00800000000000000
+      internalID: 999673207916421474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 249
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fd7a1cac75702a0800000000000000
+      internalID: -6771346986384236645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 294
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e56618cf607e280800000000000000
+      internalID: -9014228447586263478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7d334891380c760800000000000000
+      internalID: 7476119527050434507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 300
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060c23d4a34610610800000000000000
+      internalID: 1585658745377177696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_28
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 287
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861926018de047ce0800000000000000
+      internalID: -1408484462309502616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_29
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 287
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f0cc41d662d9f60800000000000000
+      internalID: 8042626759495782179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 251
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af42ab624614cc60800000000000000
+      internalID: 7837413726060957609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 218
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dc1de80e99adec0800000000000000
+      internalID: -3541348967225635494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2119373df08ef57d0800000000000000
+      internalID: -2927366078097813230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be024adb5914e9c60800000000000000
+      internalID: 7826765313804083435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 124
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c71a8638c51c6c40800000000000000
+      internalID: 5506800394019936192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 101
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c821c6339da17c360800000000000000
+      internalID: 7189744850293232268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_36
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 54
+        width: 82
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03816c4d49af8fc20800000000000000
+      internalID: 3240615449024927792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 101
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94efde8a4042617b0800000000000000
+      internalID: -5253972312848466359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 124
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085d0c3265fe9be20800000000000000
+      internalID: 3366985349682222464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_39
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4983f61983e773af0800000000000000
+      internalID: -416725659085227884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_40
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f25cfffae74be410800000000000000
+      internalID: 1507377574928208629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 72
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598e8c4456ff69a10800000000000000
+      internalID: 1915999501903521941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8358d6677ea5f40800000000000000
+      internalID: 5718137172729870564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Buildings_Bridges_0: -7397407811861418665
+      Buildings_Bridges_1: 535024209755949614
+      Buildings_Bridges_10: -9039295080309360573
+      Buildings_Bridges_11: -7864981096854560655
+      Buildings_Bridges_12: 1267533284565498062
+      Buildings_Bridges_13: -4520159672159262547
+      Buildings_Bridges_14: 1461512668729277812
+      Buildings_Bridges_15: 155911407573511764
+      Buildings_Bridges_16: 3715642710700572703
+      Buildings_Bridges_17: -860763345320643385
+      Buildings_Bridges_18: 5486490080396655475
+      Buildings_Bridges_19: -4090347343786838403
+      Buildings_Bridges_2: 2616142392012073861
+      Buildings_Bridges_20: 4624903569393295617
+      Buildings_Bridges_21: 223084517990620353
+      Buildings_Bridges_22: 7587206565177156338
+      Buildings_Bridges_23: 999673207916421474
+      Buildings_Bridges_24: -6771346986384236645
+      Buildings_Bridges_25: -9014228447586263478
+      Buildings_Bridges_26: 7476119527050434507
+      Buildings_Bridges_27: 1585658745377177696
+      Buildings_Bridges_28: -1408484462309502616
+      Buildings_Bridges_29: 8042626759495782179
+      Buildings_Bridges_3: 6255280223418646692
+      Buildings_Bridges_30: 7837413726060957609
+      Buildings_Bridges_31: -3541348967225635494
+      Buildings_Bridges_32: -2927366078097813230
+      Buildings_Bridges_33: 7826765313804083435
+      Buildings_Bridges_34: 5506800394019936192
+      Buildings_Bridges_35: 7189744850293232268
+      Buildings_Bridges_36: 3240615449024927792
+      Buildings_Bridges_37: -5253972312848466359
+      Buildings_Bridges_38: 3366985349682222464
+      Buildings_Bridges_39: -416725659085227884
+      Buildings_Bridges_4: -6140997629260716879
+      Buildings_Bridges_40: 1507377574928208629
+      Buildings_Bridges_41: 1915999501903521941
+      Buildings_Bridges_42: 5718137172729870564
+      Buildings_Bridges_5: -5914687768313077512
+      Buildings_Bridges_6: -5548564036425645076
+      Buildings_Bridges_7: 7976038328091038937
+      Buildings_Bridges_8: 1693896945560294092
+      Buildings_Bridges_9: 8340512302638004236
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

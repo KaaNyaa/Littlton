@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: b2ff1968d20336a48a5a2f61de650690
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6918039940734443987
+    second: Buildings_Bridges_Snow_0
+  - first:
+      213: -692781847143072805
+    second: Buildings_Bridges_Snow_1
+  - first:
+      213: 8336120463249423424
+    second: Buildings_Bridges_Snow_2
+  - first:
+      213: -6459280848155860207
+    second: Buildings_Bridges_Snow_3
+  - first:
+      213: -2148847488408991652
+    second: Buildings_Bridges_Snow_4
+  - first:
+      213: 6739961269101729434
+    second: Buildings_Bridges_Snow_5
+  - first:
+      213: 6592239019597592692
+    second: Buildings_Bridges_Snow_6
+  - first:
+      213: 262029425136720779
+    second: Buildings_Bridges_Snow_7
+  - first:
+      213: -3029187392022765570
+    second: Buildings_Bridges_Snow_8
+  - first:
+      213: 6270478586657944193
+    second: Buildings_Bridges_Snow_9
+  - first:
+      213: 8322692317795768513
+    second: Buildings_Bridges_Snow_10
+  - first:
+      213: 1220372086847619110
+    second: Buildings_Bridges_Snow_11
+  - first:
+      213: -3187347958225171268
+    second: Buildings_Bridges_Snow_12
+  - first:
+      213: -8670686913167173012
+    second: Buildings_Bridges_Snow_13
+  - first:
+      213: 6701052233009682229
+    second: Buildings_Bridges_Snow_14
+  - first:
+      213: -5583698436611972593
+    second: Buildings_Bridges_Snow_15
+  - first:
+      213: 3091903514465896927
+    second: Buildings_Bridges_Snow_16
+  - first:
+      213: 2553215448948320302
+    second: Buildings_Bridges_Snow_17
+  - first:
+      213: 8920212788174906741
+    second: Buildings_Bridges_Snow_18
+  - first:
+      213: 6758978266183234763
+    second: Buildings_Bridges_Snow_19
+  - first:
+      213: 2864275598966875076
+    second: Buildings_Bridges_Snow_20
+  - first:
+      213: -7874636060347096303
+    second: Buildings_Bridges_Snow_21
+  - first:
+      213: -3953134267339486822
+    second: Buildings_Bridges_Snow_22
+  - first:
+      213: 4772606820599199990
+    second: Buildings_Bridges_Snow_23
+  - first:
+      213: 3239294011664210083
+    second: Buildings_Bridges_Snow_24
+  - first:
+      213: 3341372038603872329
+    second: Buildings_Bridges_Snow_25
+  - first:
+      213: -224517566007827706
+    second: Buildings_Bridges_Snow_26
+  - first:
+      213: 6305142067846611626
+    second: Buildings_Bridges_Snow_27
+  - first:
+      213: 2601952936681318294
+    second: Buildings_Bridges_Snow_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 616
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1e0793ca0d10060800000000000000
+      internalID: 6918039940734443987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 616
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbb23e949eb266f0800000000000000
+      internalID: -692781847143072805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 616
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cb8d80569dfa370800000000000000
+      internalID: 8336120463249423424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 515
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113af259a460c56a0800000000000000
+      internalID: -6459280848155860207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 495
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5844e82892cd22e0800000000000000
+      internalID: -2148847488408991652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9613bc7017298d50800000000000000
+      internalID: 6739961269101729434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478759d06765c7b50800000000000000
+      internalID: 6592239019597592692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 300
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b59f5bf5ae2a300800000000000000
+      internalID: 262029425136720779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 287
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff1464cd1a26f5d0800000000000000
+      internalID: -3029187392022765570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 294
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182b0795d07350750800000000000000
+      internalID: 6270478586657944193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 249
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8d6194194208370800000000000000
+      internalID: 8322692317795768513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 294
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620ca5a72f1afe010800000000000000
+      internalID: 1220372086847619110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc0c665be344c3d0800000000000000
+      internalID: -3187347958225171268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_13
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 300
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ada0611388ba780800000000000000
+      internalID: -8670686913167173012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 287
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53751e1908beefc50800000000000000
+      internalID: 6701052233009682229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 287
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02e6d80bd7b282b0800000000000000
+      internalID: -5583698436611972593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 251
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd985836dd5a8ea20800000000000000
+      internalID: 3091903514465896927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 218
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28aa9d5ce7de6320800000000000000
+      internalID: 2553215448948320302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575ef000546facb70800000000000000
+      internalID: 8920212788174906741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4ff682ce6bccd50800000000000000
+      internalID: 6758978266183234763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 124
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c36d3f4b73ffb720800000000000000
+      internalID: 2864275598966875076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 101
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113a787893ca7b290800000000000000
+      internalID: -7874636060347096303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 54
+        width: 82
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a994ec51455a329c0800000000000000
+      internalID: -3953134267339486822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 101
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8fb62fd94bb3240800000000000000
+      internalID: 4772606820599199990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 124
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a89b48bdb844fc20800000000000000
+      internalID: 3239294011664210083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_25
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948186f6a20fe5e20800000000000000
+      internalID: 3341372038603872329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_26
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603a448967a52ecf0800000000000000
+      internalID: -224517566007827706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 72
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa28e5cfd4d508750800000000000000
+      internalID: 6305142067846611626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Bridges_Snow_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697ac21096efb1420800000000000000
+      internalID: 2601952936681318294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Buildings_Bridges_Snow_0: 6918039940734443987
+      Buildings_Bridges_Snow_1: -692781847143072805
+      Buildings_Bridges_Snow_10: 8322692317795768513
+      Buildings_Bridges_Snow_11: 1220372086847619110
+      Buildings_Bridges_Snow_12: -3187347958225171268
+      Buildings_Bridges_Snow_13: -8670686913167173012
+      Buildings_Bridges_Snow_14: 6701052233009682229
+      Buildings_Bridges_Snow_15: -5583698436611972593
+      Buildings_Bridges_Snow_16: 3091903514465896927
+      Buildings_Bridges_Snow_17: 2553215448948320302
+      Buildings_Bridges_Snow_18: 8920212788174906741
+      Buildings_Bridges_Snow_19: 6758978266183234763
+      Buildings_Bridges_Snow_2: 8336120463249423424
+      Buildings_Bridges_Snow_20: 2864275598966875076
+      Buildings_Bridges_Snow_21: -7874636060347096303
+      Buildings_Bridges_Snow_22: -3953134267339486822
+      Buildings_Bridges_Snow_23: 4772606820599199990
+      Buildings_Bridges_Snow_24: 3239294011664210083
+      Buildings_Bridges_Snow_25: 3341372038603872329
+      Buildings_Bridges_Snow_26: -224517566007827706
+      Buildings_Bridges_Snow_27: 6305142067846611626
+      Buildings_Bridges_Snow_28: 2601952936681318294
+      Buildings_Bridges_Snow_3: -6459280848155860207
+      Buildings_Bridges_Snow_4: -2148847488408991652
+      Buildings_Bridges_Snow_5: 6739961269101729434
+      Buildings_Bridges_Snow_6: 6592239019597592692
+      Buildings_Bridges_Snow_7: 262029425136720779
+      Buildings_Bridges_Snow_8: -3029187392022765570
+      Buildings_Bridges_Snow_9: 6270478586657944193
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: b5794edd025a76b47b30e4c89b811e6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7791186011888757026
+    second: Buildings_Snow_0
+  - first:
+      213: 1278564527530331263
+    second: Buildings_Snow_1
+  - first:
+      213: 3799955840580254302
+    second: Buildings_Snow_2
+  - first:
+      213: 6977258643686236891
+    second: Buildings_Snow_3
+  - first:
+      213: -5778031226927776405
+    second: Buildings_Snow_4
+  - first:
+      213: -6599111881491066177
+    second: Buildings_Snow_5
+  - first:
+      213: 180591683756775880
+    second: Buildings_Snow_6
+  - first:
+      213: -6248455750719053835
+    second: Buildings_Snow_7
+  - first:
+      213: -6913952786922747236
+    second: Buildings_Snow_8
+  - first:
+      213: 3199055433909573114
+    second: Buildings_Snow_9
+  - first:
+      213: 2542176733117329385
+    second: Buildings_Snow_10
+  - first:
+      213: -3987512328389233388
+    second: Buildings_Snow_11
+  - first:
+      213: 2953911312021030922
+    second: Buildings_Snow_12
+  - first:
+      213: 6420721753648558504
+    second: Buildings_Snow_13
+  - first:
+      213: -6244760223359412562
+    second: Buildings_Snow_14
+  - first:
+      213: -5929268241955399930
+    second: Buildings_Snow_15
+  - first:
+      213: -7415795304121001426
+    second: Buildings_Snow_16
+  - first:
+      213: 3890379360569167152
+    second: Buildings_Snow_17
+  - first:
+      213: -5539800052218860119
+    second: Buildings_Snow_18
+  - first:
+      213: -6743938853541422177
+    second: Buildings_Snow_19
+  - first:
+      213: -792413820126393366
+    second: Buildings_Snow_20
+  - first:
+      213: -2645890677365146321
+    second: Buildings_Snow_21
+  - first:
+      213: -1995148591769164696
+    second: Buildings_Snow_22
+  - first:
+      213: -2995752469273638969
+    second: Buildings_Snow_23
+  - first:
+      213: 7258068667893489591
+    second: Buildings_Snow_24
+  - first:
+      213: -191730763245812490
+    second: Buildings_Snow_25
+  - first:
+      213: 8724634738308956091
+    second: Buildings_Snow_26
+  - first:
+      213: 5899809993374173677
+    second: Buildings_Snow_27
+  - first:
+      213: -2642991378486469752
+    second: Buildings_Snow_28
+  - first:
+      213: 115273022488016272
+    second: Buildings_Snow_29
+  - first:
+      213: -3456993209296081302
+    second: Buildings_Snow_30
+  - first:
+      213: -5951383658519029818
+    second: Buildings_Snow_31
+  - first:
+      213: -5469300705632927563
+    second: Buildings_Snow_32
+  - first:
+      213: -4821703833130663332
+    second: Buildings_Snow_33
+  - first:
+      213: 1505605158759659953
+    second: Buildings_Snow_34
+  - first:
+      213: 5898000068821939138
+    second: Buildings_Snow_35
+  - first:
+      213: 5495432865007530608
+    second: Buildings_Snow_36
+  - first:
+      213: -5218992351542496358
+    second: Buildings_Snow_37
+  - first:
+      213: -8957759172597457050
+    second: Buildings_Snow_38
+  - first:
+      213: 6403411733925620091
+    second: Buildings_Snow_39
+  - first:
+      213: 614034801418668621
+    second: Buildings_Snow_40
+  - first:
+      213: -6918983897236618546
+    second: Buildings_Snow_41
+  - first:
+      213: 6318328047294680274
+    second: Buildings_Snow_42
+  - first:
+      213: 8278509325686436574
+    second: Buildings_Snow_43
+  - first:
+      213: 3994332610851483014
+    second: Buildings_Snow_44
+  - first:
+      213: 238176267973785737
+    second: Buildings_Snow_45
+  - first:
+      213: 6769888311040308658
+    second: Buildings_Snow_46
+  - first:
+      213: -6563903553623571002
+    second: Buildings_Snow_47
+  - first:
+      213: 592331854639471604
+    second: Buildings_Snow_48
+  - first:
+      213: 1841663864931498035
+    second: Buildings_Snow_49
+  - first:
+      213: -597752074040089513
+    second: Buildings_Snow_50
+  - first:
+      213: -3454340540255412017
+    second: Buildings_Snow_51
+  - first:
+      213: 8425832754251721865
+    second: Buildings_Snow_52
+  - first:
+      213: -4791295506461788832
+    second: Buildings_Snow_53
+  - first:
+      213: -4678083838428679603
+    second: Buildings_Snow_54
+  - first:
+      213: 1341363430494274955
+    second: Buildings_Snow_55
+  - first:
+      213: 5163008605009039355
+    second: Buildings_Snow_56
+  - first:
+      213: -7131404850445687254
+    second: Buildings_Snow_57
+  - first:
+      213: 1135424930222481552
+    second: Buildings_Snow_58
+  - first:
+      213: 8036516245302899502
+    second: Buildings_Snow_59
+  - first:
+      213: 4028606620118448389
+    second: Buildings_Snow_60
+  - first:
+      213: 7498307842189429814
+    second: Buildings_Snow_61
+  - first:
+      213: -6842329867336756537
+    second: Buildings_Snow_62
+  - first:
+      213: 9126064957017796332
+    second: Buildings_Snow_63
+  - first:
+      213: -934332448602427682
+    second: Buildings_Snow_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buildings_Snow_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1967
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6d0660a9520e390800000000000000
+      internalID: -7791186011888757026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1967
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c4cd5e9af5eb110800000000000000
+      internalID: 1278564527530331263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1967
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5af4f734b72cb430800000000000000
+      internalID: 3799955840580254302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1960
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd221f2f4c334d060800000000000000
+      internalID: 6977258643686236891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1967
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dfad1663f40dfa0800000000000000
+      internalID: -5778031226927776405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1791
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb25aa615be3b64a0800000000000000
+      internalID: -6599111881491066177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1791
+        width: 160
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c956b7fd27918200800000000000000
+      internalID: 180591683756775880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1791
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffd4a7b9960949a0800000000000000
+      internalID: -6248455750719053835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1647
+        width: 157
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ac5ad6294bc00a0800000000000000
+      internalID: -6913952786922747236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1647
+        width: 146
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af596f2c7f3556c20800000000000000
+      internalID: 3199055433909573114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1647
+        width: 157
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efa8bd0540a74320800000000000000
+      internalID: 2542176733117329385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1503
+        width: 182
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4157ed00aa289a8c0800000000000000
+      internalID: -3987512328389233388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1503
+        width: 186
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08850310b66ef820800000000000000
+      internalID: 2953911312021030922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1503
+        width: 200
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a178df9a6cfa1950800000000000000
+      internalID: 6420721753648558504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1487
+        width: 177
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea65c2bb9a72659a0800000000000000
+      internalID: -6244760223359412562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6075e34d2f107bda0800000000000000
+      internalID: -5929268241955399930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a9bd2267dc51990800000000000000
+      internalID: -7415795304121001426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d8c349a676df530800000000000000
+      internalID: 3890379360569167152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adedc0243dae13b0800000000000000
+      internalID: -5539800052218860119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b55b7f757b862a0800000000000000
+      internalID: -6743938853541422177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb814834d7c005f0800000000000000
+      internalID: -792413820126393366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_21
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2df12d8278e74bd0800000000000000
+      internalID: -2645890677365146321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_22
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8646a713deecf44e0800000000000000
+      internalID: -1995148591769164696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_23
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c702f95003fc66d0800000000000000
+      internalID: -2995752469273638969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_24
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf1f21aff6d9b460800000000000000
+      internalID: 7258068667893489591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_25
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4083cf2e5d65df0800000000000000
+      internalID: -191730763245812490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1071
+        width: 82
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf30f3c111241970800000000000000
+      internalID: 8724634738308956091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1071
+        width: 82
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de90e513ee550e150800000000000000
+      internalID: 5899809993374173677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1071
+        width: 162
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bd4ec2855325bd0800000000000000
+      internalID: -2642991378486469752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 911
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09575950438899100800000000000000
+      internalID: 115273022488016272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 911
+        width: 133
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e28f8fdfa4600d0800000000000000
+      internalID: -3456993209296081302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 911
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c798e72810786da0800000000000000
+      internalID: -5951383658519029818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0c4fe5cf32914b0800000000000000
+      internalID: -5469300705632927563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c528b1609edd51db0800000000000000
+      internalID: -4821703833130663332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b97dd33aebf4e410800000000000000
+      internalID: 1505605158759659953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c37c5b40d7e9d150800000000000000
+      internalID: 5898000068821939138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_36
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072f7cd1313b34c40800000000000000
+      internalID: 5495432865007530608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_37
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9334d09b1a6297b0800000000000000
+      internalID: -5218992351542496358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_38
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fd4d52e75afa380800000000000000
+      internalID: -8957759172597457050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_39
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7964379b0d7dd850800000000000000
+      internalID: 6403411733925620091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_40
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a894a066d758800800000000000000
+      internalID: 614034801418668621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_41
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec24096cdc4daff90800000000000000
+      internalID: -6918983897236618546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_42
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc036112e53fa750800000000000000
+      internalID: 6318328047294680274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 546
+        width: 161
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed27c4bce5c23e270800000000000000
+      internalID: 8278509325686436574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_44
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 546
+        width: 161
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68daf80c858be6730800000000000000
+      internalID: 3994332610851483014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_45
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 546
+        width: 150
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9887186cd0c2e4300800000000000000
+      internalID: 238176267973785737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 432
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b570acec8973fd50800000000000000
+      internalID: 6769888311040308658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5c75abe7458e4a0800000000000000
+      internalID: -6563903553623571002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb1fe8fea2683800800000000000000
+      internalID: 592331854639471604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 320
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3383ae01787ee8910800000000000000
+      internalID: 1841663864931498035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_50
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 320
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754661bd7ab54b7f0800000000000000
+      internalID: -597752074040089513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_51
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 320
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc068dc9497bf00d0800000000000000
+      internalID: -3454340540255412017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 224
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c660e7f329ee470800000000000000
+      internalID: 8425832754251721865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 224
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0657b6b4f16e18db0800000000000000
+      internalID: -4791295506461788832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 49
+        width: 70
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4276f4d88b141fb0800000000000000
+      internalID: -4678083838428679603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_55
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 49
+        width: 70
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b858f45eeea7d9210800000000000000
+      internalID: 1341363430494274955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_56
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 49
+        width: 70
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff49d1b8f0b6a740800000000000000
+      internalID: 5163008605009039355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_57
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 49
+        width: 70
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26efa38219280d90800000000000000
+      internalID: -7131404850445687254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 49
+        width: 70
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090a80355f6d1cf00800000000000000
+      internalID: 1135424930222481552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_59
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 49
+        width: 70
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e237fe022f0778f60800000000000000
+      internalID: 8036516245302899502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_60
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 49
+        width: 70
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50972f3606c78e730800000000000000
+      internalID: 4028606620118448389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_61
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 49
+        width: 70
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c0a3631475f0860800000000000000
+      internalID: 7498307842189429814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_62
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 49
+        width: 70
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2d855ec392b01a0800000000000000
+      internalID: -6842329867336756537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_63
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 49
+        width: 70
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeaf28f9bb46ae70800000000000000
+      internalID: 9126064957017796332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Snow_64
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 49
+        width: 70
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede6eea96959803f0800000000000000
+      internalID: -934332448602427682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Buildings_Snow_0: -7791186011888757026
+      Buildings_Snow_1: 1278564527530331263
+      Buildings_Snow_10: 2542176733117329385
+      Buildings_Snow_11: -3987512328389233388
+      Buildings_Snow_12: 2953911312021030922
+      Buildings_Snow_13: 6420721753648558504
+      Buildings_Snow_14: -6244760223359412562
+      Buildings_Snow_15: -5929268241955399930
+      Buildings_Snow_16: -7415795304121001426
+      Buildings_Snow_17: 3890379360569167152
+      Buildings_Snow_18: -5539800052218860119
+      Buildings_Snow_19: -6743938853541422177
+      Buildings_Snow_2: 3799955840580254302
+      Buildings_Snow_20: -792413820126393366
+      Buildings_Snow_21: -2645890677365146321
+      Buildings_Snow_22: -1995148591769164696
+      Buildings_Snow_23: -2995752469273638969
+      Buildings_Snow_24: 7258068667893489591
+      Buildings_Snow_25: -191730763245812490
+      Buildings_Snow_26: 8724634738308956091
+      Buildings_Snow_27: 5899809993374173677
+      Buildings_Snow_28: -2642991378486469752
+      Buildings_Snow_29: 115273022488016272
+      Buildings_Snow_3: 6977258643686236891
+      Buildings_Snow_30: -3456993209296081302
+      Buildings_Snow_31: -5951383658519029818
+      Buildings_Snow_32: -5469300705632927563
+      Buildings_Snow_33: -4821703833130663332
+      Buildings_Snow_34: 1505605158759659953
+      Buildings_Snow_35: 5898000068821939138
+      Buildings_Snow_36: 5495432865007530608
+      Buildings_Snow_37: -5218992351542496358
+      Buildings_Snow_38: -8957759172597457050
+      Buildings_Snow_39: 6403411733925620091
+      Buildings_Snow_4: -5778031226927776405
+      Buildings_Snow_40: 614034801418668621
+      Buildings_Snow_41: -6918983897236618546
+      Buildings_Snow_42: 6318328047294680274
+      Buildings_Snow_43: 8278509325686436574
+      Buildings_Snow_44: 3994332610851483014
+      Buildings_Snow_45: 238176267973785737
+      Buildings_Snow_46: 6769888311040308658
+      Buildings_Snow_47: -6563903553623571002
+      Buildings_Snow_48: 592331854639471604
+      Buildings_Snow_49: 1841663864931498035
+      Buildings_Snow_5: -6599111881491066177
+      Buildings_Snow_50: -597752074040089513
+      Buildings_Snow_51: -3454340540255412017
+      Buildings_Snow_52: 8425832754251721865
+      Buildings_Snow_53: -4791295506461788832
+      Buildings_Snow_54: -4678083838428679603
+      Buildings_Snow_55: 1341363430494274955
+      Buildings_Snow_56: 5163008605009039355
+      Buildings_Snow_57: -7131404850445687254
+      Buildings_Snow_58: 1135424930222481552
+      Buildings_Snow_59: 8036516245302899502
+      Buildings_Snow_6: 180591683756775880
+      Buildings_Snow_60: 4028606620118448389
+      Buildings_Snow_61: 7498307842189429814
+      Buildings_Snow_62: -6842329867336756537
+      Buildings_Snow_63: 9126064957017796332
+      Buildings_Snow_64: -934332448602427682
+      Buildings_Snow_7: -6248455750719053835
+      Buildings_Snow_8: -6913952786922747236
+      Buildings_Snow_9: 3199055433909573114
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

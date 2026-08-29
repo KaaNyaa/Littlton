@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 6cc11fb00b67da94e9365fd0a17619e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7046427780323894427
+    second: Trees_Bushes_Desert_0
+  - first:
+      213: 6388658160821083091
+    second: Trees_Bushes_Desert_1
+  - first:
+      213: -4295085178217119374
+    second: Trees_Bushes_Desert_2
+  - first:
+      213: -8618748355751635643
+    second: Trees_Bushes_Desert_3
+  - first:
+      213: 5621143027943116959
+    second: Trees_Bushes_Desert_4
+  - first:
+      213: 8441127605712753165
+    second: Trees_Bushes_Desert_5
+  - first:
+      213: -442181981667436339
+    second: Trees_Bushes_Desert_6
+  - first:
+      213: -7391746009867949990
+    second: Trees_Bushes_Desert_7
+  - first:
+      213: -5471830881515800619
+    second: Trees_Bushes_Desert_8
+  - first:
+      213: 5017456405932604599
+    second: Trees_Bushes_Desert_9
+  - first:
+      213: 5234777665383011826
+    second: Trees_Bushes_Desert_10
+  - first:
+      213: 1069253197483198627
+    second: Trees_Bushes_Desert_11
+  - first:
+      213: 2460890428205809224
+    second: Trees_Bushes_Desert_12
+  - first:
+      213: -6585132095381388988
+    second: Trees_Bushes_Desert_13
+  - first:
+      213: 7532783176030152298
+    second: Trees_Bushes_Desert_14
+  - first:
+      213: 3429586273694636503
+    second: Trees_Bushes_Desert_15
+  - first:
+      213: -59095686808701167
+    second: Trees_Bushes_Desert_16
+  - first:
+      213: -6940455521067078262
+    second: Trees_Bushes_Desert_17
+  - first:
+      213: 4468772876181934743
+    second: Trees_Bushes_Desert_18
+  - first:
+      213: -6901325750147974995
+    second: Trees_Bushes_Desert_19
+  - first:
+      213: 357087187093846536
+    second: Trees_Bushes_Desert_20
+  - first:
+      213: -1281719491134766809
+    second: Trees_Bushes_Desert_21
+  - first:
+      213: -3299592139195365994
+    second: Trees_Bushes_Desert_22
+  - first:
+      213: -1779715400252773201
+    second: Trees_Bushes_Desert_23
+  - first:
+      213: 6246569244211409406
+    second: Trees_Bushes_Desert_24
+  - first:
+      213: -5663732800286598876
+    second: Trees_Bushes_Desert_25
+  - first:
+      213: 1339121320370856061
+    second: Trees_Bushes_Desert_26
+  - first:
+      213: -4256612761163133018
+    second: Trees_Bushes_Desert_27
+  - first:
+      213: 1123748071259674042
+    second: Trees_Bushes_Desert_28
+  - first:
+      213: -6124482020351617109
+    second: Trees_Bushes_Desert_29
+  - first:
+      213: -5402879169289469842
+    second: Trees_Bushes_Desert_30
+  - first:
+      213: -1512739988647162843
+    second: Trees_Bushes_Desert_31
+  - first:
+      213: 3950809778587676393
+    second: Trees_Bushes_Desert_32
+  - first:
+      213: -1338693485762630156
+    second: Trees_Bushes_Desert_33
+  - first:
+      213: 8334929460003236485
+    second: Trees_Bushes_Desert_34
+  - first:
+      213: 1574041819853865809
+    second: Trees_Bushes_Desert_35
+  - first:
+      213: -7612301802323954735
+    second: Trees_Bushes_Desert_36
+  - first:
+      213: -6339083422260200270
+    second: Trees_Bushes_Desert_37
+  - first:
+      213: 3538783605905905520
+    second: Trees_Bushes_Desert_38
+  - first:
+      213: 8248733688903722013
+    second: Trees_Bushes_Desert_39
+  - first:
+      213: -1951110864902130326
+    second: Trees_Bushes_Desert_40
+  - first:
+      213: 8778152947682008175
+    second: Trees_Bushes_Desert_41
+  - first:
+      213: 4052109849703990300
+    second: Trees_Bushes_Desert_42
+  - first:
+      213: -891361212421716317
+    second: Trees_Bushes_Desert_43
+  - first:
+      213: 3503215162422695357
+    second: Trees_Bushes_Desert_44
+  - first:
+      213: -3482568419444862462
+    second: Trees_Bushes_Desert_45
+  - first:
+      213: 6755458986028448912
+    second: Trees_Bushes_Desert_46
+  - first:
+      213: 3739897294095244861
+    second: Trees_Bushes_Desert_47
+  - first:
+      213: 91101368358206916
+    second: Trees_Bushes_Desert_48
+  - first:
+      213: -6196489123424006048
+    second: Trees_Bushes_Desert_49
+  - first:
+      213: 7778066747559110726
+    second: Trees_Bushes_Desert_50
+  - first:
+      213: 4038267239553806055
+    second: Trees_Bushes_Desert_51
+  - first:
+      213: 582738140433214602
+    second: Trees_Bushes_Desert_52
+  - first:
+      213: 2258749010045043428
+    second: Trees_Bushes_Desert_53
+  - first:
+      213: 3528618213228292517
+    second: Trees_Bushes_Desert_54
+  - first:
+      213: -7551194107330812858
+    second: Trees_Bushes_Desert_55
+  - first:
+      213: 5778233616274131106
+    second: Trees_Bushes_Desert_56
+  - first:
+      213: 7711742707810821408
+    second: Trees_Bushes_Desert_57
+  - first:
+      213: -8673573342750854268
+    second: Trees_Bushes_Desert_58
+  - first:
+      213: -4836599695786035873
+    second: Trees_Bushes_Desert_59
+  - first:
+      213: 4205518328457852842
+    second: Trees_Bushes_Desert_60
+  - first:
+      213: 6201112386613810927
+    second: Trees_Bushes_Desert_61
+  - first:
+      213: 8366969195776620367
+    second: Trees_Bushes_Desert_62
+  - first:
+      213: 8863508679103235136
+    second: Trees_Bushes_Desert_63
+  - first:
+      213: 1536085891541197767
+    second: Trees_Bushes_Desert_64
+  - first:
+      213: 6979225559554080232
+    second: Trees_Bushes_Desert_65
+  - first:
+      213: -769963582514490009
+    second: Trees_Bushes_Desert_66
+  - first:
+      213: 3682856404017294890
+    second: Trees_Bushes_Desert_67
+  - first:
+      213: 5866638725920023570
+    second: Trees_Bushes_Desert_68
+  - first:
+      213: -5797335502967676278
+    second: Trees_Bushes_Desert_69
+  - first:
+      213: 5834664027846043033
+    second: Trees_Bushes_Desert_70
+  - first:
+      213: 4524136540740955583
+    second: Trees_Bushes_Desert_71
+  - first:
+      213: -5914451283707879509
+    second: Trees_Bushes_Desert_72
+  - first:
+      213: -5138343226267628469
+    second: Trees_Bushes_Desert_73
+  - first:
+      213: -9029403817483951332
+    second: Trees_Bushes_Desert_74
+  - first:
+      213: -7361056157342443257
+    second: Trees_Bushes_Desert_75
+  - first:
+      213: 8824833145107554490
+    second: Trees_Bushes_Desert_76
+  - first:
+      213: -4164424521961699283
+    second: Trees_Bushes_Desert_77
+  - first:
+      213: 79185218483662219
+    second: Trees_Bushes_Desert_78
+  - first:
+      213: 1570259962081019628
+    second: Trees_Bushes_Desert_79
+  - first:
+      213: 6309493333124780388
+    second: Trees_Bushes_Desert_80
+  - first:
+      213: -1133276629681708383
+    second: Trees_Bushes_Desert_81
+  - first:
+      213: -2176540048995166376
+    second: Trees_Bushes_Desert_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_0
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1312
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b9952744f063e90800000000000000
+      internalID: -7046427780323894427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_1
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1312
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db142bafb219a850800000000000000
+      internalID: 6388658160821083091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1231
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271c25869cac464c0800000000000000
+      internalID: -4295085178217119374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_3
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1264
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54511f6d80e046880800000000000000
+      internalID: -8618748355751635643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_4
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1264
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9096344dcf420e40800000000000000
+      internalID: 5621143027943116959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_5
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1232
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02904a95d8e42570800000000000000
+      internalID: 8441127605712753165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_6
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc852a894dd0dd9f0800000000000000
+      internalID: -442181981667436339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_7
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1120
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58e8ebca2e3b6990800000000000000
+      internalID: -7391746009867949990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_8
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1185
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7fc34edc62014b0800000000000000
+      internalID: -5471830881515800619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_9
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1137
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcfe9f740691a540800000000000000
+      internalID: 5017456405932604599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_10
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1009
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f59d473d8aa5a840800000000000000
+      internalID: 5234777665383011826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_11
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1072
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8cfe23e10c6de00800000000000000
+      internalID: 1069253197483198627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_12
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1008
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ebd5c5ec6d62220800000000000000
+      internalID: 2460890428205809224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441c4cfaf39ec94a0800000000000000
+      internalID: -6585132095381388988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 976
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66e0516362d98860800000000000000
+      internalID: 7532783176030152298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9df129b86589f20800000000000000
+      internalID: 3429586273694636503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 976
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117720439cc0e2ff0800000000000000
+      internalID: -59095686808701167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8de567c97c8eaf90800000000000000
+      internalID: -6940455521067078262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_18
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 976
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79299ba1145440e30800000000000000
+      internalID: 4468772876181934743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 928
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da87c278bc09930a0800000000000000
+      internalID: -6901325750147974995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_20
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 976
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a729c97e0a4f400800000000000000
+      internalID: 357087187093846536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 928
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721c735e9ea663ee0800000000000000
+      internalID: -1281719491134766809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_22
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 976
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695c69f6e6e7532d0800000000000000
+      internalID: -3299592139195365994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_23
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 944
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac24a6d54e2d47e0800000000000000
+      internalID: -1779715400252773201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_24
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 944
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1f912c1a540b650800000000000000
+      internalID: 6246569244211409406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_25
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 975
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4295030a6016661b0800000000000000
+      internalID: -5663732800286598876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_26
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 928
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d706bd3feb3859210800000000000000
+      internalID: 1339121320370856061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_27
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 976
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af0a780f397de4c0800000000000000
+      internalID: -4256612761163133018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 928
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5967cbaea589f00800000000000000
+      internalID: 1123748071259674042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_29
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 976
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7dca72d08710ba0800000000000000
+      internalID: -6124482020351617109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 928
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60c42e650e1505b0800000000000000
+      internalID: -5402879169289469842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_31
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 976
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c4823cefaa10be0800000000000000
+      internalID: -1512739988647162843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_32
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 928
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeabd3bf8814d630800000000000000
+      internalID: 3950809778587676393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 928
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd2dfd0e510c6de0800000000000000
+      internalID: -1338693485762630156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_34
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 928
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a6e6bfe2e9ba370800000000000000
+      internalID: 8334929460003236485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 928
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153cffd02be18d510800000000000000
+      internalID: 1574041819853865809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_36
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 928
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d33a6da7dbab5690800000000000000
+      internalID: -7612301802323954735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_37
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 896
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcfc9e963d0708a0800000000000000
+      internalID: -6339083422260200270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_38
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 927
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0775ff6b0f84c1130800000000000000
+      internalID: 3538783605905905520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_39
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 928
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1467ed1693697270800000000000000
+      internalID: 8248733688903722013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_40
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 928
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a657a1c71034ce4e0800000000000000
+      internalID: -1951110864902130326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_41
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 928
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c52a6e89342d970800000000000000
+      internalID: 8778152947682008175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14c776707cfb3830800000000000000
+      internalID: 4052109849703990300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 879
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6ca0f23bf31a3f0800000000000000
+      internalID: -891361212421716317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_44
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 832
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db597ff11abed9030800000000000000
+      internalID: 3503215162422695357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 879
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202def4597e6bafc0800000000000000
+      internalID: -3482568419444862462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_46
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 832
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c32f4e72630cd50800000000000000
+      internalID: 6755458986028448912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 879
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eddfe26c8c6e330800000000000000
+      internalID: 3739897294095244861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_48
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 832
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdfa8b3638a34100800000000000000
+      internalID: 91101368358206916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_49
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 879
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0609dbff8f5a10aa0800000000000000
+      internalID: -6196489123424006048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_50
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 832
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648e9873f7e31fb60800000000000000
+      internalID: 7778066747559110726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_51
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 879
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eea3b1a8aeca0830800000000000000
+      internalID: 4038267239553806055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ce791504d461800800000000000000
+      internalID: 582738140433214602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_53
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 896
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2008cd140b85f10800000000000000
+      internalID: 2258749010045043428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_54
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 832
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9227bc19b28f030800000000000000
+      internalID: 3528618213228292517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_55
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 879
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6442682a7f4c43790800000000000000
+      internalID: -7551194107330812858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_56
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 832
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a88d3f0cd8603050800000000000000
+      internalID: 5778233616274131106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_57
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 879
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025e54a522d950b60800000000000000
+      internalID: 7711742707810821408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_58
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 832
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483b904dff641a780800000000000000
+      internalID: -8673573342750854268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_59
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 879
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5539ebb332f0ecb0800000000000000
+      internalID: -4836599695786035873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 847
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7ff1053a00d5a30800000000000000
+      internalID: 4205518328457852842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 847
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe614685cd6ce0650800000000000000
+      internalID: 6201112386613810927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 847
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47b6e847227d1470800000000000000
+      internalID: 8366969195776620367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_63
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 847
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0444a89ce22810b70800000000000000
+      internalID: 8863508679103235136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_64
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 847
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c36dc5daf5415510800000000000000
+      internalID: 1536085891541197767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_65
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 833
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed3c8c3ba03bd060800000000000000
+      internalID: 6979225559554080232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_66
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 833
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7659c3e733a8055f0800000000000000
+      internalID: -769963582514490009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_67
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 847
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e293803622c1330800000000000000
+      internalID: 3682856404017294890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_68
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 847
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2146304a6dc7a6150800000000000000
+      internalID: 5866638725920023570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_69
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 847
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82e9dd531abb8fa0800000000000000
+      internalID: -5797335502967676278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_70
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 688
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995638b1504e8f050800000000000000
+      internalID: 5834664027846043033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_71
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 560
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdaa32c636f8ce30800000000000000
+      internalID: 4524136540740955583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_72
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 464
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf1d31c4e5abeda0800000000000000
+      internalID: -5914451283707879509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_73
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 511
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c88405f00f0b8b0800000000000000
+      internalID: -5138343226267628469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_74
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 447
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13205d511d11b280800000000000000
+      internalID: -9029403817483951332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_75
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 352
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709d6e9ec6648d990800000000000000
+      internalID: -7361056157342443257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_76
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 401
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0aa305dfa187a70800000000000000
+      internalID: 8824833145107554490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_77
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 353
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d280c8a16fdf436c0800000000000000
+      internalID: -4164424521961699283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_78
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 241
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d2e236982591100800000000000000
+      internalID: 79185218483662219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_79
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 306
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce68bdcad1faac510800000000000000
+      internalID: 1570259962081019628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_80
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 258
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4611991e1c2df8750800000000000000
+      internalID: 6309493333124780388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_81
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 159
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2e19fd8eac540f0800000000000000
+      internalID: -1133276629681708383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Desert_82
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 160
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8575b347b506bc1e0800000000000000
+      internalID: -2176540048995166376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trees_Bushes_Desert_0: -7046427780323894427
+      Trees_Bushes_Desert_1: 6388658160821083091
+      Trees_Bushes_Desert_10: 5234777665383011826
+      Trees_Bushes_Desert_11: 1069253197483198627
+      Trees_Bushes_Desert_12: 2460890428205809224
+      Trees_Bushes_Desert_13: -6585132095381388988
+      Trees_Bushes_Desert_14: 7532783176030152298
+      Trees_Bushes_Desert_15: 3429586273694636503
+      Trees_Bushes_Desert_16: -59095686808701167
+      Trees_Bushes_Desert_17: -6940455521067078262
+      Trees_Bushes_Desert_18: 4468772876181934743
+      Trees_Bushes_Desert_19: -6901325750147974995
+      Trees_Bushes_Desert_2: -4295085178217119374
+      Trees_Bushes_Desert_20: 357087187093846536
+      Trees_Bushes_Desert_21: -1281719491134766809
+      Trees_Bushes_Desert_22: -3299592139195365994
+      Trees_Bushes_Desert_23: -1779715400252773201
+      Trees_Bushes_Desert_24: 6246569244211409406
+      Trees_Bushes_Desert_25: -5663732800286598876
+      Trees_Bushes_Desert_26: 1339121320370856061
+      Trees_Bushes_Desert_27: -4256612761163133018
+      Trees_Bushes_Desert_28: 1123748071259674042
+      Trees_Bushes_Desert_29: -6124482020351617109
+      Trees_Bushes_Desert_3: -8618748355751635643
+      Trees_Bushes_Desert_30: -5402879169289469842
+      Trees_Bushes_Desert_31: -1512739988647162843
+      Trees_Bushes_Desert_32: 3950809778587676393
+      Trees_Bushes_Desert_33: -1338693485762630156
+      Trees_Bushes_Desert_34: 8334929460003236485
+      Trees_Bushes_Desert_35: 1574041819853865809
+      Trees_Bushes_Desert_36: -7612301802323954735
+      Trees_Bushes_Desert_37: -6339083422260200270
+      Trees_Bushes_Desert_38: 3538783605905905520
+      Trees_Bushes_Desert_39: 8248733688903722013
+      Trees_Bushes_Desert_4: 5621143027943116959
+      Trees_Bushes_Desert_40: -1951110864902130326
+      Trees_Bushes_Desert_41: 8778152947682008175
+      Trees_Bushes_Desert_42: 4052109849703990300
+      Trees_Bushes_Desert_43: -891361212421716317
+      Trees_Bushes_Desert_44: 3503215162422695357
+      Trees_Bushes_Desert_45: -3482568419444862462
+      Trees_Bushes_Desert_46: 6755458986028448912
+      Trees_Bushes_Desert_47: 3739897294095244861
+      Trees_Bushes_Desert_48: 91101368358206916
+      Trees_Bushes_Desert_49: -6196489123424006048
+      Trees_Bushes_Desert_5: 8441127605712753165
+      Trees_Bushes_Desert_50: 7778066747559110726
+      Trees_Bushes_Desert_51: 4038267239553806055
+      Trees_Bushes_Desert_52: 582738140433214602
+      Trees_Bushes_Desert_53: 2258749010045043428
+      Trees_Bushes_Desert_54: 3528618213228292517
+      Trees_Bushes_Desert_55: -7551194107330812858
+      Trees_Bushes_Desert_56: 5778233616274131106
+      Trees_Bushes_Desert_57: 7711742707810821408
+      Trees_Bushes_Desert_58: -8673573342750854268
+      Trees_Bushes_Desert_59: -4836599695786035873
+      Trees_Bushes_Desert_6: -442181981667436339
+      Trees_Bushes_Desert_60: 4205518328457852842
+      Trees_Bushes_Desert_61: 6201112386613810927
+      Trees_Bushes_Desert_62: 8366969195776620367
+      Trees_Bushes_Desert_63: 8863508679103235136
+      Trees_Bushes_Desert_64: 1536085891541197767
+      Trees_Bushes_Desert_65: 6979225559554080232
+      Trees_Bushes_Desert_66: -769963582514490009
+      Trees_Bushes_Desert_67: 3682856404017294890
+      Trees_Bushes_Desert_68: 5866638725920023570
+      Trees_Bushes_Desert_69: -5797335502967676278
+      Trees_Bushes_Desert_7: -7391746009867949990
+      Trees_Bushes_Desert_70: 5834664027846043033
+      Trees_Bushes_Desert_71: 4524136540740955583
+      Trees_Bushes_Desert_72: -5914451283707879509
+      Trees_Bushes_Desert_73: -5138343226267628469
+      Trees_Bushes_Desert_74: -9029403817483951332
+      Trees_Bushes_Desert_75: -7361056157342443257
+      Trees_Bushes_Desert_76: 8824833145107554490
+      Trees_Bushes_Desert_77: -4164424521961699283
+      Trees_Bushes_Desert_78: 79185218483662219
+      Trees_Bushes_Desert_79: 1570259962081019628
+      Trees_Bushes_Desert_8: -5471830881515800619
+      Trees_Bushes_Desert_80: 6309493333124780388
+      Trees_Bushes_Desert_81: -1133276629681708383
+      Trees_Bushes_Desert_82: -2176540048995166376
+      Trees_Bushes_Desert_9: 5017456405932604599
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: ad5f13a11be976b4a81c0194084b4f1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1032085552589000503
+    second: Buildings_Hay_0
+  - first:
+      213: 1975618827859887648
+    second: Buildings_Hay_1
+  - first:
+      213: 1854078097908796901
+    second: Buildings_Hay_2
+  - first:
+      213: 4840220192536686936
+    second: Buildings_Hay_3
+  - first:
+      213: -399320385651387932
+    second: Buildings_Hay_4
+  - first:
+      213: -5050544595281778613
+    second: Buildings_Hay_5
+  - first:
+      213: 1195309558982097851
+    second: Buildings_Hay_6
+  - first:
+      213: 6549249971722646277
+    second: Buildings_Hay_7
+  - first:
+      213: 3235083303963830336
+    second: Buildings_Hay_8
+  - first:
+      213: 7882175499749544057
+    second: Buildings_Hay_9
+  - first:
+      213: -2814860713340642242
+    second: Buildings_Hay_10
+  - first:
+      213: -7325980612135474852
+    second: Buildings_Hay_11
+  - first:
+      213: 8184533411912994866
+    second: Buildings_Hay_12
+  - first:
+      213: -6370577704627199548
+    second: Buildings_Hay_13
+  - first:
+      213: 8879070363739164237
+    second: Buildings_Hay_14
+  - first:
+      213: 1040768911245115700
+    second: Buildings_Hay_15
+  - first:
+      213: -1222428559455539837
+    second: Buildings_Hay_16
+  - first:
+      213: 7063919497673083250
+    second: Buildings_Hay_17
+  - first:
+      213: -5378419308944789280
+    second: Buildings_Hay_18
+  - first:
+      213: 1924788846355818971
+    second: Buildings_Hay_19
+  - first:
+      213: -8628618961287511714
+    second: Buildings_Hay_20
+  - first:
+      213: -2515824778572963616
+    second: Buildings_Hay_21
+  - first:
+      213: -3739923423665082111
+    second: Buildings_Hay_22
+  - first:
+      213: -2401554829087607673
+    second: Buildings_Hay_23
+  - first:
+      213: -3631752060355245119
+    second: Buildings_Hay_24
+  - first:
+      213: 3637334654999084347
+    second: Buildings_Hay_25
+  - first:
+      213: -2941570494813310379
+    second: Buildings_Hay_26
+  - first:
+      213: -3128431481025037072
+    second: Buildings_Hay_27
+  - first:
+      213: -1554969223479136129
+    second: Buildings_Hay_28
+  - first:
+      213: -5298559834752648809
+    second: Buildings_Hay_29
+  - first:
+      213: 2127947361301994332
+    second: Buildings_Hay_30
+  - first:
+      213: 582468735147722010
+    second: Buildings_Hay_31
+  - first:
+      213: 8498301681570498111
+    second: Buildings_Hay_32
+  - first:
+      213: 6276210367633962036
+    second: Buildings_Hay_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buildings_Hay_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1343
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0be1c78ab4da1f0800000000000000
+      internalID: -1032085552589000503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1215
+        width: 159
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026892e4bdeca6b10800000000000000
+      internalID: 1975618827859887648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1071
+        width: 177
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed8fabe4320bb910800000000000000
+      internalID: 1854078097908796901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 927
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85172dade9aeb2340800000000000000
+      internalID: 4840220192536686936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1023
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e15da59934557af0800000000000000
+      internalID: -399320385651387932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1023
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48e5f3137cd8e9b0800000000000000
+      internalID: -5050544595281778613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 975
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbb1cbf5b7969010800000000000000
+      internalID: 1195309558982097851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 975
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503f3cd562c93ea50800000000000000
+      internalID: 6549249971722646277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 927
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048af8fef1355ec20800000000000000
+      internalID: 3235083303963830336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 688
+        width: 82
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970dbdffadc136d60800000000000000
+      internalID: 7882175499749544057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 559
+        width: 96
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cd021581b9fe8d0800000000000000
+      internalID: -2814860713340642242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 175
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59244ea273e45a90800000000000000
+      internalID: -7325980612135474852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 495
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230d36d46cd459170800000000000000
+      internalID: 8184533411912994866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 495
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c12ca594592797a0800000000000000
+      internalID: -6370577704627199548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 495
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e0f56d37bc83b70800000000000000
+      internalID: 8879070363739164237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 495
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43109008fcd817e00800000000000000
+      internalID: 1040768911245115700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 447
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d2c5ea3bf090fe0800000000000000
+      internalID: -1222428559455539837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 447
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27982cc5b55180260800000000000000
+      internalID: 7063919497673083250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_18
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 447
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e07e3572240c55b0800000000000000
+      internalID: -5378419308944789280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_19
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 447
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd92caef14936ba10800000000000000
+      internalID: 1924788846355818971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 399
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51024665ccf04880800000000000000
+      internalID: -8628618961287511714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_21
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 399
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0680c71bef51dd0800000000000000
+      internalID: -2515824778572963616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 246
+        width: 159
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101b74d067f191cc0800000000000000
+      internalID: -3739923423665082111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 65
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784fb9f5b96fbaed0800000000000000
+      internalID: -2401554829087607673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 196
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb8b323ebc699dc0800000000000000
+      internalID: -3631752060355245119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 196
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d3078e8986a7230800000000000000
+      internalID: 3637334654999084347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 196
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552f1e658317d27d0800000000000000
+      internalID: -2941570494813310379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 150
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc7a55a4249594d0800000000000000
+      internalID: -3128431481025037072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_28
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 150
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f707cd5dab3ab6ae0800000000000000
+      internalID: -1554969223479136129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_29
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 150
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7997a6c37ebb776b0800000000000000
+      internalID: -5298559834752648809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 116
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b922bc9dcf78d10800000000000000
+      internalID: 2127947361301994332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 116
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1540438a38551800800000000000000
+      internalID: 582468735147722010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_32
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 70
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f364d1c7a5800f570800000000000000
+      internalID: 8498301681570498111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buildings_Hay_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 70
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434327a9314991750800000000000000
+      internalID: 6276210367633962036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Buildings_Hay_0: -1032085552589000503
+      Buildings_Hay_1: 1975618827859887648
+      Buildings_Hay_10: -2814860713340642242
+      Buildings_Hay_11: -7325980612135474852
+      Buildings_Hay_12: 8184533411912994866
+      Buildings_Hay_13: -6370577704627199548
+      Buildings_Hay_14: 8879070363739164237
+      Buildings_Hay_15: 1040768911245115700
+      Buildings_Hay_16: -1222428559455539837
+      Buildings_Hay_17: 7063919497673083250
+      Buildings_Hay_18: -5378419308944789280
+      Buildings_Hay_19: 1924788846355818971
+      Buildings_Hay_2: 1854078097908796901
+      Buildings_Hay_20: -8628618961287511714
+      Buildings_Hay_21: -2515824778572963616
+      Buildings_Hay_22: -3739923423665082111
+      Buildings_Hay_23: -2401554829087607673
+      Buildings_Hay_24: -3631752060355245119
+      Buildings_Hay_25: 3637334654999084347
+      Buildings_Hay_26: -2941570494813310379
+      Buildings_Hay_27: -3128431481025037072
+      Buildings_Hay_28: -1554969223479136129
+      Buildings_Hay_29: -5298559834752648809
+      Buildings_Hay_3: 4840220192536686936
+      Buildings_Hay_30: 2127947361301994332
+      Buildings_Hay_31: 582468735147722010
+      Buildings_Hay_32: 8498301681570498111
+      Buildings_Hay_33: 6276210367633962036
+      Buildings_Hay_4: -399320385651387932
+      Buildings_Hay_5: -5050544595281778613
+      Buildings_Hay_6: 1195309558982097851
+      Buildings_Hay_7: 6549249971722646277
+      Buildings_Hay_8: 3235083303963830336
+      Buildings_Hay_9: 7882175499749544057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

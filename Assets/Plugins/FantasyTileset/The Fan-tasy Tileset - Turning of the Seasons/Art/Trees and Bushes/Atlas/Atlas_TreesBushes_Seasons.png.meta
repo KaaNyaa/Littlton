@@ -1,0 +1,3510 @@
+fileFormatVersion: 2
+guid: 9b4db92cbae91954d897e7d83b62a75f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -766065106368588460
+    second: Atlas_TreesBushes_Seasons_0
+  - first:
+      213: 6362874751845753608
+    second: Atlas_TreesBushes_Seasons_1
+  - first:
+      213: 1933480612408384444
+    second: Atlas_TreesBushes_Seasons_2
+  - first:
+      213: -9065275985323606256
+    second: Atlas_TreesBushes_Seasons_3
+  - first:
+      213: 2853869299170404534
+    second: Atlas_TreesBushes_Seasons_4
+  - first:
+      213: -4970567581490046526
+    second: Atlas_TreesBushes_Seasons_5
+  - first:
+      213: -7763689383894941009
+    second: Atlas_TreesBushes_Seasons_6
+  - first:
+      213: -3243436537652957738
+    second: Atlas_TreesBushes_Seasons_7
+  - first:
+      213: 8107530226661398278
+    second: Atlas_TreesBushes_Seasons_8
+  - first:
+      213: -2537185390665529883
+    second: Atlas_TreesBushes_Seasons_9
+  - first:
+      213: 8741974856341561713
+    second: Atlas_TreesBushes_Seasons_10
+  - first:
+      213: -7716658863530815553
+    second: Atlas_TreesBushes_Seasons_11
+  - first:
+      213: -7286325204781442729
+    second: Atlas_TreesBushes_Seasons_12
+  - first:
+      213: -860214827703444150
+    second: Atlas_TreesBushes_Seasons_13
+  - first:
+      213: 1249268271577316734
+    second: Atlas_TreesBushes_Seasons_14
+  - first:
+      213: -8780887640298866001
+    second: Atlas_TreesBushes_Seasons_15
+  - first:
+      213: 5214049164028039247
+    second: Atlas_TreesBushes_Seasons_16
+  - first:
+      213: 2074017366789483395
+    second: Atlas_TreesBushes_Seasons_17
+  - first:
+      213: -2192401725383514118
+    second: Atlas_TreesBushes_Seasons_18
+  - first:
+      213: -3236938068962930904
+    second: Atlas_TreesBushes_Seasons_19
+  - first:
+      213: 5855247958889492449
+    second: Atlas_TreesBushes_Seasons_20
+  - first:
+      213: -3048667612783857771
+    second: Atlas_TreesBushes_Seasons_21
+  - first:
+      213: -952309305945477598
+    second: Atlas_TreesBushes_Seasons_22
+  - first:
+      213: 7056937262060047421
+    second: Atlas_TreesBushes_Seasons_23
+  - first:
+      213: 3378322080775029562
+    second: Atlas_TreesBushes_Seasons_24
+  - first:
+      213: -6601806827991744108
+    second: Atlas_TreesBushes_Seasons_25
+  - first:
+      213: 2954738819069684075
+    second: Atlas_TreesBushes_Seasons_26
+  - first:
+      213: 2728114181854341794
+    second: Atlas_TreesBushes_Seasons_27
+  - first:
+      213: -5814756295898194394
+    second: Atlas_TreesBushes_Seasons_28
+  - first:
+      213: -5362375459321226864
+    second: Atlas_TreesBushes_Seasons_29
+  - first:
+      213: 3134069334336837907
+    second: Atlas_TreesBushes_Seasons_30
+  - first:
+      213: -8573496543974140282
+    second: Atlas_TreesBushes_Seasons_31
+  - first:
+      213: 128831336474286105
+    second: Atlas_TreesBushes_Seasons_32
+  - first:
+      213: -8592006752060654317
+    second: Atlas_TreesBushes_Seasons_33
+  - first:
+      213: -8616022195229508260
+    second: Atlas_TreesBushes_Seasons_34
+  - first:
+      213: 7027776533017599133
+    second: Atlas_TreesBushes_Seasons_35
+  - first:
+      213: 324078664832161867
+    second: Atlas_TreesBushes_Seasons_36
+  - first:
+      213: -1891347433261127504
+    second: Atlas_TreesBushes_Seasons_37
+  - first:
+      213: 4481205355680557281
+    second: Atlas_TreesBushes_Seasons_38
+  - first:
+      213: 2463125372779123226
+    second: Atlas_TreesBushes_Seasons_39
+  - first:
+      213: -3129520172554933499
+    second: Atlas_TreesBushes_Seasons_40
+  - first:
+      213: -8565069570947585747
+    second: Atlas_TreesBushes_Seasons_41
+  - first:
+      213: 8639171427142107098
+    second: Atlas_TreesBushes_Seasons_42
+  - first:
+      213: 197366868636493897
+    second: Atlas_TreesBushes_Seasons_43
+  - first:
+      213: 8887171986431180821
+    second: Atlas_TreesBushes_Seasons_44
+  - first:
+      213: 7757206607544899272
+    second: Atlas_TreesBushes_Seasons_45
+  - first:
+      213: -589417092963645181
+    second: Atlas_TreesBushes_Seasons_46
+  - first:
+      213: 2153208063666825707
+    second: Atlas_TreesBushes_Seasons_47
+  - first:
+      213: 8859725712414607512
+    second: Atlas_TreesBushes_Seasons_48
+  - first:
+      213: 6552468295083121232
+    second: Atlas_TreesBushes_Seasons_49
+  - first:
+      213: -992151418661900626
+    second: Atlas_TreesBushes_Seasons_50
+  - first:
+      213: -1382548152869323282
+    second: Atlas_TreesBushes_Seasons_51
+  - first:
+      213: 2280016960145605057
+    second: Atlas_TreesBushes_Seasons_52
+  - first:
+      213: -3495427425514252758
+    second: Atlas_TreesBushes_Seasons_53
+  - first:
+      213: 4689886545427941319
+    second: Atlas_TreesBushes_Seasons_54
+  - first:
+      213: -6316827073196455322
+    second: Atlas_TreesBushes_Seasons_55
+  - first:
+      213: 5265875397146699866
+    second: Atlas_TreesBushes_Seasons_56
+  - first:
+      213: -5382487877132560124
+    second: Atlas_TreesBushes_Seasons_57
+  - first:
+      213: 6839333151903365407
+    second: Atlas_TreesBushes_Seasons_58
+  - first:
+      213: -5798966317626178112
+    second: Atlas_TreesBushes_Seasons_59
+  - first:
+      213: -4217055446923507523
+    second: Atlas_TreesBushes_Seasons_60
+  - first:
+      213: 1147109596017407387
+    second: Atlas_TreesBushes_Seasons_61
+  - first:
+      213: -327209698547578043
+    second: Atlas_TreesBushes_Seasons_62
+  - first:
+      213: -7777088502265979343
+    second: Atlas_TreesBushes_Seasons_63
+  - first:
+      213: -2109198990778029289
+    second: Atlas_TreesBushes_Seasons_64
+  - first:
+      213: -5477600826372352702
+    second: Atlas_TreesBushes_Seasons_65
+  - first:
+      213: 4300940901086783301
+    second: Atlas_TreesBushes_Seasons_66
+  - first:
+      213: 4001707043686152613
+    second: Atlas_TreesBushes_Seasons_67
+  - first:
+      213: 5509286392697178198
+    second: Atlas_TreesBushes_Seasons_68
+  - first:
+      213: 7911880778799294586
+    second: Atlas_TreesBushes_Seasons_69
+  - first:
+      213: 4980757890060780734
+    second: Atlas_TreesBushes_Seasons_70
+  - first:
+      213: -3984606925118457778
+    second: Atlas_TreesBushes_Seasons_71
+  - first:
+      213: -158065614559794188
+    second: Atlas_TreesBushes_Seasons_72
+  - first:
+      213: -7737767668790269914
+    second: Atlas_TreesBushes_Seasons_73
+  - first:
+      213: -4427849925895022484
+    second: Atlas_TreesBushes_Seasons_74
+  - first:
+      213: 7473259942492168314
+    second: Atlas_TreesBushes_Seasons_75
+  - first:
+      213: 6403593486726347962
+    second: Atlas_TreesBushes_Seasons_76
+  - first:
+      213: 5219481106621343818
+    second: Atlas_TreesBushes_Seasons_77
+  - first:
+      213: 8838158910513862381
+    second: Atlas_TreesBushes_Seasons_78
+  - first:
+      213: -9208408007124339905
+    second: Atlas_TreesBushes_Seasons_79
+  - first:
+      213: -6117038289080344632
+    second: Atlas_TreesBushes_Seasons_80
+  - first:
+      213: -5163978268821358625
+    second: Atlas_TreesBushes_Seasons_81
+  - first:
+      213: 3047641192419049609
+    second: Atlas_TreesBushes_Seasons_82
+  - first:
+      213: 7334919350953643935
+    second: Atlas_TreesBushes_Seasons_83
+  - first:
+      213: -4477550471920724776
+    second: Atlas_TreesBushes_Seasons_84
+  - first:
+      213: -1938057527306237158
+    second: Atlas_TreesBushes_Seasons_85
+  - first:
+      213: -8662234666472640290
+    second: Atlas_TreesBushes_Seasons_86
+  - first:
+      213: -495304365680368090
+    second: Atlas_TreesBushes_Seasons_87
+  - first:
+      213: 6560002367876438242
+    second: Atlas_TreesBushes_Seasons_88
+  - first:
+      213: -8181407979184328433
+    second: Atlas_TreesBushes_Seasons_89
+  - first:
+      213: 204293705441000404
+    second: Atlas_TreesBushes_Seasons_90
+  - first:
+      213: -7815138393464573991
+    second: Atlas_TreesBushes_Seasons_91
+  - first:
+      213: 4899326237557399256
+    second: Atlas_TreesBushes_Seasons_92
+  - first:
+      213: -6289693014022077906
+    second: Atlas_TreesBushes_Seasons_93
+  - first:
+      213: -8431027443121737044
+    second: Atlas_TreesBushes_Seasons_94
+  - first:
+      213: -8194969054558059428
+    second: Atlas_TreesBushes_Seasons_95
+  - first:
+      213: 2094477434898182377
+    second: Atlas_TreesBushes_Seasons_96
+  - first:
+      213: 6462872180394226130
+    second: Atlas_TreesBushes_Seasons_97
+  - first:
+      213: -3883455792173768609
+    second: Atlas_TreesBushes_Seasons_98
+  - first:
+      213: 8455179932943289968
+    second: Atlas_TreesBushes_Seasons_99
+  - first:
+      213: 2836041257117548460
+    second: Atlas_TreesBushes_Seasons_100
+  - first:
+      213: 4936560991522781318
+    second: Atlas_TreesBushes_Seasons_101
+  - first:
+      213: 9022132020379830822
+    second: Atlas_TreesBushes_Seasons_102
+  - first:
+      213: 7343340764032357753
+    second: Atlas_TreesBushes_Seasons_103
+  - first:
+      213: -6299859548203214907
+    second: Atlas_TreesBushes_Seasons_104
+  - first:
+      213: 2586182556742482178
+    second: Atlas_TreesBushes_Seasons_105
+  - first:
+      213: 2239696291495628168
+    second: Atlas_TreesBushes_Seasons_106
+  - first:
+      213: -3451897051722928051
+    second: Atlas_TreesBushes_Seasons_107
+  - first:
+      213: -4906517603088616694
+    second: Atlas_TreesBushes_Seasons_108
+  - first:
+      213: -3354280369924628628
+    second: Atlas_TreesBushes_Seasons_109
+  - first:
+      213: 8233375378319990049
+    second: Atlas_TreesBushes_Seasons_110
+  - first:
+      213: 6969176896405533382
+    second: Atlas_TreesBushes_Seasons_111
+  - first:
+      213: 2995034173531970975
+    second: Atlas_TreesBushes_Seasons_112
+  - first:
+      213: -2441409504298518189
+    second: Atlas_TreesBushes_Seasons_113
+  - first:
+      213: 6209040877111429282
+    second: Atlas_TreesBushes_Seasons_114
+  - first:
+      213: -9180312522142165275
+    second: Atlas_TreesBushes_Seasons_115
+  - first:
+      213: -7198466057746100815
+    second: Atlas_TreesBushes_Seasons_116
+  - first:
+      213: 3569173491691053665
+    second: Atlas_TreesBushes_Seasons_117
+  - first:
+      213: 8264486411168180069
+    second: Atlas_TreesBushes_Seasons_118
+  - first:
+      213: -4219261107899691067
+    second: Atlas_TreesBushes_Seasons_119
+  - first:
+      213: 606368373124970687
+    second: Atlas_TreesBushes_Seasons_120
+  - first:
+      213: -5459040721228539364
+    second: Atlas_TreesBushes_Seasons_121
+  - first:
+      213: 3753504229298502293
+    second: Atlas_TreesBushes_Seasons_122
+  - first:
+      213: -4512421287656396630
+    second: Atlas_TreesBushes_Seasons_123
+  - first:
+      213: -629068476186688880
+    second: Atlas_TreesBushes_Seasons_124
+  - first:
+      213: 5282480335705334638
+    second: Atlas_TreesBushes_Seasons_125
+  - first:
+      213: 3237560081826013179
+    second: Atlas_TreesBushes_Seasons_126
+  - first:
+      213: -248671261956494801
+    second: Atlas_TreesBushes_Seasons_127
+  - first:
+      213: -4611466504330903323
+    second: Atlas_TreesBushes_Seasons_128
+  - first:
+      213: -4331786372828626119
+    second: Atlas_TreesBushes_Seasons_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1183
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455141438d36e55f0800000000000000
+      internalID: -766065106368588460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1216
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8036116ffd87d4850800000000000000
+      internalID: 6362874751845753608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1183
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbd4ba7f5a15da10800000000000000
+      internalID: 1933480612408384444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1216
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f38ef658ba13280800000000000000
+      internalID: -9065275985323606256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_4
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1183
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8e174d10bfa9720800000000000000
+      internalID: 2853869299170404534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_5
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1216
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9963dae1ff40bb0800000000000000
+      internalID: -4970567581490046526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_6
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1183
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2887e93a5d14490800000000000000
+      internalID: -7763689383894941009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_7
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1216
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd2ca947affcf2d0800000000000000
+      internalID: -3243436537652957738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_8
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1183
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60715ed19cbb38070800000000000000
+      internalID: 8107530226661398278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_9
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1216
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5021c645b1accd0800000000000000
+      internalID: -2537185390665529883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1103
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171a2ab90dbb15970800000000000000
+      internalID: 8741974856341561713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1168
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf4062f5abe8e490800000000000000
+      internalID: -7716658863530815553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1103
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759d603b4d5c1ea90800000000000000
+      internalID: -7286325204781442729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1168
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d563cfb27ef04f0800000000000000
+      internalID: -860214827703444150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1103
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d3884cfda465110800000000000000
+      internalID: 1249268271577316734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_15
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1168
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa3e5bd635042680800000000000000
+      internalID: -8780887640298866001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1103
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f405057e6160c5840800000000000000
+      internalID: 5214049164028039247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_17
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1168
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b6a757ec368cc10800000000000000
+      internalID: 2074017366789483395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1103
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7ef812f360391e0800000000000000
+      internalID: -2192401725383514118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_19
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1168
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f868fe9f51413d0800000000000000
+      internalID: -3236938068962930904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1120
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef60750ff4024150800000000000000
+      internalID: 5855247958889492449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1120
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fa7cd65f4f0b5d0800000000000000
+      internalID: -3048667612783857771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_22
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1120
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e22d65bb7b8c2f0800000000000000
+      internalID: -952309305945477598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_23
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1120
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c8e43fc074fe160800000000000000
+      internalID: 7056937262060047421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_24
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1120
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a334479880632ee20800000000000000
+      internalID: 3378322080775029562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1087
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491cdc5faaba164a0800000000000000
+      internalID: -6601806827991744108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1087
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69a4b21d47510920800000000000000
+      internalID: 2954738819069684075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_27
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1087
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa222ce4653cd520800000000000000
+      internalID: 2728114181854341794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_28
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1087
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e958fe4f5dd4fa0800000000000000
+      internalID: -5814756295898194394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_29
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1087
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099d2ea4ee30595b0800000000000000
+      internalID: -5362375459321226864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 992
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319979e54737e7b20800000000000000
+      internalID: 3134069334336837907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1057
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686d16d4152d40980800000000000000
+      internalID: -8573496543974140282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 992
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9181d7efa63b9c100800000000000000
+      internalID: 128831336474286105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1057
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dbaa3a16f03c880800000000000000
+      internalID: -8592006752060654317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_34
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 992
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5db67c867dbd6880800000000000000
+      internalID: -8616022195229508260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_35
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1057
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c1753a58da78160800000000000000
+      internalID: 7027776533017599133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_36
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 992
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b489a9024db5f7400800000000000000
+      internalID: 324078664832161867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_37
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1057
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8af9db78590c5e0800000000000000
+      internalID: -1891347433261127504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_38
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 992
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8eaee4780703e30800000000000000
+      internalID: 4481205355680557281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_39
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1057
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1250c1f977ce2220800000000000000
+      internalID: 2463125372779123226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1023
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ba175ebf5b194d0800000000000000
+      internalID: -3129520172554933499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_41
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1023
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29692bda92c22980800000000000000
+      internalID: -8565069570947585747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_42
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1023
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf728404a084e770800000000000000
+      internalID: 8639171427142107098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_43
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1023
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948628f0f103db200800000000000000
+      internalID: 197366868636493897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_44
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1023
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510880dd5d3955b70800000000000000
+      internalID: 8887171986431180821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 992
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6d6046f4227ab60800000000000000
+      internalID: 7757206607544899272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_46
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 992
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309cb5dd648f1d7f0800000000000000
+      internalID: -589417092963645181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_47
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 992
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be92e52635bb1ed10800000000000000
+      internalID: 2153208063666825707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_48
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 992
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8980ed7389114fa70800000000000000
+      internalID: 8859725712414607512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_49
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 992
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a507aa23b0fea50800000000000000
+      internalID: 6552468295083121232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 881
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaee1479a8b2b32f0800000000000000
+      internalID: -992151418661900626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 946
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedf95fa7c330dce0800000000000000
+      internalID: -1382548152869323282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_52
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 881
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1485f585f34af10800000000000000
+      internalID: 2280016960145605057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_53
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 946
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26901ca64fbd7fc0800000000000000
+      internalID: -3495427425514252758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_54
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 881
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7cd1907f2d51140800000000000000
+      internalID: 4689886545427941319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_55
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 946
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a0e82be3f1658a0800000000000000
+      internalID: -6316827073196455322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_56
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 881
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58e56e16c5241940800000000000000
+      internalID: 5265875397146699866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_57
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 946
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409daab1bcf8d45b0800000000000000
+      internalID: -5382487877132560124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_58
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 881
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19b0cbe3413aee50800000000000000
+      internalID: 6839333151903365407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_59
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 946
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5cf6dbbdee58fa0800000000000000
+      internalID: -5798966317626178112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_60
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 879
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db88ff7f9620a75c0800000000000000
+      internalID: -4217055446923507523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_61
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 879
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b953f05991a5bef00800000000000000
+      internalID: 1147109596017407387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_62
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 879
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b42074384857bf0800000000000000
+      internalID: -327209698547578043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_63
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 879
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e59a3463b321490800000000000000
+      internalID: -7777088502265979343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_64
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 879
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b201261be9ab2e0800000000000000
+      internalID: -2109198990778029289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24590bae117abf3b0800000000000000
+      internalID: -5477600826372352702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_66
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 848
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547e93156f200bb30800000000000000
+      internalID: 4300940901086783301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 800
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a97712ba5be88730800000000000000
+      internalID: 4001707043686152613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_68
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 848
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658cb92e8cae47c40800000000000000
+      internalID: 5509286392697178198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_69
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 800
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78a29d36a5accd60800000000000000
+      internalID: 7911880778799294586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_70
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 848
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb40c4d69e43f1540800000000000000
+      internalID: 4980757890060780734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_71
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 800
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48b0caec15d3b8c0800000000000000
+      internalID: -3984606925118457778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_72
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 848
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fba5f839207ecdf0800000000000000
+      internalID: -158065614559794188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_73
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 800
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628e04b3d4ded9490800000000000000
+      internalID: -7737767668790269914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_74
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 848
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c689940c3fd1d82c0800000000000000
+      internalID: -4427849925895022484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_75
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 800
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70e66a925a56b760800000000000000
+      internalID: 7473259942492168314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_76
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 800
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc345639522ed850800000000000000
+      internalID: 6403593486726347962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_77
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 800
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48270899625f6840800000000000000
+      internalID: 5219481106621343818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_78
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 800
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6d1a9d3b277aa70800000000000000
+      internalID: 8838158910513862381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_79
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 800
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33bd7ca4b9253080800000000000000
+      internalID: -9208408007124339905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf17e5e51aeb1ba0800000000000000
+      internalID: -6117038289080344632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 751
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7f01bdf1dd558b0800000000000000
+      internalID: -5163978268821358625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_82
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 704
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9804cf474856b4a20800000000000000
+      internalID: 3047641192419049609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 751
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f0bb1a94edac560800000000000000
+      internalID: 7334919350953643935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_84
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 704
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d45841a19b8cd1c0800000000000000
+      internalID: -4477550471920724776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_85
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 751
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bc3aa72f2aa15e0800000000000000
+      internalID: -1938057527306237158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_86
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 704
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0f2df177f89c780800000000000000
+      internalID: -8662234666472640290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_87
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 751
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626ebebbd435029f0800000000000000
+      internalID: -495304365680368090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_88
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 704
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e81ffea56fc90b50800000000000000
+      internalID: 6560002367876438242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_89
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 751
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01fb263accc57e80800000000000000
+      internalID: -8181407979184328433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 719
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbb8aeea0cc5d200800000000000000
+      internalID: 204293705441000404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_91
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 719
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfe60b990d0b8390800000000000000
+      internalID: -7815138393464573991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_92
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 719
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de1c5c5147edf340800000000000000
+      internalID: 4899326237557399256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_93
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 719
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2245f8278586b8a0800000000000000
+      internalID: -6289693014022077906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_94
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 719
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2b821c539fefa80800000000000000
+      internalID: -8431027443121737044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_95
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 560
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c548fbd401f954e80800000000000000
+      internalID: -8194969054558059428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_96
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 560
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e07d294124111d10800000000000000
+      internalID: 2094477434898182377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_97
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 560
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1f62d910cb0b950800000000000000
+      internalID: 6462872180394226130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_98
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 560
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50ac8e48813b1ac0800000000000000
+      internalID: -3883455792173768609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_99
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 560
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e881ff955d65570800000000000000
+      internalID: 8455179932943289968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caff7d25f74ab5720800000000000000
+      internalID: 2836041257117548460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_101
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 432
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688f3c71110328440800000000000000
+      internalID: 4936560991522781318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_102
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 432
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aca6f654d053d70800000000000000
+      internalID: 9022132020379830822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_103
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 432
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9755bc8a489c8e560800000000000000
+      internalID: 7343340764032357753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_104
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 432
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c79e767e176298a0800000000000000
+      internalID: -6299859548203214907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_105
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 336
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20972fa4557f3e320800000000000000
+      internalID: 2586182556742482178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_106
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 336
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d4b5329eff41f10800000000000000
+      internalID: 2239696291495628168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_107
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 336
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4036de9be56810d0800000000000000
+      internalID: -3451897051722928051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_108
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 336
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03b3bf5c3c88ebb0800000000000000
+      internalID: -4906517603088616694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_109
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 336
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f939976c33371d0800000000000000
+      internalID: -3354280369924628628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 224
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dd537c843d24270800000000000000
+      internalID: 8233375378319990049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_111
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 224
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c27c17867d77b060800000000000000
+      internalID: 6969176896405533382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_112
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 224
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d578366bf709920800000000000000
+      internalID: 2995034173531970975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_113
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 224
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3593601bdfe5e1ed0800000000000000
+      internalID: -2441409504298518189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_114
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 224
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a84b14e7c1fa2650800000000000000
+      internalID: 6209040877111429282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e655a6866af89080800000000000000
+      internalID: -9180312522142165275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_116
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 113
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd46547249e91c90800000000000000
+      internalID: -7198466057746100815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_117
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 113
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1626cf16160488130800000000000000
+      internalID: 3569173491691053665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_118
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 113
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567e8b49a9a51b270800000000000000
+      internalID: 8264486411168180069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_119
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 113
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf8401806c2275c0800000000000000
+      internalID: -4219261107899691067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8352b92d04a6800800000000000000
+      internalID: 606368373124970687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_121
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 32
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ad7c423679d34b0800000000000000
+      internalID: -5459040721228539364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 31
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a734aa530271430800000000000000
+      internalID: 3753504229298502293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_123
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 32
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa864582fb8a061c0800000000000000
+      internalID: -4512421287656396630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_124
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 31
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0920f79cd891547f0800000000000000
+      internalID: -629068476186688880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_125
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 32
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63e3b6a0e32f4940800000000000000
+      internalID: 5282480335705334638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_126
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 31
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff5938bdbf1eec20800000000000000
+      internalID: 3237560081826013179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_127
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 32
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a2c350eca8c8cf0800000000000000
+      internalID: -248671261956494801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_128
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 31
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e08ebb95a7c000c0800000000000000
+      internalID: -4611466504330903323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_TreesBushes_Seasons_129
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 32
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9330ca4ae3762e3c0800000000000000
+      internalID: -4331786372828626119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas_TreesBushes_Seasons_0: -766065106368588460
+      Atlas_TreesBushes_Seasons_1: 6362874751845753608
+      Atlas_TreesBushes_Seasons_10: 8741974856341561713
+      Atlas_TreesBushes_Seasons_100: 2836041257117548460
+      Atlas_TreesBushes_Seasons_101: 4936560991522781318
+      Atlas_TreesBushes_Seasons_102: 9022132020379830822
+      Atlas_TreesBushes_Seasons_103: 7343340764032357753
+      Atlas_TreesBushes_Seasons_104: -6299859548203214907
+      Atlas_TreesBushes_Seasons_105: 2586182556742482178
+      Atlas_TreesBushes_Seasons_106: 2239696291495628168
+      Atlas_TreesBushes_Seasons_107: -3451897051722928051
+      Atlas_TreesBushes_Seasons_108: -4906517603088616694
+      Atlas_TreesBushes_Seasons_109: -3354280369924628628
+      Atlas_TreesBushes_Seasons_11: -7716658863530815553
+      Atlas_TreesBushes_Seasons_110: 8233375378319990049
+      Atlas_TreesBushes_Seasons_111: 6969176896405533382
+      Atlas_TreesBushes_Seasons_112: 2995034173531970975
+      Atlas_TreesBushes_Seasons_113: -2441409504298518189
+      Atlas_TreesBushes_Seasons_114: 6209040877111429282
+      Atlas_TreesBushes_Seasons_115: -9180312522142165275
+      Atlas_TreesBushes_Seasons_116: -7198466057746100815
+      Atlas_TreesBushes_Seasons_117: 3569173491691053665
+      Atlas_TreesBushes_Seasons_118: 8264486411168180069
+      Atlas_TreesBushes_Seasons_119: -4219261107899691067
+      Atlas_TreesBushes_Seasons_12: -7286325204781442729
+      Atlas_TreesBushes_Seasons_120: 606368373124970687
+      Atlas_TreesBushes_Seasons_121: -5459040721228539364
+      Atlas_TreesBushes_Seasons_122: 3753504229298502293
+      Atlas_TreesBushes_Seasons_123: -4512421287656396630
+      Atlas_TreesBushes_Seasons_124: -629068476186688880
+      Atlas_TreesBushes_Seasons_125: 5282480335705334638
+      Atlas_TreesBushes_Seasons_126: 3237560081826013179
+      Atlas_TreesBushes_Seasons_127: -248671261956494801
+      Atlas_TreesBushes_Seasons_128: -4611466504330903323
+      Atlas_TreesBushes_Seasons_129: -4331786372828626119
+      Atlas_TreesBushes_Seasons_13: -860214827703444150
+      Atlas_TreesBushes_Seasons_14: 1249268271577316734
+      Atlas_TreesBushes_Seasons_15: -8780887640298866001
+      Atlas_TreesBushes_Seasons_16: 5214049164028039247
+      Atlas_TreesBushes_Seasons_17: 2074017366789483395
+      Atlas_TreesBushes_Seasons_18: -2192401725383514118
+      Atlas_TreesBushes_Seasons_19: -3236938068962930904
+      Atlas_TreesBushes_Seasons_2: 1933480612408384444
+      Atlas_TreesBushes_Seasons_20: 5855247958889492449
+      Atlas_TreesBushes_Seasons_21: -3048667612783857771
+      Atlas_TreesBushes_Seasons_22: -952309305945477598
+      Atlas_TreesBushes_Seasons_23: 7056937262060047421
+      Atlas_TreesBushes_Seasons_24: 3378322080775029562
+      Atlas_TreesBushes_Seasons_25: -6601806827991744108
+      Atlas_TreesBushes_Seasons_26: 2954738819069684075
+      Atlas_TreesBushes_Seasons_27: 2728114181854341794
+      Atlas_TreesBushes_Seasons_28: -5814756295898194394
+      Atlas_TreesBushes_Seasons_29: -5362375459321226864
+      Atlas_TreesBushes_Seasons_3: -9065275985323606256
+      Atlas_TreesBushes_Seasons_30: 3134069334336837907
+      Atlas_TreesBushes_Seasons_31: -8573496543974140282
+      Atlas_TreesBushes_Seasons_32: 128831336474286105
+      Atlas_TreesBushes_Seasons_33: -8592006752060654317
+      Atlas_TreesBushes_Seasons_34: -8616022195229508260
+      Atlas_TreesBushes_Seasons_35: 7027776533017599133
+      Atlas_TreesBushes_Seasons_36: 324078664832161867
+      Atlas_TreesBushes_Seasons_37: -1891347433261127504
+      Atlas_TreesBushes_Seasons_38: 4481205355680557281
+      Atlas_TreesBushes_Seasons_39: 2463125372779123226
+      Atlas_TreesBushes_Seasons_4: 2853869299170404534
+      Atlas_TreesBushes_Seasons_40: -3129520172554933499
+      Atlas_TreesBushes_Seasons_41: -8565069570947585747
+      Atlas_TreesBushes_Seasons_42: 8639171427142107098
+      Atlas_TreesBushes_Seasons_43: 197366868636493897
+      Atlas_TreesBushes_Seasons_44: 8887171986431180821
+      Atlas_TreesBushes_Seasons_45: 7757206607544899272
+      Atlas_TreesBushes_Seasons_46: -589417092963645181
+      Atlas_TreesBushes_Seasons_47: 2153208063666825707
+      Atlas_TreesBushes_Seasons_48: 8859725712414607512
+      Atlas_TreesBushes_Seasons_49: 6552468295083121232
+      Atlas_TreesBushes_Seasons_5: -4970567581490046526
+      Atlas_TreesBushes_Seasons_50: -992151418661900626
+      Atlas_TreesBushes_Seasons_51: -1382548152869323282
+      Atlas_TreesBushes_Seasons_52: 2280016960145605057
+      Atlas_TreesBushes_Seasons_53: -3495427425514252758
+      Atlas_TreesBushes_Seasons_54: 4689886545427941319
+      Atlas_TreesBushes_Seasons_55: -6316827073196455322
+      Atlas_TreesBushes_Seasons_56: 5265875397146699866
+      Atlas_TreesBushes_Seasons_57: -5382487877132560124
+      Atlas_TreesBushes_Seasons_58: 6839333151903365407
+      Atlas_TreesBushes_Seasons_59: -5798966317626178112
+      Atlas_TreesBushes_Seasons_6: -7763689383894941009
+      Atlas_TreesBushes_Seasons_60: -4217055446923507523
+      Atlas_TreesBushes_Seasons_61: 1147109596017407387
+      Atlas_TreesBushes_Seasons_62: -327209698547578043
+      Atlas_TreesBushes_Seasons_63: -7777088502265979343
+      Atlas_TreesBushes_Seasons_64: -2109198990778029289
+      Atlas_TreesBushes_Seasons_65: -5477600826372352702
+      Atlas_TreesBushes_Seasons_66: 4300940901086783301
+      Atlas_TreesBushes_Seasons_67: 4001707043686152613
+      Atlas_TreesBushes_Seasons_68: 5509286392697178198
+      Atlas_TreesBushes_Seasons_69: 7911880778799294586
+      Atlas_TreesBushes_Seasons_7: -3243436537652957738
+      Atlas_TreesBushes_Seasons_70: 4980757890060780734
+      Atlas_TreesBushes_Seasons_71: -3984606925118457778
+      Atlas_TreesBushes_Seasons_72: -158065614559794188
+      Atlas_TreesBushes_Seasons_73: -7737767668790269914
+      Atlas_TreesBushes_Seasons_74: -4427849925895022484
+      Atlas_TreesBushes_Seasons_75: 7473259942492168314
+      Atlas_TreesBushes_Seasons_76: 6403593486726347962
+      Atlas_TreesBushes_Seasons_77: 5219481106621343818
+      Atlas_TreesBushes_Seasons_78: 8838158910513862381
+      Atlas_TreesBushes_Seasons_79: -9208408007124339905
+      Atlas_TreesBushes_Seasons_8: 8107530226661398278
+      Atlas_TreesBushes_Seasons_80: -6117038289080344632
+      Atlas_TreesBushes_Seasons_81: -5163978268821358625
+      Atlas_TreesBushes_Seasons_82: 3047641192419049609
+      Atlas_TreesBushes_Seasons_83: 7334919350953643935
+      Atlas_TreesBushes_Seasons_84: -4477550471920724776
+      Atlas_TreesBushes_Seasons_85: -1938057527306237158
+      Atlas_TreesBushes_Seasons_86: -8662234666472640290
+      Atlas_TreesBushes_Seasons_87: -495304365680368090
+      Atlas_TreesBushes_Seasons_88: 6560002367876438242
+      Atlas_TreesBushes_Seasons_89: -8181407979184328433
+      Atlas_TreesBushes_Seasons_9: -2537185390665529883
+      Atlas_TreesBushes_Seasons_90: 204293705441000404
+      Atlas_TreesBushes_Seasons_91: -7815138393464573991
+      Atlas_TreesBushes_Seasons_92: 4899326237557399256
+      Atlas_TreesBushes_Seasons_93: -6289693014022077906
+      Atlas_TreesBushes_Seasons_94: -8431027443121737044
+      Atlas_TreesBushes_Seasons_95: -8194969054558059428
+      Atlas_TreesBushes_Seasons_96: 2094477434898182377
+      Atlas_TreesBushes_Seasons_97: 6462872180394226130
+      Atlas_TreesBushes_Seasons_98: -3883455792173768609
+      Atlas_TreesBushes_Seasons_99: 8455179932943289968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
