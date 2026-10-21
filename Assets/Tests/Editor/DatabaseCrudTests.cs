@@ -29,7 +29,7 @@ public class DatabaseManagerTests
     {
         using (var command = dbConnection.CreateCommand())
         {
-            // Replicate your exact DatabaseManager schema setup
+            // Replicate exact DatabaseManager schema setup
             command.CommandText = "CREATE TABLE IF NOT EXISTS Inventory (" +
                                   "id INTEGER PRIMARY KEY AUTOINCREMENT, " +
                                   "name TEXT UNIQUE, " +
@@ -69,7 +69,7 @@ public class DatabaseManagerTests
     [Test]
     public void Test_AddOrUpdateItem_InsertsAndIncrementsCorrectly()
     {
-        // 1. Simulate AddOrUpdateItem logic for 'Wood'
+        // Simulate AddOrUpdateItem logic for 'Wood'
         using (var command = dbConnection.CreateCommand())
         {
             command.CommandText = "INSERT OR IGNORE INTO Inventory (name, quantity, category) VALUES (@name, 0, @cat); " +
@@ -81,7 +81,7 @@ public class DatabaseManagerTests
             command.ExecuteNonQuery();
         }
 
-        // 2. Increment existing item
+        // Increment existing item
         using (var command = dbConnection.CreateCommand())
         {
             command.CommandText = "INSERT OR IGNORE INTO Inventory (name, quantity, category) VALUES (@name, 0, @cat); " +
@@ -93,7 +93,7 @@ public class DatabaseManagerTests
             command.ExecuteNonQuery();
         }
 
-        // 3. Verify total quantity is 15
+        // Verify total quantity is 15
         int finalQuantity = 0;
         using (var command = dbConnection.CreateCommand())
         {
