@@ -95,4 +95,30 @@ public class PlayerMovement : MonoBehaviour
             currentInteractable.Interact();
         }
     }
+
+    [Header("Testing Override")]
+    [Tooltip("Check this if you want to bypass standard Input System components for automated testing.")]
+    public bool useAutomation = false;
+    private Vector2 automatedMovement;
+    private bool automatedDashRequested;
+
+    // Added methods for Automated Tester
+    public void SetAutomatedMovement(Vector2 newMovement)
+    {
+        movement = newMovement;
+    }
+
+    public void TriggerAutomatedDash()
+    {
+        // Copies the logic inside OnDash
+        if (canDash && !isDashing && movement != Vector2.zero)
+        {
+            StartCoroutine(Dash());
+        }
+        else
+        {
+            Debug.Log("Automated Dash ignored: Cooldown active or zero movement vector.");
+        }
+    }
+
 }
