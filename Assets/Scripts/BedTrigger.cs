@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using System.Collections;
 using System;
+using Random = UnityEngine.Random;
 
 public class BedTrigger : MonoBehaviour
 {
@@ -24,7 +25,10 @@ public class BedTrigger : MonoBehaviour
         yield return StartCoroutine(SceneChanger.Instance.FadeOut());
 
         // Pause for the "Time Passing" feel
-        yield return new WaitForSeconds(1.5f);
+        yield return new WaitForSeconds(3f);
+
+        // Overnight Income Calculation
+        CalculateOvernightIncome();
 
         // Update the Master Switch in the Database
         if (DatabaseManager.Instance != null)
@@ -39,6 +43,26 @@ public class BedTrigger : MonoBehaviour
         yield return StartCoroutine(SceneChanger.Instance.FadeIn());
 
         Debug.Log("Morning! The world has been reset.");
+    }
+
+    private void CalculateOvernightIncome()
+    {
+        if (DatabaseManager.Instance == null) return;
+
+        // Formula: G = x * (y + r)
+        int x = 1;                              // Tool level (hardcoded for now)
+        int y = 5;                              // Base resource yield (hardcoded for testing)
+        int r = Random.Range(4, 9);             // Random number between 4 and 8 (inclusive)
+
+        int gatheredResources = x * (y + r);
+
+        // Convert gathered resources into gold (1 resource = 1 gold, adjust as needed)
+        float earnedGold = gatheredResources;
+
+        // Add gold to database using existing method
+        DatabaseManager.Instance.AddGold(earnedGold);
+
+        Debug.Log($"[Sleep Income] Gathered Resources (G): {gatheredResources} (x={x}, y={y}, r={r}). Added {earnedGold} Gold to inventory!");
     }
 
     private void OnTriggerEnter2D(Collider2D other)

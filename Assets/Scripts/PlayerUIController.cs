@@ -15,6 +15,10 @@ public class PlayerUIController : MonoBehaviour
     public GameObject itemSlotPrefab;
     public TMP_InputField searchField;
 
+    [Header("Gold UI")]
+    [Tooltip("Gold TextMeshPro UI element")]
+    public TextMeshProUGUI goldText;
+
     public static PlayerUIController Instance;
 
     private void Awake()
@@ -56,7 +60,10 @@ public class PlayerUIController : MonoBehaviour
     public void ToggleInventory()
     {
         _isInventoryOpen = !_isInventoryOpen;
-        inventoryPanel.SetActive(_isInventoryOpen);
+        if (inventoryPanel != null)
+        {
+            inventoryPanel.SetActive(_isInventoryOpen);
+        }
 
         // Handle Mouse Cursor
         if (_isInventoryOpen)
@@ -81,24 +88,33 @@ public class PlayerUIController : MonoBehaviour
 
     public void RefreshUI(string search = "")
     {
-        // 1. Clear everything out
-        foreach (Transform child in itemGrid) { Destroy(child.gameObject); }
+        // Refresh the Gold Display from the Database
+        RefreshGoldDisplay();
+
+        // Clear everything out
+        if (itemGrid != null)
+        {
+            foreach (Transform child in itemGrid) { Destroy(child.gameObject); }
+        }
+
+        // --- SAFETY CHECK FOR TESTING ---
+        if (DatabaseManager.Instance == null || itemGrid == null || itemSlotPrefab == null) return;
 
         var items = DatabaseManager.Instance.GetInventoryItems(search);
         items = items.Where(i => i.Quantity > 0).ToList();
         int totalSlots = 24;
 
-        // 2. This loop MUST run 24 times to fill the grid
+        // This loop runs 24 times to fill the grid
         for (int i = 0; i < totalSlots; i++)
         {
             GameObject slot = Instantiate(itemSlotPrefab, itemGrid);
 
-            // Find your components
-            Image iconImage = slot.transform.Find("ItemIcon").GetComponent<Image>();
+            // Find components safely
+            Image iconImage = slot.transform.Find("ItemIcon")?.GetComponent<Image>();
             TextMeshProUGUI countText = slot.GetComponentInChildren<TextMeshProUGUI>();
 
-            // 3. If we have an item for this index, show it
-            if (i < items.Count)
+            // If we have an item for this index, show it
+            if (i < items.Count && iconImage != null)
             {
                 var item = items[i];
                 Debug.Log("UI is drawing item: '" + item.ItemName + "'");
@@ -109,14 +125,23 @@ public class PlayerUIController : MonoBehaviour
                     iconImage.sprite = visualData.itemIcon;
                     iconImage.enabled = true;
                 }
-                countText.text = "x" + item.Quantity;
+                if (countText != null) countText.text = "x" + item.Quantity;
             }
             else
             {
-                // 4. This part creates the "empty" look for the other 23 slots
-                iconImage.enabled = false;
-                countText.text = "";
+                // Creates the "empty" look for the other 23 slots
+                if (iconImage != null) iconImage.enabled = false;
+                if (countText != null) countText.text = "";
             }
+        }
+    }
+
+    public void RefreshGoldDisplay()
+    {
+        if (goldText != null && DatabaseManager.Instance != null)
+        {
+            float totalGold = DatabaseManager.Instance.GetTotalGold();
+            goldText.text = $"Gold: {totalGold:N0}";
         }
     }
 }
