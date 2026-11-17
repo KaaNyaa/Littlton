@@ -8,6 +8,9 @@ public class InventoryManager : MonoBehaviour
     [Header("Inventory Data")]
     public Dictionary<string, int> resources = new Dictionary<string, int>();
 
+    [Header("Equipment")]
+    public ToolType currentEquippedTool = ToolType.None; // Uses standalone ToolType.cs enum
+
     private void Awake()
     {
         // Singleton Enforcement
@@ -19,9 +22,9 @@ public class InventoryManager : MonoBehaviour
         Instance = this;
         DontDestroyOnLoad(gameObject);
 
-        // Initialize with starting values (later load from sql)
-        resources.Add("Wood", 0);
-        resources.Add("Stone", 0);
+        // Initialize with starting values
+        if (!resources.ContainsKey("Wood")) resources.Add("Wood", 0);
+        if (!resources.ContainsKey("Stone")) resources.Add("Stone", 0);
     }
 
     public void AddResource(string resourceName, int amount)

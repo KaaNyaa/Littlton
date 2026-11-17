@@ -4,8 +4,6 @@ using UnityEngine.UI;
 
 public class ToolController : MonoBehaviour
 {
-    // Enum to keep track of our tool types cleanly
-    public enum ToolType { Axe, Pickaxe }
     public ToolType currentTool = ToolType.Axe;
 
     [Header("UI References")]
@@ -15,6 +13,7 @@ public class ToolController : MonoBehaviour
 
     void Start()
     {
+        SyncWithInventory();
         UpdateToolUI();
     }
 
@@ -26,14 +25,9 @@ public class ToolController : MonoBehaviour
         // Get the scroll wheel vector from the New Input System
         Vector2 scrollValue = Mouse.current.scroll.ReadValue();
 
-        if (scrollValue.y > 0f)
+        if (scrollValue.y != 0f)
         {
-            // Scrolled Up -> Switch Tool
-            SwitchTool();
-        }
-        else if (scrollValue.y < 0f)
-        {
-            // Scrolled Down -> Switch Tool
+            // Scrolled Up or Down -> Switch Tool
             SwitchTool();
         }
     }
@@ -50,8 +44,18 @@ public class ToolController : MonoBehaviour
             currentTool = ToolType.Axe;
         }
 
+        SyncWithInventory();
         UpdateToolUI();
         Debug.Log("Equipped Tool: " + currentTool);
+    }
+
+    void SyncWithInventory()
+    {
+        // Tell the global InventoryManager what tool is currently active
+        if (InventoryManager.Instance != null)
+        {
+            InventoryManager.Instance.currentEquippedTool = currentTool;
+        }
     }
 
     void UpdateToolUI()

@@ -6,6 +6,9 @@ public class GatheringNode : Interactable
     [SerializeField] private string resourceName = "Wood";
     [SerializeField] private int maxHits = 3;
 
+    [Header("Tool Requirement")]
+    [SerializeField] private ToolType requiredTool; // This is set in the Inspector (e.g., Axe, Pickaxe)
+
     [Header("Resource Settings")]
     [SerializeField] private GameObject woodPrefab; // Resource PREFAB
     [SerializeField] private int resourceAmount = 2; // How many resources spawn
@@ -27,6 +30,17 @@ public class GatheringNode : Interactable
 
     public override void Interact()
     {
+        // Check if player has the correct tool equipped
+        if (InventoryManager.Instance == null || InventoryManager.Instance.currentEquippedTool != requiredTool)
+        {
+            string equipped = (InventoryManager.Instance != null) ? InventoryManager.Instance.currentEquippedTool.ToString() : "None";
+            Debug.Log($"Wrong tool! You need a {requiredTool} to harvest {resourceName}, but you have a {equipped} equipped.");
+
+            // Optional: Playing a noise here to indicate wrong tool
+            return; // Stop execution here so it doesn't take hits or shake
+        }
+
+        // Correct tool is equipped, proceed with harvesting
         currentHits++;
 
         // Start the shake effect
@@ -36,7 +50,7 @@ public class GatheringNode : Interactable
         }
         Debug.Log($"Hit {gameObject.name}! ({currentHits}/{maxHits})");
 
-        if ( currentHits == maxHits )
+        if (currentHits == maxHits)
         {
             Collect();
         }
@@ -69,7 +83,7 @@ public class GatheringNode : Interactable
 
         // Use the sprite's height as the spawn anchor.
         SpriteRenderer sr = GetComponent<SpriteRenderer>();
-        if (sr != sr.sprite == null)
+        if (sr == null || sr.sprite == null)
         {
             Debug.LogWarning("Tree is missing a sprite. Cannot spawn resources reliably.");
             return;
@@ -89,6 +103,6 @@ public class GatheringNode : Interactable
             // e.g., spawnedResource.transform.SetParent(GameObject.Find("WorldItemsManager").transform);
         }
 
-        Destroy(gameObject); 
+        Destroy(gameObject);
     }
 }

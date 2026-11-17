@@ -96,6 +96,7 @@ MonoBehaviour:
   interactMessage: Press E to interact
   resourceName: Stone
   maxHits: 3
+  requiredTool: 2
   woodPrefab: {fileID: 6427744758781861420, guid: c88f99380984ff5468ef50b15fbc1c11, type: 3}
   resourceAmount: 2
   shakeDuration: 0.15
