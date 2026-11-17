@@ -61,7 +61,7 @@ public class DatabaseManager : MonoBehaviour
                 command.ExecuteNonQuery();
 
                 // Initialize gold at 0 if the table is new
-                command.CommandText = "INSERT OR IGNORE INTO PlayerStats (id, gold) VALUES (1, 0);";
+                command.CommandText = "INSERT OR IGNORE INTO PlayerStats (id, gold) VALUES (1, 500);";
                 command.ExecuteNonQuery();
             }
         }
@@ -198,5 +198,27 @@ public class DatabaseManager : MonoBehaviour
             }
         }
         return currentGold;
+    }
+
+    public bool DeductGold(float amount)
+    {
+        float currentGold = GetTotalGold();
+        if (currentGold >= amount)
+        {
+            using (var connection = new SqliteConnection(_dbPath))
+            {
+                connection.Open();
+                using (var command = connection.CreateCommand())
+                {
+                    command.CommandText = "UPDATE PlayerStats SET gold = gold - @amount WHERE id = 1;";
+                    command.Parameters.Add(new SqliteParameter("@amount", amount));
+                    command.ExecuteNonQuery();
+                }
+            }
+            Debug.Log($"Deducted {amount} gold from persistence!");
+            return true;
+        }
+        Debug.Log("Not enough gold in database!");
+        return false;
     }
 }

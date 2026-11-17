@@ -4,10 +4,10 @@ using UnityEngine;
 public class GatheringNode : Interactable
 {
     [SerializeField] private string resourceName = "Wood";
-    [SerializeField] private int maxHits = 3;
 
     [Header("Tool Requirement")]
-    [SerializeField] private ToolType requiredTool; // This is set in the Inspector (e.g., Axe, Pickaxe)
+    [SerializeField] private ToolType requiredTool; // e.g., Axe
+    [SerializeField] private int requiredTier = 1;  // Minimum tier needed to harvest this node
 
     [Header("Resource Settings")]
     [SerializeField] private GameObject woodPrefab; // Resource PREFAB
@@ -24,33 +24,41 @@ public class GatheringNode : Interactable
 
     private void Start()
     {
-        // Store the original local position to avoid node drifting off
         originalRotation = transform.localRotation;
     }
 
     public override void Interact()
     {
-        // Check if player has the correct tool equipped
-        if (InventoryManager.Instance == null || InventoryManager.Instance.currentEquippedTool != requiredTool)
-        {
-            string equipped = (InventoryManager.Instance != null) ? InventoryManager.Instance.currentEquippedTool.ToString() : "None";
-            Debug.Log($"Wrong tool! You need a {requiredTool} to harvest {resourceName}, but you have a {equipped} equipped.");
+        if (InventoryManager.Instance == null) return;
 
-            // Optional: Playing a noise here to indicate wrong tool
-            return; // Stop execution here so it doesn't take hits or shake
+        // Check if the correct tool type is equipped
+        if (InventoryManager.Instance.currentEquippedTool != requiredTool)
+        {
+            Debug.Log($"Wrong tool! You need a {requiredTool}.");
+            return;
         }
 
-        // Correct tool is equipped, proceed with harvesting
+        // Check if the tool's tier is high enough for this node
+        int playerTier = InventoryManager.Instance.currentToolTier;
+        if (playerTier < requiredTier)
+        {
+            Debug.Log($"Tool tier too low! This node requires Tier {requiredTier}, but your tool is Tier {playerTier}.");
+            return;
+        }
+
+        // Calculate dynamic max hits using your formula: 6 - tier level (minimum 1 hit)
+        int dynamicMaxHits = Mathf.Max(1, 6 - playerTier);
+
         currentHits++;
 
-        // Start the shake effect
         if (!isShaking)
         {
             StartCoroutine(ShakeTree());
         }
-        Debug.Log($"Hit {gameObject.name}! ({currentHits}/{maxHits})");
+        Debug.Log($"Hit {gameObject.name}! ({currentHits}/{dynamicMaxHits}) - Using Tier {playerTier} tool.");
 
-        if (currentHits == maxHits)
+        // Destroy and collect when dynamic max hits are reached
+        if (currentHits >= dynamicMaxHits)
         {
             Collect();
         }
@@ -72,7 +80,6 @@ public class GatheringNode : Interactable
             yield return null;
         }
 
-        // Snap back to exactly where we started
         transform.localRotation = originalRotation;
         isShaking = false;
     }
@@ -81,7 +88,6 @@ public class GatheringNode : Interactable
     {
         Debug.Log($"Spawning {resourceAmount} {resourceName}.");
 
-        // Use the sprite's height as the spawn anchor.
         SpriteRenderer sr = GetComponent<SpriteRenderer>();
         if (sr == null || sr.sprite == null)
         {
@@ -89,18 +95,13 @@ public class GatheringNode : Interactable
             return;
         }
 
-        // Calculate the spawn point 
-        float spawnYOffset = sr.sprite.bounds.extents.y; // Center to Top
+        float spawnYOffset = sr.sprite.bounds.extents.y;
         Vector3 spawnOrigin = transform.position + new Vector3(0, spawnYOffset, 0);
 
-        // Spawn multiple resources with slight random offsets
         for (int i = 0; i < resourceAmount; i++)
         {
             Vector3 randomOffset = new Vector3(Random.Range(-0.3f, 0.3f), 0, 0);
             GameObject spawnedResource = Instantiate(woodPrefab, spawnOrigin + randomOffset, Quaternion.identity);
-
-            // In parent hierarchy for organization
-            // e.g., spawnedResource.transform.SetParent(GameObject.Find("WorldItemsManager").transform);
         }
 
         Destroy(gameObject);

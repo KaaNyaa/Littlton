@@ -10,6 +10,7 @@ public class InventoryManager : MonoBehaviour
 
     [Header("Equipment")]
     public ToolType currentEquippedTool = ToolType.None; // Uses standalone ToolType.cs enum
+    public int currentToolTier = 1;                       // Default tool tier (Tier 1)
 
     private void Awake()
     {
@@ -25,6 +26,9 @@ public class InventoryManager : MonoBehaviour
         // Initialize with starting values
         if (!resources.ContainsKey("Wood")) resources.Add("Wood", 0);
         if (!resources.ContainsKey("Stone")) resources.Add("Stone", 0);
+
+        // Testing purposes
+        if (!resources.ContainsKey("Gold")) resources.Add("Gold", 500);
     }
 
     public void AddResource(string resourceName, int amount)
