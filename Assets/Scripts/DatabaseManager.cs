@@ -12,6 +12,8 @@ public class DatabaseManager : MonoBehaviour
     public bool needsRespawn = false;
     private string _dbPath;
 
+    public string DbPath => _dbPath;
+
     void Awake()
     {
         if (Instance == null)
@@ -71,7 +73,13 @@ public class DatabaseManager : MonoBehaviour
                 command.ExecuteNonQuery();
             }
         }
+        AdminSecurityService.EnsureDefaultPinConfigured(_dbPath);
         Debug.Log("Database initialized and Tables created!");
+    }
+
+    public bool VerifyAdminPin(string pin)
+    {
+        return AdminSecurityService.VerifyPinAgainstDatabase(_dbPath, pin);
     }
 
     public void AddOrUpdateItem(string itemName, int amount, string cat)
@@ -92,6 +100,27 @@ public class DatabaseManager : MonoBehaviour
             }
         }
         Debug.Log($"Successfully saved {amount} {itemName} to SQL!");
+    }
+
+    public void SetItemQuantity(string itemName, int quantity, string category = "Resource")
+    {
+        int clampedQuantity = Mathf.Max(0, quantity);
+        using (var connection = new SqliteConnection(_dbPath))
+        {
+            connection.Open();
+            using (var command = connection.CreateCommand())
+            {
+                command.CommandText = "INSERT OR IGNORE INTO Inventory (name, quantity, category) VALUES (@name, 0, @cat); " +
+                                      "UPDATE Inventory SET quantity = @qty WHERE name = @name;";
+
+                command.Parameters.Add(new SqliteParameter("@name", itemName));
+                command.Parameters.Add(new SqliteParameter("@qty", clampedQuantity));
+                command.Parameters.Add(new SqliteParameter("@cat", category));
+
+                command.ExecuteNonQuery();
+            }
+        }
+        Debug.Log($"Set {itemName} quantity to {clampedQuantity} in SQL!");
     }
 
     public List<InventoryItem> GetInventoryItems(
@@ -186,6 +215,22 @@ public class DatabaseManager : MonoBehaviour
             }
         }
         Debug.Log($"Added {amount} gold to persistence!");
+    }
+
+    public void SetGold(float amount)
+    {
+        float clampedGold = Mathf.Max(0f, amount);
+        using (var connection = new SqliteConnection(_dbPath))
+        {
+            connection.Open();
+            using (var command = connection.CreateCommand())
+            {
+                command.CommandText = "UPDATE PlayerStats SET gold = @amount WHERE id = 1;";
+                command.Parameters.Add(new SqliteParameter("@amount", clampedGold));
+                command.ExecuteNonQuery();
+            }
+        }
+        Debug.Log($"Set gold to {clampedGold} in persistence!");
     }
 
     public float GetTotalGold()
