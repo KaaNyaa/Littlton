@@ -8,12 +8,18 @@ using UnityEngine.UI;
 public class PlayerUIController : MonoBehaviour
 {
     private bool _isInventoryOpen = false;
+    private InventorySortOrder _currentSortOrder = InventorySortOrder.AlphabeticalAscending;
 
     [Header("UI References")]
     public GameObject inventoryPanel;
     public Transform itemGrid;
     public GameObject itemSlotPrefab;
     public TMP_InputField searchField;
+    public TextMeshProUGUI sortButtonLabel;
+
+    [Header("Search Highlight Settings")]
+    public Color normalSlotColor = new Color(0.32f, 0.32f, 0.32f, 1f);
+    public Color matchHighlightColor = new Color(0.2f, 0.85f, 0.35f, 1f);
 
     [Header("Gold UI")]
     [Tooltip("Gold TextMeshPro UI element")]
@@ -33,6 +39,23 @@ public class PlayerUIController : MonoBehaviour
         {
             // If a second UI exists, kill it so we only have one
             Destroy(gameObject);
+        }
+    }
+
+    private void OnEnable()
+    {
+        if (searchField != null)
+        {
+            searchField.onValueChanged.AddListener(OnSearchChanged);
+        }
+        UpdateSortButtonLabel();
+    }
+
+    private void OnDisable()
+    {
+        if (searchField != null)
+        {
+            searchField.onValueChanged.RemoveListener(OnSearchChanged);
         }
     }
 
@@ -71,7 +94,8 @@ public class PlayerUIController : MonoBehaviour
             Cursor.lockState = CursorLockMode.None;
             Cursor.visible = true;
             Time.timeScale = 0f; // Pause game while looking at SQL data
-            RefreshUI();
+            string currentSearch = searchField != null ? searchField.text : "";
+            RefreshUI(currentSearch);
         }
         else
         {
@@ -84,6 +108,29 @@ public class PlayerUIController : MonoBehaviour
     public void OnSearchChanged(string input)
     {
         RefreshUI(input);
+    }
+
+    public void ToggleSortOrder()
+    {
+        _currentSortOrder = _currentSortOrder == InventorySortOrder.AlphabeticalAscending
+            ? InventorySortOrder.AlphabeticalDescending
+            : InventorySortOrder.AlphabeticalAscending;
+
+        UpdateSortButtonLabel();
+        string currentSearch = searchField != null ? searchField.text : "";
+        RefreshUI(currentSearch);
+    }
+
+    private void UpdateSortButtonLabel()
+    {
+        if (sortButtonLabel == null)
+        {
+            return;
+        }
+
+        sortButtonLabel.text = _currentSortOrder == InventorySortOrder.AlphabeticalAscending
+            ? "A - Z"
+            : "Z - A";
     }
 
     public void RefreshUI(string search = "")
@@ -100,8 +147,11 @@ public class PlayerUIController : MonoBehaviour
         // --- SAFETY CHECK FOR TESTING ---
         if (DatabaseManager.Instance == null || itemGrid == null || itemSlotPrefab == null) return;
 
-        var items = DatabaseManager.Instance.GetInventoryItems(search);
-        items = items.Where(i => i.Quantity > 0).ToList();
+        var items = DatabaseManager.Instance.GetInventoryItems("", false, _currentSortOrder)
+            .Where(i => i.Quantity > 0)
+            .ToList();
+
+        HashSet<int> matchingIndices = InventoryQuery.GetMatchingSlotIndices(items, search);
         int totalSlots = 24;
 
         // This loop runs 24 times to fill the grid
@@ -110,8 +160,15 @@ public class PlayerUIController : MonoBehaviour
             GameObject slot = Instantiate(itemSlotPrefab, itemGrid);
 
             // Find components safely
+            Image slotBackground = slot.transform.Find("SlotBackground")?.GetComponent<Image>();
             Image iconImage = slot.transform.Find("ItemIcon")?.GetComponent<Image>();
             TextMeshProUGUI countText = slot.GetComponentInChildren<TextMeshProUGUI>();
+
+            bool isMatch = matchingIndices.Contains(i);
+            if (slotBackground != null)
+            {
+                slotBackground.color = isMatch ? matchHighlightColor : normalSlotColor;
+            }
 
             // If we have an item for this index, show it
             if (i < items.Count && iconImage != null)

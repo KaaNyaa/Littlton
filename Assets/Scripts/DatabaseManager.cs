@@ -6,7 +6,6 @@ using System.Linq;
 using Mono.Data.Sqlite;
 using System.Data;
 
-
 public class DatabaseManager : MonoBehaviour
 {
     public static DatabaseManager Instance;
@@ -15,9 +14,16 @@ public class DatabaseManager : MonoBehaviour
 
     void Awake()
     {
-        if (Instance == null) { Instance = this; DontDestroyOnLoad(gameObject); }
-        else { Destroy(gameObject); return; }
-
+        if (Instance == null)
+        {
+            Instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+            return;
+        }
     }
 
     // Called by Main Menu
@@ -60,7 +66,7 @@ public class DatabaseManager : MonoBehaviour
                                       "gold REAL);";
                 command.ExecuteNonQuery();
 
-                // Initialize gold at 0 if the table is new
+                // Initialize gold at 500 for testing
                 command.CommandText = "INSERT OR IGNORE INTO PlayerStats (id, gold) VALUES (1, 500);";
                 command.ExecuteNonQuery();
             }
@@ -88,7 +94,10 @@ public class DatabaseManager : MonoBehaviour
         Debug.Log($"Successfully saved {amount} {itemName} to SQL!");
     }
 
-    public List<InventoryItem> GetInventoryItems(string searchFilter = "", bool sortByQuantity = false)
+    public List<InventoryItem> GetInventoryItems(
+        string searchFilter = "",
+        bool sortByQuantity = false,
+        InventorySortOrder sortOrder = InventorySortOrder.AlphabeticalAscending)
     {
         List<InventoryItem> items = new List<InventoryItem>();
 
@@ -113,17 +122,17 @@ public class DatabaseManager : MonoBehaviour
             }
         }
 
-        // APPLY SEARCH (LINQ)
-        if (!string.IsNullOrEmpty(searchFilter))
+        if (!string.IsNullOrWhiteSpace(searchFilter))
         {
-            items = items.Where(i => i.ItemName.ToLower().Contains(searchFilter.ToLower())).ToList();
+            items = items.Where(i => InventoryQuery.MatchesSearch(i, searchFilter)).ToList();
         }
 
-        // APPLY SORT (LINQ)
         if (sortByQuantity)
+        {
             return items.OrderByDescending(i => i.Quantity).ToList();
-        else
-            return items.OrderBy(i => i.ItemName).ToList();
+        }
+
+        return InventoryQuery.SortAlphabetically(items, sortOrder);
     }
 
     public int GetItemCount(string name)
@@ -158,7 +167,6 @@ public class DatabaseManager : MonoBehaviour
                 command.CommandText = "UPDATE Inventory SET Quantity = 0 WHERE name IN ('Wood', 'Stone')";
                 command.ExecuteNonQuery();
 
-                
                 Debug.Log("Database updated: Resources cleared.");
             }
         }
